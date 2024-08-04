@@ -1,0 +1,3 @@
+overall이 65이하이고 market value가 10000000이상인 값들 삭제
+overall이 75 이상이고 market value가 10000000 이하인 값들 삭재
+overall이 80이상이고 market value가 30000000이하인 값들

@@ -1,0 +1,1907 @@
+leagueNation,league,team name,num,name,age,nationality,position,market value
+England,EPL,Manchester City,19,Julián Álvarez,24,Argentina,ST,90000000.0
+England,EPL,Manchester City,9,Erling Haaland,23,Norway,ST,180000000.0
+England,EPL,Arsenal FC,9,Gabriel Jesus,27,Brazil,ST,70000000.0
+England,EPL,Arsenal FC,14,Eddie Nketiah,24,England,ST,30000000.0
+England,EPL,Chelsea FC,15,Nicolas Jackson,22,Senegal,ST,35000000.0
+England,EPL,Chelsea FC,36,Deivid Washington,18,Brazil,ST,9000000.0
+England,EPL,Liverpool FC,9,Darwin Núñez,24,Uruguay,ST,70000000.0
+England,EPL,Tottenham Hotspur,9,Richarlison,26,Brazil,ST,40000000.0
+England,EPL,Tottenham Hotspur,16,Timo Werner,28,Germany,ST,17000000.0
+England,EPL,Manchester United,11,Rasmus Højlund,21,Denmark,ST,65000000.0
+England,EPL,Manchester United,9,Anthony Martial,28,France,ST,10000000.0
+England,EPL,Aston Villa,11,Ollie Watkins,28,England,ST,65000000.0
+England,EPL,Aston Villa,24,Jhon Durán,20,Colombia,ST,17000000.0
+England,EPL,Newcastle United,14,Alexander Isak,24,Sweden,ST,70000000.0
+England,EPL,Newcastle United,9,Callum Wilson,32,England,ST,13000000.0
+England,EPL,Brighton & Hove Albion,28,Evan Ferguson,19,Ireland,ST,60000000.0
+England,EPL,Brighton & Hove Albion,9,João Pedro,22,Brazil,ST,45000000.0
+England,EPL,Brighton & Hove Albion,18,Danny Welbeck,33,England,ST,6000000.0
+England,EPL,West Ham United,18,Danny Ings,31,England,ST,9000000.0
+England,EPL,West Ham United,9,Michail Antonio,34,Jamaica,ST,6000000.0
+England,EPL,West Ham United,45,Divin Mubama,19,England,ST,1000000.0
+England,EPL,Brentford FC,17,Ivan Toney,28,England,ST,50000000.0
+England,EPL,Brentford FC,7,Neal Maupay,27,France,ST,12000000.0
+England,EPL,Crystal Palace,22,Odsonne Edouard,26,France,ST,20000000.0
+England,EPL,Crystal Palace,14,Jean-Philippe Mateta,26,France,ST,10000000.0
+England,EPL,Crystal Palace,9,Jordan Ayew,32,Ghana,ST,4000000.0
+England,EPL,Nottingham Forest,9,Taiwo Awoniyi,26,Nigeria,ST,28000000.0
+England,EPL,Nottingham Forest,11,Chris Wood,32,New Zealand,ST,7000000.0
+England,EPL,Nottingham Forest,27,Divock Origi,28,Belgium,ST,5000000.0
+England,EPL,Nottingham Forest,37,Rodrigo Ribeiro,18,Portugal,ST,3000000.0
+England,EPL,AFC Bournemouth,9,Dominic Solanke,26,England,ST,35000000.0
+England,EPL,AFC Bournemouth,26,Enes Ünal,26,Türkiye,ST,20000000.0
+England,EPL,Everton FC,9,Dominic Calvert-Lewin,27,England,ST,22000000.0
+England,EPL,Everton FC,14,Beto,26,Portugal,ST,22000000.0
+England,EPL,Everton FC,28,Chermiti,19,Portugal,ST,9000000.0
+England,EPL,Wolverhampton Wanderers,12,Matheus Cunha,24,Brazil,ST,42000000.0
+England,EPL,Wolverhampton Wanderers,11,Hee-chan Hwang,28,"Korea, South",ST,25000000.0
+England,EPL,Wolverhampton Wanderers,-,Nathan Fraser,19,Ireland,ST,1000000.0
+England,EPL,Wolverhampton Wanderers,84,Leon Chiwome,18,England,ST,200000.0
+England,EPL,Fulham FC,9,Armando Broja,22,Albania,ST,28000000.0
+England,EPL,Fulham FC,19,Rodrigo Muniz,22,Brazil,ST,10000000.0
+England,EPL,Fulham FC,7,Raúl Jiménez,32,Mexico,ST,6000000.0
+England,EPL,Burnley FC,25,Zeki Amdouni,23,Switzerland,ST,15000000.0
+England,EPL,Burnley FC,17,Lyle Foster,23,South Africa,ST,13000000.0
+England,EPL,Burnley FC,23,David Datro Fofana,21,Cote d'Ivoire,ST,10000000.0
+England,EPL,Burnley FC,9,Jay Rodríguez,34,England,ST,1000000.0
+England,EPL,Sheffield United,10,Cameron Archer,22,England,ST,15000000.0
+England,EPL,Sheffield United,9,Oli McBurnie,27,Scotland,ST,4500000.0
+England,EPL,Sheffield United,7,Rhian Brewster,24,England,ST,3000000.0
+England,EPL,Sheffield United,32,William Osula,20,Denmark,ST,3000000.0
+England,EPL,Sheffield United,36,Daniel Jebbison,20,Canada,ST,1000000.0
+England,EPL,Luton Town,9,Carlton Morris,28,England,ST,13000000.0
+England,EPL,Luton Town,11,Elijah Adebayo,26,England,ST,12000000.0
+England,EPL,Luton Town,19,Jacob Brown,26,Scotland,ST,4000000.0
+England,EPL,Luton Town,10,Cauley Woodrow,29,England,ST,1000000.0
+England,Championship,Leicester City,20,Patson Daka,25,Zambia,ST,14000000.0
+England,Championship,Leicester City,14,Kelechi Iheanacho,27,Nigeria,ST,13000000.0
+England,Championship,Leicester City,28,Thomas Cannon,21,Ireland,ST,4500000.0
+England,Championship,Leicester City,9,Jamie Vardy,37,England,ST,1000000.0
+England,Championship,Leeds United,24,Georginio Rutter,21,France,ST,18000000.0
+England,Championship,Leeds United,7,Joël Piroe,24,Netherlands,ST,14000000.0
+England,Championship,Leeds United,9,Patrick Bamford,30,England,ST,5000000.0
+England,Championship,Leeds United,30,Joe Gelhardt,21,England,ST,5000000.0
+England,Championship,Leeds United,49,Mateo Joseph,20,Spain,ST,1200000.0
+England,Championship,Leeds United,16,Sonny Perkins,20,England,ST,1000000.0
+England,Championship,Southampton FC,9,Adam Armstrong,27,England,ST,16000000.0
+England,Championship,Southampton FC,10,Ché Adams,27,Scotland,ST,15000000.0
+England,Championship,Southampton FC,18,Sékou Mara,21,France,ST,6000000.0
+England,Championship,Southampton FC,11,Ross Stewart,27,Scotland,ST,4500000.0
+England,Championship,Hull City,20,Liam Delap,21,England,ST,8000000.0
+England,Championship,Hull City,44,Aaron Connolly,24,Ireland,ST,2500000.0
+England,Championship,Hull City,9,Noah Ohio,21,Netherlands,ST,2000000.0
+England,Championship,Hull City,12,Billy Sharp,38,England,ST,200000.0
+England,Championship,Sunderland AFC,15,Nazariy Rusyn,25,Ukraine,ST,2000000.0
+England,Championship,Sunderland AFC,11,Mason Burstow,20,England,ST,1800000.0
+England,Championship,Sunderland AFC,9,Luís Semedo,20,Portugal,ST,600000.0
+England,Championship,Middlesbrough FC,9,Emmanuel Latte Lath,25,Cote d'Ivoire,ST,4200000.0
+England,Championship,Middlesbrough FC,21,Marcus Forss,24,Finland,ST,3000000.0
+England,Championship,Middlesbrough FC,19,Josh Coburn,21,England,ST,1000000.0
+England,Championship,Middlesbrough FC,13,Matthew Hoppe,23,United States,ST,800000.0
+England,Championship,Norwich City,9,Josh Sargent,24,United States,ST,12000000.0
+England,Championship,Norwich City,14,Sydney van Hooijdonk,24,Netherlands,ST,5000000.0
+England,Championship,Norwich City,10,Ashley Barnes,34,England,ST,600000.0
+England,Championship,Swansea City,9,Jerry Yates,27,England,ST,3500000.0
+England,Championship,Swansea City,10,Jamal Lowe,29,Jamaica,ST,1500000.0
+England,Championship,Swansea City,19,Mykola Kukharevych,22,Ukraine,ST,1500000.0
+England,Championship,Swansea City,20,Liam Cullen,24,Wales,ST,1200000.0
+England,Championship,Watford FC,19,Vakoun Bayo,27,Cote d'Ivoire,ST,2800000.0
+England,Championship,Watford FC,9,Mileta Rajovic,24,Denmark,ST,2200000.0
+England,Championship,Stoke City,19,Ryan Mmaee,26,Morocco,ST,3000000.0
+England,Championship,Stoke City,10,Tyrese Campbell,24,England,ST,2000000.0
+England,Championship,Stoke City,18,Wesley Moraes,27,Brazil,ST,1200000.0
+England,Championship,Stoke City,14,Niall Ennis,24,England,ST,500000.0
+England,Championship,Coventry City,11,Haji Wright,26,United States,ST,7000000.0
+England,Championship,Coventry City,9,Ellis Simms,23,England,ST,6000000.0
+England,Championship,Coventry City,24,Matt Godden,32,England,ST,400000.0
+England,Championship,Coventry City,30,Fábio Tavares,23,Portugal,ST,250000.0
+England,Championship,West Bromwich Albion,9,Josh Maja,25,Nigeria,ST,3500000.0
+England,Championship,West Bromwich Albion,12,Daryl Dike,23,United States,ST,3500000.0
+England,Championship,West Bromwich Albion,21,Brandon Thomas-Asante,25,Ghana,ST,2800000.0
+England,Championship,West Bromwich Albion,25,Callum Marshall,19,Northern Ireland,ST,2000000.0
+England,Championship,Blackburn Rovers,9,Sam Gallagher,28,England,ST,2000000.0
+England,Championship,Blackburn Rovers,20,Harry Leonard,20,England,ST,1000000.0
+England,Championship,Blackburn Rovers,33,Semir Telalovic,24,Germany,ST,400000.0
+England,Championship,Birmingham City,28,Jay Stansfield,21,England,ST,3200000.0
+England,Championship,Birmingham City,8,Tyler Roberts,25,Wales,ST,2800000.0
+England,Championship,Birmingham City,45,Oliver Burke,27,Scotland,ST,2000000.0
+England,Championship,Birmingham City,9,Scott Hogan,32,Ireland,ST,600000.0
+England,Championship,Birmingham City,10,Lukas Jutkiewicz,35,England,ST,300000.0
+England,Championship,Cardiff City,16,Karlan Grant,26,England,ST,3800000.0
+England,Championship,Cardiff City,47,Callum Robinson,29,Ireland,ST,2200000.0
+England,Championship,Cardiff City,9,Kion Etete,22,England,ST,1200000.0
+England,Championship,Cardiff City,20,Famara Diédhiou,31,Senegal,ST,500000.0
+England,Championship,Ipswich Town,10,Conor Chaplin,27,England,ST,3000000.0
+England,Championship,Ipswich Town,27,George Hirst,25,England,ST,3200000.0
+England,Championship,Ipswich Town,24,Kieffer Moore,31,Wales,ST,2200000.0
+England,Championship,Ipswich Town,16,Ali Al-Hamadi,22,Iraq,ST,1000000.0
+England,Championship,Ipswich Town,19,Kayden Jackson,30,England,ST,300000.0
+England,Championship,Ipswich Town,-,Jesse Nwabueze,20,England,ST,
+England,Championship,Millwall FC,21,Michael Obafemi,23,Ireland,ST,2800000.0
+England,Championship,Millwall FC,7,Kevin Nisbet,27,Scotland,ST,2500000.0
+England,Championship,Millwall FC,9,Tom Bradshaw,31,Wales,ST,600000.0
+England,Championship,Millwall FC,22,Aidomo Emakhu,20,Ireland,ST,350000.0
+England,Championship,Bristol City,15,Tommy Conway,21,Scotland,ST,2500000.0
+England,Championship,Bristol City,9,Harry Cornick,29,England,ST,1200000.0
+England,Championship,Bristol City,21,Nahki Wells,33,Bermuda,ST,500000.0
+England,Championship,Preston North End,19,Emil Riis,25,Denmark,ST,3000000.0
+England,Championship,Preston North End,28,Milutin Osmajic,24,Montenegro,ST,2000000.0
+England,Championship,Preston North End,7,Will Keane,31,Ireland,ST,1000000.0
+England,Championship,Preston North End,17,Layton Stewart,21,England,ST,250000.0
+England,Championship,Preston North End,24,Felipe,17,Argentina,ST,200000.0
+England,Championship,Preston North End,9,Ched Evans,35,Wales,ST,150000.0
+England,Championship,Preston North End,-,Finlay Cross-Adair,19,England,ST,75000.0
+England,Championship,Queens Park Rangers,9,Lyndon Dykes,28,Scotland,ST,2000000.0
+England,Championship,Queens Park Rangers,12,Michael Frey,29,Switzerland,ST,1500000.0
+England,Championship,Queens Park Rangers,30,Sinclair Armstrong,20,Ireland,ST,1000000.0
+England,Championship,Huddersfield Town,44,Rhys Healey,29,England,ST,1500000.0
+England,Championship,Huddersfield Town,9,Bojan Radulovic,24,Serbia,ST,1000000.0
+England,Championship,Huddersfield Town,22,Kian Harratt,21,England,ST,500000.0
+England,Championship,Huddersfield Town,25,Danny Ward,33,England,ST,350000.0
+England,Championship,Huddersfield Town,26,Patrick Jones,20,Wales,ST,200000.0
+England,Championship,Plymouth Argyle,9,Ryan Hardie,27,Scotland,ST,1500000.0
+England,Championship,Plymouth Argyle,23,Ben Waine,22,New Zealand,ST,600000.0
+England,Championship,Plymouth Argyle,35,Freddie Issaka,17,Wales,ST,150000.0
+England,Championship,Sheffield Wednesday,12,Iké Ugbo,25,Canada,ST,2800000.0
+England,Championship,Sheffield Wednesday,13,Callum Paterson,29,Scotland,ST,800000.0
+England,Championship,Sheffield Wednesday,27,Ashley Fletcher,28,England,ST,600000.0
+England,Championship,Sheffield Wednesday,42,Bailey Cadamarteri,18,England,ST,450000.0
+England,Championship,Sheffield Wednesday,24,Michael Smith,32,England,ST,300000.0
+England,Championship,Sheffield Wednesday,9,Lee Gregory,35,England,ST,150000.0
+England,Championship,Rotherham United,29,Sam Nombe,25,England,ST,500000.0
+England,Championship,Rotherham United,10,Jordan Hugill,31,England,ST,400000.0
+England,Championship,Rotherham United,9,Tom Eaves,32,England,ST,300000.0
+England,Championship,Rotherham United,14,Charlie Wyke,31,England,ST,150000.0
+England,League One,Peterborough United,9,Jonson Clarke-Harris,29,Jamaica,ST,900000.0
+England,League One,Peterborough United,28,Jacob Wakeling,22,England,ST,300000.0
+England,League One,Peterborough United,18,Malik Mothersille,20,England,ST,100000.0
+England,League One,Bolton Wanderers,28,Aaron Collins,26,Wales,ST,1500000.0
+England,League One,Bolton Wanderers,10,Dion Charles,28,Northern Ireland,ST,800000.0
+England,League One,Bolton Wanderers,14,Victor Adeboyejo,26,Nigeria,ST,800000.0
+England,League One,Bolton Wanderers,11,Dan Nlundulu,25,England,ST,600000.0
+England,League One,Bolton Wanderers,9,Jón Dadi Bödvarsson,31,Iceland,ST,275000.0
+England,League One,Bolton Wanderers,35,Cameron Jerome,37,Grenada,ST,75000.0
+England,League One,Derby County,19,Tyreece John-Jules,23,England,ST,500000.0
+England,League One,Derby County,14,Conor Washington,31,Northern Ireland,ST,300000.0
+England,League One,Derby County,25,Dwight Gayle,34,England,ST,300000.0
+England,League One,Derby County,9,James Collins,33,Ireland,ST,175000.0
+England,League One,Derby County,10,Martyn Waghorn,34,England,ST,100000.0
+England,League One,Portsmouth FC,49,Callum Lang,25,England,ST,900000.0
+England,League One,Portsmouth FC,9,Colby Bishop,27,England,ST,700000.0
+England,League One,Portsmouth FC,15,Christian Saydee,21,England,ST,400000.0
+England,League One,Portsmouth FC,19,Kusini Yengi,25,Australia,ST,300000.0
+England,League One,Charlton Athletic,11,Miles Leaburn,20,England,ST,800000.0
+England,League One,Charlton Athletic,14,Freddie Ladapo,31,England,ST,500000.0
+England,League One,Charlton Athletic,13,Connor Wickham,31,England,ST,400000.0
+England,League One,Charlton Athletic,9,Alfie May,30,England,ST,350000.0
+England,League One,Charlton Athletic,22,Chuks Aneke,30,England,ST,250000.0
+England,League One,Charlton Athletic,29,Daniel Kanu,19,Sierra Leone,ST,125000.0
+England,League One,Barnsley FC,45,John McAtee,24,England,ST,300000.0
+England,League One,Barnsley FC,44,Devante Cole,28,Jamaica,ST,750000.0
+England,League One,Barnsley FC,9,Sam Cosgrove,27,England,ST,450000.0
+England,League One,Barnsley FC,36,Max Watters,25,England,ST,400000.0
+England,League One,Barnsley FC,19,Aiden Marsh,20,England,ST,75000.0
+England,League One,Blackpool FC,19,Shayne Lavery,25,Northern Ireland,ST,500000.0
+England,League One,Blackpool FC,9,Kyle Joseph,22,Scotland,ST,425000.0
+England,League One,Blackpool FC,16,Jordan Rhodes,34,Scotland,ST,275000.0
+England,League One,Blackpool FC,18,Jake Beesley,27,England,ST,250000.0
+England,League One,Blackpool FC,27,Kylian Kouassi,20,England,ST,200000.0
+England,League One,Reading FC,10,Sam Smith,26,England,ST,450000.0
+England,League One,Reading FC,9,Dom Ballard,19,England,ST,300000.0
+England,League One,Reading FC,15,Kelvin Ehibhatiomhan,20,England,ST,175000.0
+England,League One,Reading FC,48,Basil Tuma,18,Malta,ST,100000.0
+England,League One,Reading FC,19,Jayden Wareham,20,England,ST,
+England,League One,Wigan Athletic,11,Stephen Humphrys,26,England,ST,500000.0
+England,League One,Wigan Athletic,23,Charlie Kelman,22,United States,ST,300000.0
+England,League One,Wigan Athletic,28,Josh Magennis,33,Northern Ireland,ST,150000.0
+England,League One,Wigan Athletic,25,Josh Stones,20,England,ST,75000.0
+England,League One,Exeter City,27,Mo Eisa,29,Sudan,ST,350000.0
+England,League One,Exeter City,10,Admiral Muskwe,25,Zimbabwe,ST,275000.0
+England,League One,Exeter City,19,Sonny Cox,19,England,ST,100000.0
+England,League One,Oxford United,9,Mark Harris,25,Wales,ST,700000.0
+England,League One,Oxford United,16,Tyler Burey,23,England,ST,600000.0
+England,League One,Oxford United,20,Rúben Rodrigues,27,Portugal,ST,275000.0
+England,League One,Oxford United,25,Will Goodwin,21,England,ST,275000.0
+England,League One,Oxford United,27,Max Woltman,20,England,ST,250000.0
+England,League One,Bristol Rovers,20,Jevani Brown,29,Jamaica,ST,250000.0
+England,League One,Bristol Rovers,9,John Marquis,31,England,ST,250000.0
+England,League One,Bristol Rovers,18,Chris Martin,35,Scotland,ST,100000.0
+England,League One,Shrewsbury Town,10,Rayhaan Tulloch,23,England,ST,175000.0
+England,League One,Shrewsbury Town,18,Tom Bloxham,20,England,ST,450000.0
+England,League One,Shrewsbury Town,11,Daniel Udoh,27,Nigeria,ST,275000.0
+England,League One,Shrewsbury Town,9,Ryan Bowman,32,England,ST,150000.0
+England,League One,Wycombe Wanderers,20,Dale Taylor,20,Northern Ireland,ST,750000.0
+England,League One,Wycombe Wanderers,18,Brandon Hanlan,26,England,ST,400000.0
+England,League One,Wycombe Wanderers,9,Sam Vokes,34,Wales,ST,175000.0
+England,League One,Wycombe Wanderers,24,Richard Kone,20,Cote d'Ivoire,ST,
+England,League One,Wycombe Wanderers,28,Gideon Kodua,19,England,ST,
+England,League One,Lincoln City,9,Joe Taylor,21,Wales,ST,350000.0
+England,League One,Lincoln City,34,Freddie Draper,19,England,ST,275000.0
+England,League One,Lincoln City,18,Ben House,24,Scotland,ST,250000.0
+England,League One,Lincoln City,19,Tyler Walker,27,England,ST,250000.0
+England,League One,Lincoln City,27,Jovon Makama,20,England,ST,150000.0
+England,League One,Northampton Town,9,Louis Appéré,25,Scotland,ST,300000.0
+England,League One,Northampton Town,16,Tyreece Simpson,22,England,ST,250000.0
+England,League One,Northampton Town,19,Kieron Bowie,21,Scotland,ST,250000.0
+England,League One,Northampton Town,10,Danny Hylton,35,England,ST,75000.0
+England,League One,Carlisle United,24,Sean Maguire,29,Ireland,ST,375000.0
+England,League One,Carlisle United,9,Georgie Kelly,27,Ireland,ST,300000.0
+England,League One,Carlisle United,35,Luke Armstrong,27,England,ST,300000.0
+England,League One,Carlisle United,11,Daniel Butterworth,24,England,ST,225000.0
+England,League One,Carlisle United,12,Terry Ablade,22,Finland,ST,200000.0
+England,League One,Carlisle United,28,Joshua Kayode,23,Ireland,ST,150000.0
+England,League One,Carlisle United,37,Anton Dudik,19,Ukraine,ST,
+England,League One,Burton Albion,32,Antwoine Hackford,20,England,ST,500000.0
+England,League One,Burton Albion,15,Kyle Hudlin,23,England,ST,300000.0
+England,League One,Burton Albion,20,Ademola Ola-Adebomi,20,England,ST,250000.0
+England,League One,Burton Albion,44,Joe Hugill,20,England,ST,200000.0
+England,League One,Burton Albion,18,Bobby Kamwa,24,Cameroon,ST,125000.0
+England,League One,Port Vale FC,12,Uche Ikpeazu,29,Uganda,ST,375000.0
+England,League One,Port Vale FC,9,Ryan Loft,26,England,ST,225000.0
+England,League One,Port Vale FC,29,James Wilson,28,England,ST,225000.0
+England,League One,Port Vale FC,25,Baylee Dipepa,17,England,ST,
+England,League One,Leyton Orient,10,Ruel Sotiriou,23,Cyprus,ST,450000.0
+England,League One,Leyton Orient,47,Khayon Edwards,20,Jamaica,ST,400000.0
+England,League One,Leyton Orient,9,Joe Pigott,30,England,ST,300000.0
+England,League One,Leyton Orient,7,Dan Agyei,26,England,ST,225000.0
+England,League One,Leyton Orient,20,Daniel Adu-Adjei,18,England,ST,
+England,League One,Cambridge United,27,Macauley Bonne,28,Zimbabwe,ST,350000.0
+England,League One,Cambridge United,23,Gassan Ahadme,23,Morocco,ST,325000.0
+England,League One,Cambridge United,9,Fejiri Okenabirhie,28,Nigeria,ST,200000.0
+England,League One,Cambridge United,21,Elias Kachunga,31,DR Congo,ST,175000.0
+England,League One,Cambridge United,17,Saikou Janneh,24,The Gambia,ST,150000.0
+England,League One,Cambridge United,18,Lyle Taylor,34,Montserrat,ST,125000.0
+England,League One,Cambridge United,-,Dan Barton,19,England,ST,50000.0
+England,League One,Cambridge United,33,Saleem Akanbi,19,England,ST,50000.0
+England,League One,Stevenage FC,19,Jamie Reid,29,Northern Ireland,ST,225000.0
+England,League One,Stevenage FC,20,Aaron Pressley,22,Scotland,ST,200000.0
+England,League One,Stevenage FC,29,Kane Hemmings,32,England,ST,125000.0
+England,League One,Stevenage FC,33,Vadaine Oliver,32,England,ST,75000.0
+England,League One,Fleetwood Town,46,Theo Williams,20,England,ST,
+England,League One,Fleetwood Town,9,Jayden Stockley,30,England,ST,600000.0
+England,League One,Fleetwood Town,14,Tommy Lonergan,20,Ireland,ST,100000.0
+England,League One,Fleetwood Town,33,Ronan Coughlan,27,Ireland,ST,100000.0
+England,League One,Cheltenham Town,10,Aidan Keena,24,Ireland,ST,350000.0
+England,League One,Cheltenham Town,11,Robert Street,22,England,ST,300000.0
+England,League One,Cheltenham Town,19,George Lloyd,24,England,ST,175000.0
+England,League One,Cheltenham Town,9,Matty Taylor,34,England,ST,125000.0
+England,League One,Cheltenham Town,26,Joe Nuttall,27,England,ST,
+England,League Two,Wrexham AFC,11,Jack Marriott,29,England,ST,700000.0
+England,League Two,Wrexham AFC,10,Paul Mullin,29,England,ST,500000.0
+England,League Two,Wrexham AFC,18,Sam Dalby,24,England,ST,275000.0
+England,League Two,Wrexham AFC,9,Ollie Palmer,32,England,ST,125000.0
+England,League Two,Wrexham AFC,26,Steven Fletcher,37,Scotland,ST,125000.0
+England,League Two,Stockport County,20,Louie Barry,20,England,ST,800000.0
+England,League Two,Stockport County,25,Isaac Olaofe,24,England,ST,325000.0
+England,League Two,Stockport County,16,Jack Stretton,22,Scotland,ST,300000.0
+England,League Two,Stockport County,19,Kyle Wootton,27,England,ST,275000.0
+England,League Two,Stockport County,9,Paddy Madden,34,Ireland,ST,100000.0
+England,League Two,Colchester United,9,Samson Tovide,20,England,ST,450000.0
+England,League Two,Colchester United,14,Tom Hopper,30,England,ST,175000.0
+England,League Two,Colchester United,48,Bradley Ihionvien,20,England,ST,100000.0
+England,League Two,Colchester United,24,John Akinde,34,England,ST,75000.0
+England,League Two,Milton Keynes Dons,9,Ellis Harrison,30,Wales,ST,275000.0
+England,League Two,Milton Keynes Dons,18,Max Dean,20,England,ST,250000.0
+England,League Two,Milton Keynes Dons,30,Matthew Dennis,22,England,ST,125000.0
+England,League Two,Milton Keynes Dons,22,Emre Tezgel,18,Türkiye,ST,
+England,League Two,Forest Green Rovers,23,Tyrese Omotoye,21,Belgium,ST,225000.0
+England,League Two,Forest Green Rovers,9,Mathew Stevens,26,England,ST,175000.0
+England,League Two,Forest Green Rovers,10,Christian Doidge,31,Wales,ST,30000.0
+England,League Two,Crewe Alexandra,9,Courtney Baker-Richardson,28,England,ST,275000.0
+England,League Two,Crewe Alexandra,7,Chris Long,29,England,ST,250000.0
+England,League Two,Crewe Alexandra,20,Elliott Nevitt,27,England,ST,175000.0
+England,League Two,Crewe Alexandra,32,Max Woodcock,18,Scotland,ST,75000.0
+England,League Two,Doncaster Rovers,40,Billy Waters,29,England,ST,125000.0
+England,League Two,Doncaster Rovers,20,Joe Ironside,30,England,ST,275000.0
+England,League Two,Doncaster Rovers,9,George Miller,25,England,ST,200000.0
+England,League Two,Doncaster Rovers,31,Caolan Lavery,31,Northern Ireland,ST,100000.0
+England,League Two,Doncaster Rovers,22,Conor Carty,21,Ireland,ST,75000.0
+England,League Two,Doncaster Rovers,36,Maxime Biamou,33,France,ST,
+England,League Two,Gillingham FC,19,Jorge Cabezas,20,Colombia,ST,700000.0
+England,League Two,Gillingham FC,9,Josh Andrews,22,England,ST,225000.0
+England,League Two,Gillingham FC,10,Ashley Nadesan,29,England,ST,225000.0
+England,League Two,Gillingham FC,47,Josh Walker,26,England,ST,150000.0
+England,League Two,Gillingham FC,12,Oliver Hawkins,32,England,ST,100000.0
+England,League Two,Gillingham FC,29,Joseph Gbode,19,England,ST,50000.0
+England,League Two,Gillingham FC,31,Ronald Sithole,19,England,ST,50000.0
+England,League Two,Mansfield Town,26,Will Swan,23,England,ST,225000.0
+England,League Two,Mansfield Town,20,Tom Nichols,30,England,ST,200000.0
+England,League Two,Mansfield Town,18,Rhys Oates,29,England,ST,150000.0
+England,League Two,Mansfield Town,9,Jordan Bowery,32,England,ST,125000.0
+England,League Two,Mansfield Town,12,James Gale,22,England,ST,125000.0
+England,League Two,Mansfield Town,7,Lucas Akins,35,Grenada,ST,75000.0
+England,League Two,Bradford City,28,Jake Young,22,England,ST,275000.0
+England,League Two,Bradford City,14,Tyler Smith,25,England,ST,200000.0
+England,League Two,Bradford City,9,Andy Cook,33,England,ST,150000.0
+England,League Two,Bradford City,8,Calum Kavanagh,20,Ireland,ST,100000.0
+England,League Two,Bradford City,27,Matt Derbyshire,38,England,ST,75000.0
+England,League Two,Notts County,9,Macaulay Langstaff,27,England,ST,400000.0
+England,League Two,Notts County,29,Alassana Jatta,25,The Gambia,ST,400000.0
+England,League Two,Notts County,19,Cedwyn Scott,25,England,ST,125000.0
+England,League Two,Notts County,27,Junior Morias,28,England,ST,125000.0
+England,League Two,Notts County,17,David McGoldrick,36,Ireland,ST,100000.0
+England,League Two,AFC Wimbledon,9,Josh Davison,24,England,ST,275000.0
+England,League Two,AFC Wimbledon,18,Omar Bugiel,30,Lebanon,ST,200000.0
+England,League Two,AFC Wimbledon,38,John-Kymani Gordon,21,England,ST,200000.0
+England,League Two,AFC Wimbledon,29,Aron Sasu,19,Norway,ST,75000.0
+England,League Two,AFC Wimbledon,10,Josh Kelly,25,Northern Ireland,ST,
+England,League Two,Accrington Stanley,9,Matt Lowe,28,England,ST,150000.0
+England,League Two,Accrington Stanley,19,Jake Bickerstaff,22,Wales,ST,125000.0
+England,League Two,Accrington Stanley,39,Josh Woods,23,England,ST,100000.0
+England,League Two,Accrington Stanley,26,Leslie Adekoya,19,Ireland,ST,75000.0
+England,League Two,Walsall FC,23,Mo Faal,21,The Gambia,ST,225000.0
+England,League Two,Walsall FC,18,Josh Gordon,29,England,ST,175000.0
+England,League Two,Walsall FC,11,Douglas James-Taylor,22,England,ST,150000.0
+England,League Two,Walsall FC,20,Aramide Oteh,25,England,ST,125000.0
+England,League Two,Walsall FC,39,Danny Johnson,31,England,ST,125000.0
+England,League Two,Walsall FC,9,Jamille Matt,34,Jamaica,ST,75000.0
+England,League Two,Morecambe FC,17,Cammy Smith,28,Scotland,ST,175000.0
+England,League Two,Morecambe FC,39,Jordy Hiwula,29,England,ST,250000.0
+England,League Two,Morecambe FC,9,Gerard Garner,25,England,ST,175000.0
+England,League Two,Morecambe FC,20,Charlie Brown,24,England,ST,175000.0
+England,League Two,Morecambe FC,14,Jordan Slew,31,England,ST,100000.0
+England,League Two,Morecambe FC,11,Julian Larsson,22,Sweden,ST,
+England,League Two,Salford City,9,Callum Hendry,26,Scotland,ST,325000.0
+England,League Two,Salford City,39,Callum Morton,24,England,ST,200000.0
+England,League Two,Salford City,18,Conor McAleny,31,England,ST,125000.0
+England,League Two,Salford City,17,Matt Smith,34,England,ST,100000.0
+England,League Two,Salford City,54,Junior Luamba,20,DR Congo,ST,
+England,League Two,Barrow AFC,19,Dom Telford,27,England,ST,375000.0
+England,League Two,Barrow AFC,20,Emile Acquah,23,England,ST,275000.0
+England,League Two,Barrow AFC,23,Cole Stockton,30,England,ST,275000.0
+England,League Two,Barrow AFC,9,Jamie Proctor,32,England,ST,100000.0
+England,League Two,Grimsby Town,9,Rekeil Pyke,26,England,ST,225000.0
+England,League Two,Grimsby Town,32,Danny Rose,30,England,ST,175000.0
+England,League Two,Grimsby Town,25,Donovan Wilson,27,England,ST,125000.0
+England,League Two,Grimsby Town,39,Edwin Essel,19,England,ST,50000.0
+England,League Two,Grimsby Town,20,Justin Obikwu,19,Trinidad and Tobago,ST,
+England,League Two,Newport County,9,Omar Bogle,30,England,ST,300000.0
+England,League Two,Newport County,31,Luke Jephcott,24,Wales,ST,275000.0
+England,League Two,Newport County,7,Will Evans,26,Wales,ST,225000.0
+England,League Two,Newport County,30,Seb Palmer-Houlden,19,England,ST,125000.0
+England,League Two,Newport County,10,Offrande Zanzala,27,Congo,ST,100000.0
+England,League Two,Swindon Town,9,Paul Glatzel,23,Germany,ST,250000.0
+England,League Two,Swindon Town,11,Rushian Hepburn-Murphy,25,England,ST,200000.0
+England,League Two,Swindon Town,23,Aaron Drinan,25,Ireland,ST,175000.0
+England,League Two,Swindon Town,32,Charlie Austin,34,England,ST,150000.0
+England,League Two,Tranmere Rovers,9,Luke Norris,30,England,ST,150000.0
+England,League Two,Tranmere Rovers,19,Harvey Saunders,26,England,ST,150000.0
+England,League Two,Tranmere Rovers,12,Charlie Jolley,23,England,ST,100000.0
+England,League Two,Tranmere Rovers,14,Kristian Dennis,34,England,ST,100000.0
+England,League Two,Tranmere Rovers,18,Connor Jennings,32,England,ST,100000.0
+England,League Two,Tranmere Rovers,20,Sam Taylor,19,England,ST,100000.0
+England,League Two,Harrogate Town,24,Josh March,27,England,ST,100000.0
+England,League Two,Harrogate Town,18,Jack Muldoon,34,England,ST,75000.0
+England,League Two,Harrogate Town,-,Emmanuel Ilesanmi,19,England,ST,
+England,League Two,Crawley Town,9,Danilo Orsi,27,England,ST,175000.0
+England,League Two,Sutton United,9,Harry Smith,28,England,ST,175000.0
+England,League Two,Sutton United,-,Tope Fadahunsi,24,England,ST,100000.0
+England,League Two,Sutton United,14,Craig Dundas,43,England,ST,25000.0
+England,League Two,Sutton United,27,Deon Moore,24,Guyana,ST,
+England,League Two,Sutton United,38,Oliver Sanderson,20,England,ST,
+England,National League,Wealdstone FC,25,Jaiden Bartolo,18,Gibraltar,ST,50000.0
+England,National League,Wealdstone FC,9,Manny Duku,31,Netherlands,ST,
+England,National League,Wealdstone FC,27,Sean Adarkwa,23,England,ST,
+England,National League,Wealdstone FC,-,Tobi Adeyemo,19,England,ST,
+England,National League,Wealdstone FC,-,Makai Wilson-Braithwaite,-,England,ST,
+England,National League,Wealdstone FC,11,Corie Andrews,26,England,ST,
+England,National League,Wealdstone FC,14,Micah Obiero,23,Kenya,ST,
+England,National League,Hartlepool United,36,Courtney Duffus,28,Ireland,ST,100000.0
+England,National League,Hartlepool United,-,Mikael Ndjoli,25,England,ST,
+England,National League,Hartlepool United,9,Josh Umerah,27,England,ST,
+England,National League,Hartlepool United,20,Emmanuel Dieseruvwe,29,England,ST,
+England,National League,Rochdale AFC,14,D'Mani Mellor,23,England,ST,150000.0
+England,National League,Rochdale AFC,9,Kairo Mitchell,26,Grenada,ST,
+England,National League,Rochdale AFC,40,Ian Henderson,39,England,ST,
+England,National League,Barnet FC,-,Gatlin O'Donkor,19,England,ST,200000.0
+England,National League,Barnet FC,9,Nicke Kabamba,31,DR Congo,ST,
+England,National League,Barnet FC,88,Gary Hooper,36,England,ST,
+England,National League,York City,-,Sam Fishburn,20,England,ST,75000.0
+England,National League,York City,9,Dipo Akinyemi,26,England,ST,
+England,National League,York City,14,Lenell John-Lewis,34,England,ST,
+England,National League,York City,19,Billy Chadwick,24,England,ST,
+England,National League,York City,33,Ethan Henderson,21,England,ST,
+England,National League,Gateshead FC,-,Sonny Fish,20,Wales,ST,50000.0
+England,National League,Gateshead FC,-,Lewis Knight,25,England,ST,
+England,National League,Gateshead FC,9,Marcus Dinanga,26,England,ST,
+England,National League,Gateshead FC,14,Dajaune Brown,18,Jamaica,ST,
+England,National League,Solihull Moors,-,Tahvon Campbell,27,England,ST,
+England,National League,Solihull Moors,9,Mark Beck,30,Scotland,ST,
+England,National League,Solihull Moors,14,Jack Stevens,23,Wales,ST,
+England,National League,Solihull Moors,24,Leo Wood,-,England,ST,
+England,National League,Aldershot Town,26,James Daly,24,England,ST,100000.0
+England,National League,Aldershot Town,23,Hady Ghandour,24,Lebanon,ST,
+England,National League,Aldershot Town,39,Kwame Thomas,28,St. Kitts & Nevis,ST,
+England,National League,Aldershot Town,9,Lorent Tolaj,22,Switzerland,ST,
+England,National League,Aldershot Town,22,Jack Barham,28,England,ST,
+England,National League,Oldham Athletic,29,Andy Dallas,24,Scotland,ST,50000.0
+England,National League,Oldham Athletic,-,Joe Garner,36,England,ST,
+England,National League,Oldham Athletic,11,Hallam Hope,30,Barbados,ST,
+England,National League,Oldham Athletic,30,James Norwood,33,England,ST,
+England,National League,Oldham Athletic,20,Mike Fondop,30,England,ST,
+England,National League,Oldham Athletic,25,Alex Reid,28,England,ST,
+England,National League,Woking FC,15,Lee Angol,29,England,ST,125000.0
+England,National League,Woking FC,10,Lewis Walker,25,England,ST,
+England,National League,Woking FC,29,Alfie Pavey,28,England,ST,
+England,National League,Woking FC,33,Charley Kendall,23,England,ST,
+England,National League,Woking FC,7,Ricky Korboa,27,England,ST,
+England,National League,Boreham Wood FC,7,Kabongo Tshimanga,26,England,ST,150000.0
+England,National League,Boreham Wood FC,-,Timmy Abraham,23,England,ST,
+England,National League,Boreham Wood FC,21,Kwesi Appiah,33,Ghana,ST,
+England,National League,Boreham Wood FC,9,Lee Ndlovu,29,Zimbabwe,ST,
+England,National League,Ebbsfleet United,10,Craig Tanner,29,England,ST,
+England,National League,Ebbsfleet United,-,Dominic Samuel,30,England,ST,
+England,National League,Ebbsfleet United,9,Rakish Bingham,30,England,ST,
+England,National League,Ebbsfleet United,14,Dominic Poleon,30,St. Lucia,ST,
+England,National League,Ebbsfleet United,15,Greg Cundle,27,England,ST,
+England,National League,Ebbsfleet United,-,Nathan Odokonyero,21,England,ST,
+England,National League,Ebbsfleet United,11,Darren McQueen,28,England,ST,
+England,National League,Bromley FC,18,Corey Whitely,32,England,ST,
+England,National League,Bromley FC,-,Adam Marriott,33,England,ST,
+England,National League,Bromley FC,9,Michael Cheek,32,England,ST,
+England,National League,Bromley FC,11,Louis Dennis,31,England,ST,
+England,National League,Bromley FC,29,Olufela Olomola,26,England,ST,
+England,National League,Bromley FC,41,Levi Amantchi,23,England,ST,
+England,National League,Bromley FC,42,Will Davies,24,England,ST,
+England,National League,Dagenham & Redbridge FC,9,Inih Effiong,33,England,ST,
+England,National League,AFC Fylde,9,Luke Charman,26,England,ST,
+England,National League,AFC Fylde,11,Joe Westley,19,England,ST,
+England,National League,AFC Fylde,29,Danny Ormerod,-,England,ST,
+England,National League,Oxford City,-,Harvey Greenslade,20,England,ST,50000.0
+England,National League,Oxford City,14,Josh Parker,33,Antigua and Barbuda,ST,
+England,National League,Oxford City,-,Gerald Muchechetere,19,England,ST,
+England,National League,Oxford City,-,Jayden Carbon,18,England,ST,
+England,National League,Oxford City,-,Phil Croker,-,England,ST,
+England,National League,Oxford City,10,Zac McEachran,28,England,ST,
+England,National League,Kidderminster Harriers,19,Sam Bellis,21,England,ST,50000.0
+England,National League,Kidderminster Harriers,9,Amari Morgan-Smith,35,England,ST,
+England,National League,Kidderminster Harriers,27,Gold Omotayo,30,Switzerland,ST,
+England,National League,Altrincham FC,14,Dior Angus,30,England,ST,
+England,National League,Altrincham FC,-,Dan Mooney,24,Wales,ST,
+England,National League,Altrincham FC,-,Ryan Morton,-,England,ST,
+England,National League,Altrincham FC,9,Regan Linney,26,England,ST,
+England,National League,Chesterfield FC,9,Will Grigg,32,Northern Ireland,ST,
+England,National League,Chesterfield FC,27,Joe Quigley,27,Ireland,ST,
+England,National League,Dorking Wanderers,7,Jimmy Muitt,28,England,ST,
+England,National League,Dorking Wanderers,8,Matt Briggs,28,England,ST,
+England,National League,Dorking Wanderers,9,Jason Prior,35,England,ST,
+England,National League,Dorking Wanderers,10,Alfie Rutherford,25,England,ST,
+England,National League,Dorking Wanderers,24,Harry Ottaway,35,England,ST,
+England,National League,Eastleigh FC,9,Paul McCallum,30,England,ST,
+England,National League,Eastleigh FC,20,Scott Quigley,31,England,ST,
+England,National League,Eastleigh FC,-,Malachi Dotse,-,England,ST,
+England,National League,FC Halifax Town,-,Adan George,21,England,ST,
+England,National League,FC Halifax Town,19,Aaron Cosgrave,24,England,ST,
+England,National League,FC Halifax Town,-,Jimiel Chikukwa,21,England,ST,
+England,National League,FC Halifax Town,-,Justin Iwobi,19,England,ST,
+England,National League,FC Halifax Town,7,Angelo Capello,22,Belize,ST,
+England,National League,FC Halifax Town,9,Rob Harker,24,England,ST,
+England,National League,Maidenhead United,-,Harry Parsons,21,England,ST,
+England,National League,Maidenhead United,14,Tobi Sho-Silva,29,England,ST,
+England,National League,Maidenhead United,21,Chanka Zimba,22,England,ST,
+England,National League,Maidenhead United,9,Shawn McCoulsky,27,England,ST,
+England,National League,Southend United,9,Harry Cardwell,27,Scotland,ST,
+England,National League,Southend United,10,Danny Waldron,27,England,ST,
+England,National League,Southend United,11,Callum Powell,28,England,ST,
+England,National League,Southend United,15,Marcus Dackers,21,Wales,ST,
+France,Ligue 1,Paris Saint-Germain,7,Kylian Mbappé,25,France,ST,180000000.0
+France,Ligue 1,Paris Saint-Germain,23,Randal Kolo Muani,25,France,ST,60000000.0
+France,Ligue 1,Paris Saint-Germain,9,Gonçalo Ramos,22,Portugal,ST,50000000.0
+France,Ligue 1,AS Monaco,29,Folarin Balogun,22,United States,ST,30000000.0
+France,Ligue 1,AS Monaco,36,Breel Embolo,27,Switzerland,ST,12000000.0
+France,Ligue 1,AS Monaco,10,Wissam Ben Yedder,33,France,ST,10000000.0
+France,Ligue 1,Stade Rennais FC,9,Arnaud Kalimuendo,22,France,ST,20000000.0
+France,Ligue 1,Stade Rennais FC,99,Bertuğ Yıldırım,21,Türkiye,ST,4000000.0
+France,Ligue 1,Stade Rennais FC,39,Mathis Lambourde,18,France,ST,500000.0
+France,Ligue 1,OGC Nice,9,Terem Moffi,24,Nigeria,ST,25000000.0
+France,Ligue 1,OGC Nice,24,Gaëtan Laborde,29,France,ST,15000000.0
+France,Ligue 1,OGC Nice,29,Evann Guessand,22,Cote d'Ivoire,ST,8000000.0
+France,Ligue 1,LOSC Lille,9,Jonathan David,24,Canada,ST,50000000.0
+France,Ligue 1,LOSC Lille,24,Andrej Ilic,24,Serbia,ST,3000000.0
+France,Ligue 1,Olympique Lyon,9,Gift Orban,21,Nigeria,ST,15000000.0
+France,Ligue 1,Olympique Lyon,10,Alexandre Lacazette,32,France,ST,10000000.0
+France,Ligue 1,Olympique Lyon,7,Mama Baldé,28,Guinea-Bissau,ST,4000000.0
+France,Ligue 1,Olympique Marseille,20,Joaquín Correa,29,Argentina,ST,8000000.0
+France,Ligue 1,Olympique Marseille,29,Iliman Ndiaye,24,Senegal,ST,18000000.0
+France,Ligue 1,Olympique Marseille,14,Faris Moumbagna,23,Cameroon,ST,8000000.0
+France,Ligue 1,Olympique Marseille,10,Pierre-Emerick Aubameyang,34,Gabon,ST,4000000.0
+France,Ligue 1,RC Lens,9,Elye Wahi,21,France,ST,35000000.0
+France,Ligue 1,RC Lens,22,Wesley Saïd,28,France,ST,4000000.0
+France,Ligue 1,RC Lens,7,Florian Sotoca,33,France,ST,3500000.0
+France,Ligue 1,RC Lens,36,Ibrahima Baldé,21,France,ST,400000.0
+France,Ligue 1,RC Strasbourg Alsace,10,Emanuel Emegha,21,Netherlands,ST,12000000.0
+France,Ligue 1,RC Strasbourg Alsace,11,Moïse Sahi Dion,22,Cote d'Ivoire,ST,2000000.0
+France,Ligue 1,RC Strasbourg Alsace,12,Lebo Mothiba,28,South Africa,ST,1500000.0
+France,Ligue 1,RC Strasbourg Alsace,9,Kévin Gameiro,36,France,ST,800000.0
+France,Ligue 1,Stade Reims,22,Oumar Diakité,20,Cote d'Ivoire,ST,6000000.0
+France,Ligue 1,Stade Reims,27,Adama Bojang,19,The Gambia,ST,500000.0
+France,Ligue 1,FC Lorient,9,Mohamed Bamba,22,Cote d'Ivoire,ST,5000000.0
+France,Ligue 1,FC Lorient,11,Bamba Dieng,24,Senegal,ST,5000000.0
+France,Ligue 1,FC Lorient,27,Aiyegun Tosin,25,Benin,ST,3500000.0
+France,Ligue 1,FC Toulouse,9,Thijs Dallinga,23,Netherlands,ST,15000000.0
+France,Ligue 1,FC Toulouse,19,Frank Magri,24,Cameroon,ST,3000000.0
+France,Ligue 1,Stade Brestois 29,7,Martín Satriano,23,Uruguay,ST,6000000.0
+France,Ligue 1,Stade Brestois 29,9,Steve Mounié,29,Benin,ST,5000000.0
+France,Ligue 1,Montpellier HSC,8,Akor Adams,24,Nigeria,ST,12000000.0
+France,Ligue 1,FC Nantes,31,Mostafa Mohamed,26,Egypt,ST,10000000.0
+France,Ligue 1,FC Nantes,39,Matthis Abline,21,France,ST,4000000.0
+France,Ligue 1,FC Nantes,77,Bénie Traoré,21,Cote d'Ivoire,ST,4000000.0
+France,Ligue 1,FC Nantes,7,Ignatius Ganago,25,Cameroon,ST,3500000.0
+France,Ligue 1,FC Nantes,15,Tino Kadewere,28,Zimbabwe,ST,2500000.0
+France,Ligue 1,Le Havre AC,9,Mohamed Bayo,25,Guinea,ST,6000000.0
+France,Ligue 1,Le Havre AC,21,Antoine Joujou,21,France,ST,1200000.0
+France,Ligue 1,Le Havre AC,20,Andy Logbo,19,France,ST,800000.0
+France,Ligue 1,Le Havre AC,13,Steve Ngoura,19,France,ST,300000.0
+France,Ligue 1,Clermont Foot 63,23,Shamar Nicholson,27,Jamaica,ST,6000000.0
+France,Ligue 1,Clermont Foot 63,95,Grejohn Kyei,28,France,ST,1800000.0
+France,Ligue 1,Clermont Foot 63,9,Komnen Andric,28,Serbia,ST,1200000.0
+France,Ligue 1,FC Metz,10,Georges Mikautadze,23,Georgia,ST,9000000.0
+France,Ligue 1,FC Metz,17,Benjamin Tetteh,26,Ghana,ST,1200000.0
+France,Ligue 1,FC Metz,37,Ibou Sané,19,Senegal,ST,200000.0
+France,Ligue 2,AS Saint-Étienne,9,Ibrahim Sissoko,28,Mali,ST,2500000.0
+France,Ligue 2,AS Saint-Étienne,11,Irvin Cardona,26,France,ST,1800000.0
+France,Ligue 2,AS Saint-Étienne,25,Ibrahima Wadji,28,Senegal,ST,1000000.0
+France,Ligue 2,ESTAC Troyes,14,Simon Elisor,24,France,ST,1200000.0
+France,Ligue 2,ESTAC Troyes,40,Jaurès Assoumou,21,Cote d'Ivoire,ST,600000.0
+France,Ligue 2,ESTAC Troyes,17,Nicolas de Préville,33,France,ST,300000.0
+France,Ligue 2,AJ Auxerre,19,Florian Ayé,27,France,ST,1800000.0
+France,Ligue 2,AJ Auxerre,45,Ado Onaiwu,28,Japan,ST,1500000.0
+France,Ligue 2,AJ Auxerre,22,Tidiane Diawara,18,France,ST,50000.0
+France,Ligue 2,FC Girondins Bordeaux,9,Zan Vipotnik,22,Slovenia,ST,2000000.0
+France,Ligue 2,FC Girondins Bordeaux,33,Nfansu Njie,19,The Gambia,ST,100000.0
+France,Ligue 2,FC Girondins Bordeaux,91,David Tebili,19,France,ST,50000.0
+France,Ligue 2,Angers SCO,9,Loïs Diony,31,France,ST,2000000.0
+France,Ligue 2,Angers SCO,7,Ibrahima Niane,25,Senegal,ST,1200000.0
+France,Ligue 2,Angers SCO,23,Adrien Hunou,30,France,ST,800000.0
+France,Ligue 2,Angers SCO,19,Esteban Lepaul,23,France,ST,700000.0
+France,Ligue 2,Angers SCO,45,Guédé Nadje,20,France,ST,100000.0
+France,Ligue 2,SM Caen,19,Alexandre Mendy,30,Guinea-Bissau,ST,3500000.0
+France,Ligue 2,SM Caen,15,Amine Salama,23,France,ST,2500000.0
+France,Ligue 2,SM Caen,11,Mickaël Le Bihan,33,France,ST,300000.0
+France,Ligue 2,Amiens SC,9,Louis Mafouta,29,Central African Republic,ST,1000000.0
+France,Ligue 2,Amiens SC,8,Abdoul Tapsoba,22,Burkina Faso,ST,600000.0
+France,Ligue 2,Amiens SC,99,Andy Carroll,35,England,ST,300000.0
+France,Ligue 2,Amiens SC,37,Jack Lahne,22,Sweden,ST,275000.0
+France,Ligue 2,Paris FC,29,Pierre-Yves Hamel,30,France,ST,700000.0
+France,Ligue 2,Paris FC,12,Nouha Dicko,31,Mali,ST,600000.0
+France,Ligue 2,Paris FC,9,Lamine Diaby-Fadiga,23,France,ST,400000.0
+France,Ligue 2,Paris FC,19,Mohamed Touré,20,Australia,ST,400000.0
+France,Ligue 2,Paris FC,38,Ayoub Jabbari,24,Morocco,ST,150000.0
+France,Ligue 2,EA Guingamp,9,Amine El Ouazzani,22,Morocco,ST,2000000.0
+France,Ligue 2,EA Guingamp,21,Baptiste Guillaume,28,Belgium,ST,1200000.0
+France,Ligue 2,EA Guingamp,29,Ugo Bonnet,30,France,ST,400000.0
+France,Ligue 2,EA Guingamp,17,Jacques Siwe,22,France,ST,200000.0
+France,Ligue 2,Grenoble Foot 38,7,Pape Meïssa Ba,26,Senegal,ST,1000000.0
+France,Ligue 2,Grenoble Foot 38,17,Virgiliu Postolachi,24,Moldova,ST,600000.0
+France,Ligue 2,Rodez AF,12,Killian Corredor,23,France,ST,1500000.0
+France,Ligue 2,Rodez AF,17,Andreas Hountondji,21,Benin,ST,1500000.0
+France,Ligue 2,Rodez AF,22,Taïryk Arconte,20,Guadeloupe,ST,700000.0
+France,Ligue 2,Rodez AF,25,Clément Depres,29,France,ST,300000.0
+France,Ligue 2,Valenciennes FC,96,Flamarion,27,Brazil,ST,1000000.0
+France,Ligue 2,Valenciennes FC,9,Siriné Doucouré,22,Mali,ST,1200000.0
+France,Ligue 2,Valenciennes FC,90,Mathias Oyewusi,25,Nigeria,ST,850000.0
+France,Ligue 2,Valenciennes FC,10,Nick Venema,25,Netherlands,ST,400000.0
+France,Ligue 2,Valenciennes FC,18,Andrew Jung,26,France,ST,400000.0
+France,Ligue 2,Valenciennes FC,99,Yassine Haouari,21,Algeria,ST,100000.0
+France,Ligue 2,Valenciennes FC,26,Cheikh Diouf,20,Senegal,ST,50000.0
+France,Ligue 2,USL Dunkerque,9,Samy Baghdadi,26,France,ST,300000.0
+France,Ligue 2,USL Dunkerque,18,Gaëtan Courtet,35,France,ST,300000.0
+France,Ligue 2,USL Dunkerque,21,Armand Gnanduillet,32,Cote d'Ivoire,ST,300000.0
+France,Ligue 2,USL Dunkerque,24,Elhadj Bah,22,Guinea,ST,200000.0
+France,Ligue 2,Pau FC,9,Yanis Begraoui,22,Morocco,ST,1000000.0
+France,Ligue 2,Pau FC,11,Mons Bassouamina,25,Congo,ST,800000.0
+France,Ligue 2,Pau FC,10,Khalid Boutaïb,36,Morocco,ST,200000.0
+France,Ligue 2,Pau FC,30,Yonis Njoh,20,France,ST,200000.0
+France,Ligue 2,Pau FC,33,Sonny Degert,23,France,ST,100000.0
+France,Ligue 2,Pau FC,20,Loïck Lespinasse,23,France,ST,50000.0
+France,Ligue 2,SC Bastia,10,Migouel Alfarela,26,France,ST,800000.0
+France,Ligue 2,SC Bastia,31,Facinet Conte,19,Guinea,ST,800000.0
+France,Ligue 2,SC Bastia,9,Benjamin Santelli,32,France,ST,400000.0
+France,Ligue 2,SC Bastia,14,Gaëtan Charbonnier,35,France,ST,300000.0
+France,Ligue 2,Quevilly - Rouen Métropole,9,Sambou Soumano,23,Senegal,ST,1500000.0
+France,Ligue 2,Quevilly - Rouen Métropole,19,Kalifa Coulibaly,32,Mali,ST,500000.0
+France,Ligue 2,Quevilly - Rouen Métropole,14,Alan Do Marcolino,22,Gabon,ST,200000.0
+France,Ligue 2,Quevilly - Rouen Métropole,35,Robin Legendre,22,France,ST,150000.0
+France,Ligue 2,FC Annecy,7,Kapit Djoco,28,France,ST,600000.0
+France,Ligue 2,FC Annecy,19,Samuel Ntamack,22,France,ST,600000.0
+France,Ligue 2,FC Annecy,10,Warren Caddy,27,Madagascar,ST,400000.0
+France,Ligue 2,FC Annecy,15,Brian Beyer,27,France,ST,400000.0
+France,Ligue 2,FC Annecy,27,Ousmane Camara,22,Guinea,ST,400000.0
+France,Ligue 2,FC Annecy,23,Alexy Bosetti,30,France,ST,300000.0
+France,Ligue 2,FC Annecy,24,Jonathan Kodjia,34,Cote d'Ivoire,ST,300000.0
+France,Ligue 2,FC Annecy,9,Romain Spano,29,France,ST,200000.0
+France,Ligue 2,AC Ajaccio,18,Christopher Ibayi,28,Congo,ST,600000.0
+France,Ligue 2,AC Ajaccio,11,Ben Hamed Touré,20,Cote d'Ivoire,ST,500000.0
+France,Ligue 2,AC Ajaccio,22,Moussa Soumano,18,France,ST,500000.0
+France,Ligue 2,AC Ajaccio,19,Al Hassan Touré,23,Australia,ST,350000.0
+France,Ligue 2,AC Ajaccio,9,Yoann Touzghar,37,Tunisia,ST,250000.0
+France,Ligue 2,Stade Lavallois,11,Rémy Labeau Lascary,21,Guadeloupe,ST,1000000.0
+France,Ligue 2,Stade Lavallois,29,Pablo Pagis,21,France,ST,1000000.0
+France,Ligue 2,Stade Lavallois,14,Jordan Tell,26,Guadeloupe,ST,400000.0
+France,Ligue 2,Stade Lavallois,18,Malik Tchokounté,35,France,ST,300000.0
+France,Ligue 2,Stade Lavallois,19,Noa Mupemba,21,France,ST,50000.0
+France,Ligue 2,US Concarneau,10,Fahd El Khoumisti,30,France,ST,500000.0
+France,Ligue 2,US Concarneau,14,Pape Ibnou Ba,31,Mauritania,ST,500000.0
+France,Ligue 2,US Concarneau,9,Noha Ndombasi,22,France,ST,400000.0
+France,Ligue 2,US Concarneau,18,Yanis Merdji,30,France,ST,300000.0
+France,Ligue 2,US Concarneau,13,Bevic Moussiti-Oko,29,Congo,ST,225000.0
+France,Ligue 2,US Concarneau,24,Ambroise Gboho,29,Cote d'Ivoire,ST,200000.0
+France,Ligue 2,US Concarneau,22,Clément Rodrigues,23,France,ST,150000.0
+France,Championnat National,FC Sochaux-Montbéliard,9,N'Dri Koffi,22,Cote d'Ivoire,ST,600000.0
+France,Championnat National,FC Sochaux-Montbéliard,22,Kévin Zohi,27,Mali,ST,500000.0
+France,Championnat National,Dijon FCO,21,Mohamed Ben Fredj,23,Tunisia,ST,400000.0
+France,Championnat National,Dijon FCO,7,Roger Assalé,30,Cote d'Ivoire,ST,300000.0
+France,Championnat National,Dijon FCO,22,Kader N'Chobi,28,France,ST,300000.0
+France,Championnat National,Dijon FCO,19,Joseph Mendes,33,Guinea-Bissau,ST,200000.0
+France,Championnat National,Red Star FC,23,Jovany Ikanga,22,France,ST,400000.0
+France,Championnat National,Red Star FC,29,Hacène Benali,24,Algeria,ST,350000.0
+France,Championnat National,Red Star FC,17,Ivann Botella,24,France,ST,300000.0
+France,Championnat National,Red Star FC,27,Achille Anani,29,Cote d'Ivoire,ST,300000.0
+France,Championnat National,Red Star FC,9,Alioune Fall,29,Senegal,ST,100000.0
+France,Championnat National,FC Versailles 78,2,Mondy Prunier,24,Haiti,ST,350000.0
+France,Championnat National,FC Versailles 78,21,Mehdi Baaloudj,23,Algeria,ST,300000.0
+France,Championnat National,FC Versailles 78,11,Yohan Brun,29,France,ST,100000.0
+France,Championnat National,FC Versailles 78,25,Kévin Mbala,23,France,ST,50000.0
+France,Championnat National,Nîmes Olympique,28,Freddy Mbemba,21,France,ST,400000.0
+France,Championnat National,Nîmes Olympique,24,Abdoulaye Sané,31,Senegal,ST,375000.0
+France,Championnat National,Nîmes Olympique,9,Orphé Mbina,23,Gabon,ST,300000.0
+France,Championnat National,Nîmes Olympique,15,Ismaël Camara,23,Guinea,ST,200000.0
+France,Championnat National,Nîmes Olympique,10,Mahamadou Doucouré,23,Mali,ST,150000.0
+France,Championnat National,AS Nancy-Lorraine,28,Kévin Farade,28,Martinique,ST,300000.0
+France,Championnat National,AS Nancy-Lorraine,9,Cheikh Touré,27,France,ST,200000.0
+France,Championnat National,AS Nancy-Lorraine,18,Jonathan Rivas,32,France,ST,150000.0
+France,Championnat National,AS Nancy-Lorraine,27,Josselin Gromat,26,France,ST,150000.0
+France,Championnat National,AS Nancy-Lorraine,8,Walid Bouabdeli,23,France,ST,50000.0
+France,Championnat National,FC Villefranche-Beaujolais,9,Amine Messoussa,19,France,ST,400000.0
+France,Championnat National,FC Villefranche-Beaujolais,12,Claudy M'Buyi,24,France,ST,400000.0
+France,Championnat National,FC Villefranche-Beaujolais,19,Idrissa Ba,33,France,ST,200000.0
+France,Championnat National,US Avranches,7,Steven Nsimba,27,France,ST,150000.0
+France,Championnat National,Le Mans FC,31,Adam Hammoudi,21,France,ST,25000.0
+France,Championnat National,Le Mans FC,9,Antoine Rabillard,28,France,ST,400000.0
+France,Championnat National,Le Mans FC,15,Arnold Vula,25,DR Congo,ST,200000.0
+France,Championnat National,Le Mans FC,25,Dame Gueye,28,Senegal,ST,200000.0
+France,Championnat National,FC Martigues,9,Romain Montiel,28,France,ST,350000.0
+France,Championnat National,FC Martigues,18,Gaëtan Missi Mezu,27,Gabon,ST,200000.0
+France,Championnat National,FC Martigues,11,Abdoul Diawara,33,France,ST,50000.0
+France,Championnat National,Chamois Niortais FC,24,Tyrone Tormin,22,France,ST,100000.0
+France,Championnat National,Chamois Niortais FC,9,Marks Inchaud,21,France,ST,350000.0
+France,Championnat National,Chamois Niortais FC,19,Nesta Elphege,23,France,ST,300000.0
+France,Championnat National,Chamois Niortais FC,8,Godwin Bentil,23,Ghana,ST,150000.0
+France,Championnat National,Chamois Niortais FC,22,Ryan Bakayoko,22,France,ST,150000.0
+France,Championnat National,SO Cholet,12,Yankuba Jarju,27,The Gambia,ST,350000.0
+France,Championnat National,SO Cholet,10,Oussama Abdeldjelil,30,Algeria,ST,200000.0
+France,Championnat National,SO Cholet,35,Jeffrey Quarshie,32,France,ST,200000.0
+France,Championnat National,SO Cholet,9,Andgelo Mosset,21,France,ST,50000.0
+France,Championnat National,LB Châteauroux,9,Geoffray Durbant,31,Guadeloupe,ST,400000.0
+France,Championnat National,LB Châteauroux,29,Zakaria Bengueddoudj,24,France,ST,300000.0
+France,Championnat National,LB Châteauroux,7,François Mendy,24,France,ST,100000.0
+France,Championnat National,US Orléans,10,Adrian Dabasse,30,France,ST,250000.0
+France,Championnat National,US Orléans,9,Johanne Akassou,28,France,ST,100000.0
+France,Championnat National,US Orléans,17,Philippe Etoughe,28,Gabon,ST,100000.0
+France,Championnat National,FC Rouen 1899,7,Damien Loppy,26,France,ST,200000.0
+France,Championnat National,FC Rouen 1899,27,Hicham Benkaid,33,France,ST,200000.0
+France,Championnat National,Grand Ouest Association Lyonnaise FC,14,Alexis Gonçalves Pereira,27,Cape Verde,ST,200000.0
+France,Championnat National,Grand Ouest Association Lyonnaise FC,9,Thibault Rambaud,26,France,ST,100000.0
+France,Championnat National,Grand Ouest Association Lyonnaise FC,12,Malick Assef,29,France,ST,100000.0
+France,Championnat National,Grand Ouest Association Lyonnaise FC,26,Loïc Socka Bongué,25,France,ST,100000.0
+France,Championnat National,Grand Ouest Association Lyonnaise FC,29,Florian Raspentino,34,France,ST,50000.0
+France,Championnat National,SAS Epinal,27,Karim Coulibaly,30,France,ST,100000.0
+France,Championnat National,SAS Epinal,9,Hugo Chambon,27,France,ST,50000.0
+France,Championnat National,Marignane-Gignac-Côte-Bleue FC,9,Karim Bouhmidi,25,Algeria,ST,200000.0
+France,Championnat National,Marignane-Gignac-Côte-Bleue FC,12,Mehdi Nagui,28,France,ST,50000.0
+France,Championnat National 2 - Groupe A,Toulouse FC B,-,Bonota Traoré,20,France,ST,50000.0
+France,Championnat National 2 - Groupe A,Toulouse FC B,-,Alexis Ntamack,19,France,ST,
+France,Championnat National 2 - Groupe A,Toulouse FC B,-,Warren Ngako,19,France,ST,
+France,Championnat National 2 - Groupe A,Toulouse FC B,-,Mamadou Kébé,20,France,ST,
+France,Championnat National 2 - Groupe A,Toulouse FC B,-,Giacomo Perez,20,France,ST,
+France,Championnat National 2 - Groupe A,FC Chamalières,13,Joseph Séry,23,France,ST,
+France,Championnat National 2 - Groupe A,FC Chamalières,11,Bakeba-Lamine Dibane,28,France,ST,
+France,Championnat National 2 - Groupe A,FC Chamalières,28,Michael Nsilu Kuyenga,22,France,ST,
+France,Championnat National 2 - Groupe A,Hyères 83 FC,5,Tiago,30,Brazil,ST,
+France,Championnat National 2 - Groupe A,Hyères 83 FC,7,Abdelkrim Khaled,24,France,ST,
+France,Championnat National 2 - Groupe A,Hyères 83 FC,11,Alexis Ebrard,27,France,ST,
+France,Championnat National 2 - Groupe A,Aubagne FC,9,Cédric Odzoumo,28,France,ST,
+France,Championnat National 2 - Groupe A,Aubagne FC,6,Adem Tafni,19,France,ST,
+France,Championnat National 2 - Groupe A,Aubagne FC,11,Bilel Tafni,19,France,ST,
+France,Championnat National 2 - Groupe A,Aubagne FC,24,Raphaël Pioton,28,France,ST,
+France,Championnat National 2 - Groupe A,AS Cannes,9,Lenny Leonil,26,France,ST,
+France,Championnat National 2 - Groupe A,AS Cannes,11,Souleiman Djabour,35,France,ST,
+France,Championnat National 2 - Groupe A,AS Cannes,10,Stanislas Kielt,22,France,ST,
+France,Championnat National 2 - Groupe A,Fréjus-Saint-Raphaël FC,9,Noah Bongo,25,Gabon,ST,
+France,Championnat National 2 - Groupe A,Fréjus-Saint-Raphaël FC,10,Akim Orinel,37,France,ST,
+France,Championnat National 2 - Groupe A,Fréjus-Saint-Raphaël FC,18,Ottman Dadoune,29,France,ST,
+France,Championnat National 2 - Groupe A,Fréjus-Saint-Raphaël FC,29,Davel Mayela,28,Congo,ST,
+France,Championnat National 2 - Groupe A,Fréjus-Saint-Raphaël FC,19,Jules Varvat,23,France,ST,
+France,Championnat National 2 - Groupe A,FC Bourgoin-Jallieu,-,Sami Ben Amar,26,Morocco,ST,
+France,Championnat National 2 - Groupe A,FC Bourgoin-Jallieu,9,Celal Bozkurt,26,France,ST,
+France,Championnat National 2 - Groupe A,FC Bourgoin-Jallieu,17,Jean-Charles Marna,28,France,ST,
+France,Championnat National 2 - Groupe A,FC Bourgoin-Jallieu,25,Mehdi Moujetzky,20,France,ST,
+France,Championnat National 2 - Groupe A,Jura Sud Foot,9,Mohamed Guilavogui,27,Mali,ST,
+France,Championnat National 2 - Groupe A,Jura Sud Foot,18,Marvin Adélaïde,27,France,ST,
+France,Championnat National 2 - Groupe A,Jura Sud Foot,20,Bafodé Daramy,25,France,ST,
+France,Championnat National 2 - Groupe A,Jura Sud Foot,21,Yassine Assakour,26,France,ST,
+France,Championnat National 2 - Groupe A,Le Puy Foot 43 Auvergne,18,Bryan Adinany,24,Comoros,ST,
+France,Championnat National 2 - Groupe A,Le Puy Foot 43 Auvergne,20,Maxence Fournel,23,France,ST,
+France,Championnat National 2 - Groupe A,Le Puy Foot 43 Auvergne,14,Jordan Alexandre,24,France,ST,
+France,Championnat National 2 - Groupe A,Le Puy Foot 43 Auvergne,17,Keeliane Leite,25,France,ST,
+France,Championnat National 2 - Groupe A,Olympique Alès,-,Joris Correa,30,France,ST,
+France,Championnat National 2 - Groupe A,Olympique Alès,7,Franck Betra,27,France,ST,
+France,Championnat National 2 - Groupe A,Olympique Alès,8,Lucas Franco,32,France,ST,
+France,Championnat National 2 - Groupe A,Olympique Alès,9,Arnold Abelinti,32,French Guiana,ST,
+France,Championnat National 2 - Groupe A,Olympique Alès,19,Brahim Mahamat,28,Chad,ST,
+France,Championnat National 2 - Groupe A,RC Pays de Grasse,7,Paulin Puel,26,France,ST,
+France,Championnat National 2 - Groupe A,RC Pays de Grasse,9,Isaac Karamoko,21,France,ST,
+France,Championnat National 2 - Groupe A,RC Pays de Grasse,-,Stevo Chillemi,19,France,ST,
+France,Championnat National 2 - Groupe A,RC Pays de Grasse,-,Sandro Pagès,19,France,ST,
+France,Championnat National 2 - Groupe A,RC Pays de Grasse,11,Loutfi Daoudou,26,Comoros,ST,
+France,Championnat National 2 - Groupe A,RC Pays de Grasse,20,Tony Badalassi,21,France,ST,
+France,Championnat National 2 - Groupe A,RC Pays de Grasse,28,Sonel Gibon,18,France,ST,
+France,Championnat National 2 - Groupe A,RC Pays de Grasse,29,Evan Biondo,21,France,ST,
+France,Championnat National 2 - Groupe A,Sporting Club de Toulon,9,Sadio Amadou Diallo,22,Guinea,ST,
+France,Championnat National 2 - Groupe A,Sporting Club de Toulon,10,Farah Gomis,31,Senegal,ST,
+France,Championnat National 2 - Groupe A,Sporting Club de Toulon,14,Bertrand Fourrier,26,France,ST,
+France,Championnat National 2 - Groupe A,Sporting Club de Toulon,15,Raphaël Mourdi,25,France,ST,
+France,Championnat National 2 - Groupe A,Sporting Club de Toulon,21,Keba Sylla,25,France,ST,
+France,Championnat National 2 - Groupe A,Sporting Club de Toulon,28,Abdoulaye Diallo,32,Senegal,ST,
+France,Championnat National 2 - Groupe A,Andrézieux-Bouthéon FC,-,Idriss Saadi,32,Algeria,ST,
+France,Championnat National 2 - Groupe A,Andrézieux-Bouthéon FC,-,Victor Glaentzlin,25,France,ST,
+France,Championnat National 2 - Groupe A,Andrézieux-Bouthéon FC,-,Martins Toutou,28,France,ST,
+France,Championnat National 2 - Groupe A,Andrézieux-Bouthéon FC,-,Moussa Diaby,21,France,ST,
+France,Championnat National 2 - Groupe A,Andrézieux-Bouthéon FC,-,Habib Koné,24,France,ST,
+France,Championnat National 2 - Groupe A,Andrézieux-Bouthéon FC,33,Rayan Ech-Chergui,25,France,ST,
+France,Championnat National 2 - Groupe A,Thonon Évian Grand Genève FC,9,Ilyes Chaïbi,27,France,ST,
+France,Championnat National 2 - Groupe A,Thonon Évian Grand Genève FC,18,Hugo Roussey,27,France,ST,
+France,Championnat National 2 - Groupe A,Thonon Évian Grand Genève FC,21,Mathis Clairicia,21,France,ST,
+France,Championnat National 2 - Groupe A,Thonon Évian Grand Genève FC,-,Mandiaye Sene,22,Senegal,ST,
+France,Championnat National 2 - Groupe A,Thonon Évian Grand Genève FC,11,Pascal Leno,27,Guinea,ST,
+France,Championnat National 2 - Groupe A,Thonon Évian Grand Genève FC,15,Issiaka Bamba,30,France,ST,
+France,Championnat National 2 - Groupe B,Angers SCO B,20,Ulrick Eneme-Ella,22,Gabon,ST,150000.0
+France,Championnat National 2 - Groupe B,Angers SCO B,-,Guédé Nadje,20,France,ST,100000.0
+France,Championnat National 2 - Groupe B,Angers SCO B,-,Mathys Houdayer,18,France,ST,
+France,Championnat National 2 - Groupe B,Angers SCO B,-,Karim Boutera,18,France,ST,
+France,Championnat National 2 - Groupe B,La Roche Vendée Football,23,Hatim Far,22,France,ST,250000.0
+France,Championnat National 2 - Groupe B,La Roche Vendée Football,27,Adama Sarr,33,France,ST,
+France,Championnat National 2 - Groupe B,La Roche Vendée Football,31,Olivier Boissy,25,Senegal,ST,
+France,Championnat National 2 - Groupe B,La Roche Vendée Football,10,Momar Ndiaye,30,France,ST,
+France,Championnat National 2 - Groupe B,La Roche Vendée Football,11,Axel Dabin,28,France,ST,
+France,Championnat National 2 - Groupe B,La Roche Vendée Football,17,Matys Vrignon,20,France,ST,
+France,Championnat National 2 - Groupe B,Paris 13 Atletico,12,Eli Wissa,21,France,ST,
+France,Championnat National 2 - Groupe B,Paris 13 Atletico,9,Sanoussi Diaby,25,France,ST,
+France,Championnat National 2 - Groupe B,Trélissac FC,11,Nantchuang Nana Gassa Gonga,26,France,ST,
+France,Championnat National 2 - Groupe B,Trélissac FC,14,Jordan Pothier,23,France,ST,
+France,Championnat National 2 - Groupe B,Angoulême Charente FC,22,Karl Fabien,23,Martinique,ST,
+France,Championnat National 2 - Groupe B,Angoulême Charente FC,23,Santiago Ciganda,30,Uruguay,ST,
+France,Championnat National 2 - Groupe B,Angoulême Charente FC,25,Amadou Coulibaly,26,Mali,ST,
+France,Championnat National 2 - Groupe B,Angoulême Charente FC,29,Noah Marchesseau,21,France,ST,
+France,Championnat National 2 - Groupe B,Avoine Olympique Chinon Cinais,5,Fatrie Sakhi,34,France,ST,
+France,Championnat National 2 - Groupe B,Avoine Olympique Chinon Cinais,11,Sullivan Lakhamy,26,France,ST,
+France,Championnat National 2 - Groupe B,Avoine Olympique Chinon Cinais,-,Pape Cheikh Traoré,24,Senegal,ST,
+France,Championnat National 2 - Groupe B,Avoine Olympique Chinon Cinais,24,Junior Buckman,25,France,ST,
+France,Championnat National 2 - Groupe B,Avoine Olympique Chinon Cinais,33,Johan Bertrand,21,France,ST,
+France,Championnat National 2 - Groupe B,Bergerac Périgord FC,24,Romain Escarpit,25,France,ST,
+France,Championnat National 2 - Groupe B,Bergerac Périgord FC,9,Valdir Fonseca,21,France,ST,
+France,Championnat National 2 - Groupe B,Bergerac Périgord FC,22,Daniel Glao,22,France,ST,
+France,Championnat National 2 - Groupe B,Bergerac Périgord FC,34,Rémy Vilela Vieira,20,France,ST,
+France,Championnat National 2 - Groupe B,Blois Football 41,11,Hugo Reulier,29,France,ST,
+France,Championnat National 2 - Groupe B,Blois Football 41,24,Exaucé Ngassaki,27,Congo,ST,
+France,Championnat National 2 - Groupe B,Blois Football 41,9,Younes Zennouhi,26,France,ST,
+France,Championnat National 2 - Groupe B,Blois Football 41,17,M'Bemba Diakité,21,Guinea,ST,
+France,Championnat National 2 - Groupe B,Blois Football 41,33,Arthur Fiquet,20,France,ST,
+France,Championnat National 2 - Groupe B,Bourges Foot 18,9,Romain Armand,37,France,ST,
+France,Championnat National 2 - Groupe B,Bourges Foot 18,22,Ruben Evora Moniz,23,Portugal,ST,
+France,Championnat National 2 - Groupe B,Bourges Foot 18,29,Moussa Konaté,31,Senegal,ST,
+France,Championnat National 2 - Groupe B,Bourges Foot 18,28,Donald Onana,22,Cameroon,ST,
+France,Championnat National 2 - Groupe B,FC Libourne,19,Malick Seck,34,Senegal,ST,
+France,Championnat National 2 - Groupe B,FC Libourne,7,Ahmadou Souane,30,France,ST,
+France,Championnat National 2 - Groupe B,FC Libourne,9,Anthony Castera,28,France,ST,
+France,Championnat National 2 - Groupe B,FC Libourne,11,Abdulakeem Agoro,22,Nigeria,ST,
+France,Championnat National 2 - Groupe B,FC Libourne,27,Tanguy Guérineau,27,France,ST,
+France,Championnat National 2 - Groupe B,FC Libourne,28,Hammond Agamah,27,France,ST,
+France,Championnat National 2 - Groupe B,Olympique Saumur,10,Wail Bouhoutt,32,Morocco,ST,
+France,Championnat National 2 - Groupe B,Olympique Saumur,12,Franck Chehata,32,France,ST,
+France,Championnat National 2 - Groupe B,Olympique Saumur,18,Yannis Dogo,31,France,ST,
+France,Championnat National 2 - Groupe B,Olympique Saumur,25,Kouamé N'Guessan,29,Cote d'Ivoire,ST,
+France,Championnat National 2 - Groupe B,Olympique Saumur,26,Abdel Nour Bouhenni,25,France,ST,
+France,Championnat National 2 - Groupe B,Olympique Saumur,31,Nadjib Souazara Anzizi,28,Belgium,ST,
+France,Championnat National 2 - Groupe B,SO Romorantin,33,Yoann Beaka,21,France,ST,
+France,Championnat National 2 - Groupe B,SO Romorantin,9,Jordan Popineau,29,France,ST,
+France,Championnat National 2 - Groupe B,SO Romorantin,25,Kemal Sarigöl,19,France,ST,
+France,Championnat National 2 - Groupe B,Saint-Pryvé Saint-Hilaire FC,20,Idrissa Sylla,33,Guinea,ST,
+France,Championnat National 2 - Groupe B,Saint-Pryvé Saint-Hilaire FC,11,Mathis Cherchour,24,France,ST,
+France,Championnat National 2 - Groupe B,Saint-Pryvé Saint-Hilaire FC,25,Théo Mothmora,22,France,ST,
+France,Championnat National 2 - Groupe B,Les Herbiers VF,9,Jérémy Billy,30,France,ST,
+France,Championnat National 2 - Groupe B,Les Herbiers VF,11,Michaël Nilor,26,France,ST,
+France,Championnat National 2 - Groupe B,Les Herbiers VF,26,Ervin Taha,25,France,ST,
+Germany,Bundesliga,Bayern Munich,25,Thomas Müller,34,Germany,ST,10000000.0
+Germany,Bundesliga,Bayern Munich,9,Harry Kane,30,England,ST,110000000.0
+Germany,Bundesliga,Bayern Munich,13,Eric-Maxim Choupo-Moting,35,Cameroon,ST,3000000.0
+Germany,Bundesliga,Bayer 04 Leverkusen,22,Victor Boniface,23,Nigeria,ST,40000000.0
+Germany,Bundesliga,Bayer 04 Leverkusen,14,Patrik Schick,28,Czech Republic,ST,22000000.0
+Germany,Bundesliga,Bayer 04 Leverkusen,23,Adam Hlozek,21,Czech Republic,ST,12000000.0
+Germany,Bundesliga,Bayer 04 Leverkusen,9,Borja Iglesias,31,Spain,ST,6000000.0
+Germany,Bundesliga,RB Leipzig,17,Loïs Openda,24,Belgium,ST,60000000.0
+Germany,Bundesliga,RB Leipzig,30,Benjamin Sesko,20,Slovenia,ST,40000000.0
+Germany,Bundesliga,RB Leipzig,9,Yussuf Poulsen,29,Denmark,ST,7000000.0
+Germany,Bundesliga,Borussia Dortmund,18,Youssoufa Moukoko,19,Germany,ST,25000000.0
+Germany,Bundesliga,Borussia Dortmund,14,Niclas Füllkrug,31,Germany,ST,15000000.0
+Germany,Bundesliga,Borussia Dortmund,9,Sébastien Haller,29,Cote d'Ivoire,ST,14000000.0
+Germany,Bundesliga,VfB Stuttgart,9,Serhou Guirassy,28,Guinea,ST,40000000.0
+Germany,Bundesliga,VfB Stuttgart,26,Deniz Undav,27,Germany,ST,22000000.0
+Germany,Bundesliga,Eintracht Frankfurt,7,Omar Marmoush,25,Egypt,ST,22000000.0
+Germany,Bundesliga,Eintracht Frankfurt,11,Hugo Ekitiké,21,France,ST,15000000.0
+Germany,Bundesliga,Eintracht Frankfurt,9,Sasa Kalajdzic,26,Austria,ST,5000000.0
+Germany,Bundesliga,Eintracht Frankfurt,48,Nacho Ferri,19,Spain,ST,2000000.0
+Germany,Bundesliga,Eintracht Frankfurt,43,Noel Futkeu,21,Germany,ST,400000.0
+Germany,Bundesliga,VfL Wolfsburg,23,Jonas Wind,25,Denmark,ST,20000000.0
+Germany,Bundesliga,VfL Wolfsburg,10,Lukas Nmecha,25,Germany,ST,7000000.0
+Germany,Bundesliga,VfL Wolfsburg,11,Tiago Tomás,21,Portugal,ST,6000000.0
+Germany,Bundesliga,VfL Wolfsburg,9,Amin Sarr,23,Sweden,ST,4000000.0
+Germany,Bundesliga,VfL Wolfsburg,17,Kevin Behrens,33,Germany,ST,3000000.0
+Germany,Bundesliga,VfL Wolfsburg,18,Dzenan Pejcinovic,19,Germany,ST,1000000.0
+Germany,Bundesliga,SC Freiburg,26,Maximilian Philipp,30,Germany,ST,2000000.0
+Germany,Bundesliga,SC Freiburg,38,Michael Gregoritsch,29,Austria,ST,8000000.0
+Germany,Bundesliga,SC Freiburg,9,Lucas Höler,29,Germany,ST,5000000.0
+Germany,Bundesliga,SC Freiburg,20,Junior Adamu,22,Austria,ST,5000000.0
+Germany,Bundesliga,SC Freiburg,44,Maximilian Breunig,23,Germany,ST,450000.0
+Germany,Bundesliga,Borussia Mönchengladbach,31,Tomas Cvancara,23,Czech Republic,ST,10000000.0
+Germany,Bundesliga,Borussia Mönchengladbach,14,Alassane Plea,31,France,ST,8000000.0
+Germany,Bundesliga,Borussia Mönchengladbach,13,Jordan,27,United States,ST,6000000.0
+Germany,Bundesliga,Borussia Mönchengladbach,28,Grant-Leon Ranos,20,Armenia,ST,1000000.0
+Germany,Bundesliga,Borussia Mönchengladbach,49,Shio Fukuda,20,Japan,ST,300000.0
+Germany,Bundesliga,1.FC Union Berlin,10,Kevin Volland,31,Germany,ST,5000000.0
+Germany,Bundesliga,1.FC Union Berlin,14,Yorbe Vertessen,23,Belgium,ST,4000000.0
+Germany,Bundesliga,1.FC Union Berlin,16,Benedict Hollerbach,22,Germany,ST,3500000.0
+Germany,Bundesliga,1.FC Union Berlin,11,Chris Bedia,28,Cote d'Ivoire,ST,3000000.0
+Germany,Bundesliga,1.FC Union Berlin,9,Mikkel Kaufmann,23,Denmark,ST,2700000.0
+Germany,Bundesliga,TSG 1899 Hoffenheim,14,Maximilian Beier,21,Germany,ST,24000000.0
+Germany,Bundesliga,TSG 1899 Hoffenheim,7,Mergim Berisha,25,Germany,ST,12000000.0
+Germany,Bundesliga,TSG 1899 Hoffenheim,10,Wout Weghorst,31,Netherlands,ST,7000000.0
+Germany,Bundesliga,TSG 1899 Hoffenheim,27,Andrej Kramaric,32,Croatia,ST,6000000.0
+Germany,Bundesliga,TSG 1899 Hoffenheim,9,Ihlas Bebou,29,Togo,ST,4000000.0
+Germany,Bundesliga,TSG 1899 Hoffenheim,33,Max Moerstedt,18,Germany,ST,
+Germany,Bundesliga,FC Augsburg,9,Ermedin Demirovic,26,Bosnia-Herzegovina,ST,28000000.0
+Germany,Bundesliga,FC Augsburg,7,Dion Beljo,22,Croatia,ST,5000000.0
+Germany,Bundesliga,FC Augsburg,21,Phillip Tietz,26,Germany,ST,5000000.0
+Germany,Bundesliga,FC Augsburg,20,Sven Michel,33,Germany,ST,900000.0
+Germany,Bundesliga,1.FSV Mainz 05,29,Jonathan Burkardt,23,Germany,ST,7000000.0
+Germany,Bundesliga,1.FSV Mainz 05,44,Nelson Weiper,19,Germany,ST,5000000.0
+Germany,Bundesliga,1.FSV Mainz 05,17,Ludovic Ajorque,30,France,ST,4000000.0
+Germany,Bundesliga,1.FSV Mainz 05,9,Karim Onisiwo,32,Austria,ST,2000000.0
+Germany,Bundesliga,1.FSV Mainz 05,11,Jessic Ngankam,23,Germany,ST,2000000.0
+Germany,Bundesliga,SV Werder Bremen,7,Marvin Ducksch,30,Germany,ST,9000000.0
+Germany,Bundesliga,SV Werder Bremen,9,Dawid Kownacki,27,Poland,ST,2000000.0
+Germany,Bundesliga,SV Werder Bremen,29,Nick Woltemade,22,Germany,ST,2000000.0
+Germany,Bundesliga,1.FC Köln,27,Davie Selke,29,Germany,ST,3500000.0
+Germany,Bundesliga,1.FC Köln,9,Luca Waldschmidt,27,Germany,ST,3000000.0
+Germany,Bundesliga,1.FC Köln,21,Steffen Tigges,25,Germany,ST,1500000.0
+Germany,Bundesliga,1.FC Köln,13,Mark Uth,32,Germany,ST,1000000.0
+Germany,Bundesliga,1.FC Köln,42,Damion Downs,19,United States,ST,1000000.0
+Germany,Bundesliga,1.FC Köln,33,Florian Dietz,25,Germany,ST,800000.0
+Germany,Bundesliga,1.FC Köln,23,Sargis Adamyan,30,Armenia,ST,700000.0
+Germany,Bundesliga,VfL Bochum,29,Moritz Broschinski,23,Germany,ST,2000000.0
+Germany,Bundesliga,VfL Bochum,33,Philipp Hofmann,31,Germany,ST,1800000.0
+Germany,Bundesliga,VfL Bochum,9,Gonçalo Paciência,29,Portugal,ST,1700000.0
+Germany,Bundesliga,1.FC Heidenheim 1846,20,Nikola Dovedan,29,Austria,ST,600000.0
+Germany,Bundesliga,1.FC Heidenheim 1846,10,Tim Kleindienst,28,Germany,ST,5000000.0
+Germany,Bundesliga,1.FC Heidenheim 1846,18,Marvin Pieringer,24,Germany,ST,2500000.0
+Germany,Bundesliga,1.FC Heidenheim 1846,9,Stefan Schimmer,29,Germany,ST,500000.0
+Germany,Bundesliga,1.FC Heidenheim 1846,24,Christian Kühlwetter,27,Germany,ST,500000.0
+Germany,Bundesliga,1.FC Heidenheim 1846,44,Elidon Qenaj,20,Kosovo,ST,100000.0
+Germany,Bundesliga,SV Darmstadt 98,29,Oscar Vilhelmsson,20,Sweden,ST,2000000.0
+Germany,Bundesliga,SV Darmstadt 98,9,Fraser Hornby,24,Scotland,ST,1800000.0
+Germany,Bundesliga,SV Darmstadt 98,7,Braydon Manu,27,Ghana,ST,1500000.0
+Germany,Bundesliga,SV Darmstadt 98,24,Luca Pfeiffer,27,Germany,ST,1200000.0
+Germany,Bundesliga,SV Darmstadt 98,40,Sebastian Polter,33,Germany,ST,700000.0
+Germany,Bundesliga,SV Darmstadt 98,22,Aaron Seydel,28,Germany,ST,500000.0
+Germany,Bundesliga,SV Darmstadt 98,42,Fabio Torsiello,19,Germany,ST,500000.0
+Germany,2. Bundesliga,Hertha BSC,25,Haris Tabakovic,29,Bosnia-Herzegovina,ST,2500000.0
+Germany,2. Bundesliga,Hertha BSC,9,Smail Prevljak,28,Bosnia-Herzegovina,ST,1200000.0
+Germany,2. Bundesliga,Hertha BSC,39,Derry Scherhant,21,Germany,ST,800000.0
+Germany,2. Bundesliga,Hertha BSC,7,Florian Niederlechner,33,Germany,ST,600000.0
+Germany,2. Bundesliga,Hamburger SV,9,Robert Glatzel,30,Germany,ST,3000000.0
+Germany,2. Bundesliga,Hamburger SV,20,András Németh,21,Hungary,ST,1500000.0
+Germany,2. Bundesliga,Hamburger SV,45,Tom Sanne,20,Germany,ST,250000.0
+Germany,2. Bundesliga,Fortuna Düsseldorf,9,Vincent Vermeij,29,Netherlands,ST,1000000.0
+Germany,2. Bundesliga,Fortuna Düsseldorf,36,Marlon Mustapha,22,Austria,ST,900000.0
+Germany,2. Bundesliga,Fortuna Düsseldorf,18,Jona Niemiec,22,Germany,ST,650000.0
+Germany,2. Bundesliga,Fortuna Düsseldorf,22,Christoph Daferner,26,Germany,ST,600000.0
+Germany,2. Bundesliga,1.FC Nuremberg,9,Daichi Hayashi,26,Japan,ST,1000000.0
+Germany,2. Bundesliga,1.FC Nuremberg,7,Felix Lohkemper,29,Germany,ST,500000.0
+Germany,2. Bundesliga,1.FC Nuremberg,20,Sebastian Andersson,32,Sweden,ST,500000.0
+Germany,2. Bundesliga,1.FC Nuremberg,46,Julian Kania,22,Germany,ST,300000.0
+Germany,2. Bundesliga,FC St. Pauli,11,Johannes Eggestein,25,Germany,ST,1500000.0
+Germany,2. Bundesliga,FC St. Pauli,6,Simon Zoller,32,Germany,ST,500000.0
+Germany,2. Bundesliga,FC St. Pauli,9,Maurides,30,Brazil,ST,500000.0
+Germany,2. Bundesliga,FC St. Pauli,14,Etienne Amenyido,26,Togo,ST,500000.0
+Germany,2. Bundesliga,FC St. Pauli,19,Andreas Albers,34,Denmark,ST,350000.0
+Germany,2. Bundesliga,FC Schalke 04,19,Kenan Karaman,30,Türkiye,ST,1500000.0
+Germany,2. Bundesliga,FC Schalke 04,42,Keke Topp,20,Germany,ST,1500000.0
+Germany,2. Bundesliga,FC Schalke 04,11,Bryan Lasme,25,France,ST,900000.0
+Germany,2. Bundesliga,FC Schalke 04,9,Simon Terodde,36,Germany,ST,500000.0
+Germany,2. Bundesliga,Holstein Kiel,9,Benedikt Pichler,26,Austria,ST,1500000.0
+Germany,2. Bundesliga,Holstein Kiel,13,Shuto Machino,24,Japan,ST,1500000.0
+Germany,2. Bundesliga,Holstein Kiel,20,Fiete Arp,24,Germany,ST,800000.0
+Germany,2. Bundesliga,Holstein Kiel,19,Hólmbert Aron Fridjónsson,30,Iceland,ST,300000.0
+Germany,2. Bundesliga,SpVgg Greuther Fürth,30,Armindo Sieb,21,Germany,ST,3500000.0
+Germany,2. Bundesliga,SpVgg Greuther Fürth,19,Tim Lemperle,22,Germany,ST,2000000.0
+Germany,2. Bundesliga,SpVgg Greuther Fürth,10,Branimir Hrgota,31,Sweden,ST,1300000.0
+Germany,2. Bundesliga,SpVgg Greuther Fürth,7,Dennis Srbeny,29,Germany,ST,600000.0
+Germany,2. Bundesliga,SpVgg Greuther Fürth,20,Leander Popp,18,Germany,ST,250000.0
+Germany,2. Bundesliga,Hannover 96,9,Nicolò Tresoldi,19,Germany,ST,5000000.0
+Germany,2. Bundesliga,Hannover 96,36,Cedric Teuchert,27,Germany,ST,2000000.0
+Germany,2. Bundesliga,Hannover 96,16,Havard Nielsen,30,Norway,ST,1000000.0
+Germany,2. Bundesliga,Hannover 96,32,Andreas Voglsammer,32,Germany,ST,800000.0
+Germany,2. Bundesliga,1.FC Kaiserslautern,9,Ragnar Ache,25,Germany,ST,3000000.0
+Germany,2. Bundesliga,1.FC Kaiserslautern,25,Filip Stojilkovic,24,Switzerland,ST,1200000.0
+Germany,2. Bundesliga,1.FC Kaiserslautern,29,Richmond Tachie,24,Germany,ST,800000.0
+Germany,2. Bundesliga,1.FC Kaiserslautern,40,Dickson Abiama,25,Nigeria,ST,700000.0
+Germany,2. Bundesliga,1.FC Kaiserslautern,19,Daniel Hanslik,27,Germany,ST,400000.0
+Germany,2. Bundesliga,Karlsruher SC,9,Igor Matanovic,21,Croatia,ST,4000000.0
+Germany,2. Bundesliga,Karlsruher SC,11,Budu Zivzivadze,30,Georgia,ST,700000.0
+Germany,2. Bundesliga,Karlsruher SC,24,Fabian Schleusener,32,Germany,ST,600000.0
+Germany,2. Bundesliga,SV 07 Elversberg,29,Wahid Faghir,20,Denmark,ST,2500000.0
+Germany,2. Bundesliga,SV 07 Elversberg,24,Luca Schnellbacher,29,Germany,ST,700000.0
+Germany,2. Bundesliga,SV 07 Elversberg,9,Dominik Martinovic,27,Germany,ST,400000.0
+Germany,2. Bundesliga,SV 07 Elversberg,30,Kevin Koffi,37,Italy,ST,100000.0
+Germany,2. Bundesliga,SC Paderborn 07,29,Ilyas Ansah,19,Germany,ST,1500000.0
+Germany,2. Bundesliga,SC Paderborn 07,7,Filip Bilbija,23,Germany,ST,1200000.0
+Germany,2. Bundesliga,SC Paderborn 07,36,Felix Platte,28,Germany,ST,900000.0
+Germany,2. Bundesliga,SC Paderborn 07,10,Koen Kostons,24,Netherlands,ST,650000.0
+Germany,2. Bundesliga,SC Paderborn 07,39,Adriano Grimaldi,33,Germany,ST,400000.0
+Germany,2. Bundesliga,SV Wehen Wiesbaden,18,Ivan Prtajin,27,Croatia,ST,1800000.0
+Germany,2. Bundesliga,SV Wehen Wiesbaden,14,Franko Kovacevic,24,Croatia,ST,800000.0
+Germany,2. Bundesliga,SV Wehen Wiesbaden,25,Nikolas Agrafiotis,23,Netherlands,ST,750000.0
+Germany,2. Bundesliga,SV Wehen Wiesbaden,10,Antonio Jonjic,24,Germany,ST,500000.0
+Germany,2. Bundesliga,SV Wehen Wiesbaden,33,John Iredale,24,Australia,ST,300000.0
+Germany,2. Bundesliga,1.FC Magdeburg,8,Bryan Teixeira,23,Cape Verde,ST,1200000.0
+Germany,2. Bundesliga,1.FC Magdeburg,26,Luca Schuler,25,Germany,ST,700000.0
+Germany,2. Bundesliga,1.FC Magdeburg,9,Luc Castaignos,31,Netherlands,ST,350000.0
+Germany,2. Bundesliga,1.FC Magdeburg,18,Emir Kuhinja,21,Germany,ST,75000.0
+Germany,2. Bundesliga,FC Hansa Rostock,49,Júnior Brumado,24,Brazil,ST,1000000.0
+Germany,2. Bundesliga,FC Hansa Rostock,18,Juan-José Perea,24,Colombia,ST,800000.0
+Germany,2. Bundesliga,FC Hansa Rostock,45,Sveinn Aron Gudjohnsen,25,Iceland,ST,800000.0
+Germany,2. Bundesliga,Eintracht Braunschweig,9,Rayan Philippe,23,France,ST,600000.0
+Germany,2. Bundesliga,Eintracht Braunschweig,10,Florian Krüger,25,Germany,ST,600000.0
+Germany,2. Bundesliga,Eintracht Braunschweig,14,Anthony Ujah,33,Nigeria,ST,600000.0
+Germany,2. Bundesliga,Eintracht Braunschweig,11,Luc Ihorst,24,Germany,ST,350000.0
+Germany,2. Bundesliga,VfL Osnabrück,9,Erik Engelhardt,25,Germany,ST,1000000.0
+Germany,2. Bundesliga,VfL Osnabrück,10,Kwasi Wriedt,29,Ghana,ST,400000.0
+Germany,2. Bundesliga,VfL Osnabrück,21,Lex-Tyger Lobinger,25,Germany,ST,350000.0
+Germany,2. Bundesliga,VfL Osnabrück,23,John Verhoek,35,Netherlands,ST,250000.0
+Germany,3. Liga,Borussia Dortmund II,27,Rodney Elongo-Yombo,22,Germany,ST,400000.0
+Germany,3. Liga,Borussia Dortmund II,29,Jermain Nischalke,21,Germany,ST,300000.0
+Germany,3. Liga,Borussia Dortmund II,22,Paul-Philipp Besong,23,Germany,ST,250000.0
+Germany,3. Liga,Borussia Dortmund II,9,Moses Otuali,21,Germany,ST,225000.0
+Germany,3. Liga,SC Freiburg II,9,Alessio Besio,20,Switzerland,ST,600000.0
+Germany,3. Liga,SC Freiburg II,29,Maximilian Breunig,23,Germany,ST,450000.0
+Germany,3. Liga,SC Freiburg II,18,Hamadi Al-Ghaddioui,33,Morocco,ST,250000.0
+Germany,3. Liga,SG Dynamo Dresden,21,Robin Meißner,24,Germany,ST,450000.0
+Germany,3. Liga,SG Dynamo Dresden,30,Stefan Kutschke,35,Germany,ST,250000.0
+Germany,3. Liga,SG Dynamo Dresden,9,Manuel Schäffler,35,Germany,ST,150000.0
+Germany,3. Liga,SV Sandhausen,10,Rouwen Hennings,36,Germany,ST,250000.0
+Germany,3. Liga,SV Sandhausen,17,David Otto,25,Germany,ST,500000.0
+Germany,3. Liga,SV Sandhausen,23,Markus Pink,33,Austria,ST,400000.0
+Germany,3. Liga,SV Sandhausen,8,Richard Meier,20,Germany,ST,200000.0
+Germany,3. Liga,FC Ingolstadt 04,11,Sebastian Grönning,27,Denmark,ST,500000.0
+Germany,3. Liga,FC Ingolstadt 04,7,Jannik Mause,25,Germany,ST,450000.0
+Germany,3. Liga,FC Ingolstadt 04,37,Pascal Testroet,33,Germany,ST,400000.0
+Germany,3. Liga,FC Ingolstadt 04,31,Julian Kügel,27,Germany,ST,175000.0
+Germany,3. Liga,FC Ingolstadt 04,25,Arian Llugiqi,21,Kosovo,ST,150000.0
+Germany,3. Liga,FC Ingolstadt 04,33,Jeroen Krupa,20,Germany,ST,50000.0
+Germany,3. Liga,TSV 1860 Munich,9,Joël Zwarts,24,Netherlands,ST,400000.0
+Germany,3. Liga,TSV 1860 Munich,19,Fynn Lakenmacher,23,Germany,ST,275000.0
+Germany,3. Liga,TSV 1860 Munich,38,Serhat-Semih Güler,26,Germany,ST,250000.0
+Germany,3. Liga,TSV 1860 Munich,27,Mansour Ouro-Tagba,19,Togo,ST,150000.0
+Germany,3. Liga,1.FC Saarbrücken,9,Kai Brünker,29,Germany,ST,350000.0
+Germany,3. Liga,1.FC Saarbrücken,39,Patrick Schmidt,30,Germany,ST,300000.0
+Germany,3. Liga,1.FC Saarbrücken,22,Simon Stehle,22,Germany,ST,200000.0
+Germany,3. Liga,1.FC Saarbrücken,24,Sebastian Jacob,30,Germany,ST,200000.0
+Germany,3. Liga,1.FC Saarbrücken,38,Léo Sahin,18,Türkiye,ST,
+Germany,3. Liga,MSV Duisburg,33,Daniel Ginczek,33,Germany,ST,400000.0
+Germany,3. Liga,MSV Duisburg,14,Pascal Köpke,28,Germany,ST,200000.0
+Germany,3. Liga,MSV Duisburg,40,Alexander Esswein,34,Germany,ST,200000.0
+Germany,3. Liga,MSV Duisburg,20,Robin Müller,23,Germany,ST,150000.0
+Germany,3. Liga,MSV Duisburg,31,Benjamin Girth,32,Germany,ST,150000.0
+Germany,3. Liga,MSV Duisburg,19,Chinedu Ekene,24,Germany,ST,125000.0
+Germany,3. Liga,MSV Duisburg,36,Kaan İnanoğlu,18,Türkiye,ST,100000.0
+Germany,3. Liga,SSV Jahn Regensburg,20,Noah Ganaus,23,Germany,ST,350000.0
+Germany,3. Liga,SSV Jahn Regensburg,29,Elias Huth,27,Germany,ST,250000.0
+Germany,3. Liga,SSV Jahn Regensburg,30,Valdrin Mustafa,26,Kosovo,ST,200000.0
+Germany,3. Liga,SSV Jahn Regensburg,9,Eric Hottmann,24,Germany,ST,175000.0
+Germany,3. Liga,SSV Jahn Regensburg,36,Kelvin Onuigwe,20,Germany,ST,50000.0
+Germany,3. Liga,Arminia Bielefeld,39,Manuel Wintzheimer,25,Germany,ST,350000.0
+Germany,3. Liga,Arminia Bielefeld,9,Fabian Klos,36,Germany,ST,250000.0
+Germany,3. Liga,Arminia Bielefeld,29,Henrik Koch,17,Germany,ST,250000.0
+Germany,3. Liga,FC Viktoria Köln,9,André Becker,27,Germany,ST,250000.0
+Germany,3. Liga,FC Viktoria Köln,18,Tobias Anselm,24,Austria,ST,250000.0
+Germany,3. Liga,FC Viktoria Köln,38,Seok-ju Hong,20,"Korea, South",ST,150000.0
+Germany,3. Liga,FC Viktoria Köln,42,Malek El Mala,19,Germany,ST,50000.0
+Germany,3. Liga,SV Waldhof Mannheim,13,Terrence Boyd,33,United States,ST,450000.0
+Germany,3. Liga,SV Waldhof Mannheim,19,Jesaja Herrmann,24,Germany,ST,200000.0
+Germany,3. Liga,SV Waldhof Mannheim,22,Yann Mabella,28,Congo,ST,200000.0
+Germany,3. Liga,SV Waldhof Mannheim,32,Kennedy Okpala,19,Germany,ST,200000.0
+Germany,3. Liga,SV Waldhof Mannheim,10,Pascal Sohm,32,Germany,ST,150000.0
+Germany,3. Liga,Hallescher FC,28,Dominic Baumann,28,Germany,ST,350000.0
+Germany,3. Liga,Hallescher FC,33,Jonas Nietfeld,30,Germany,ST,275000.0
+Germany,3. Liga,Rot-Weiss Essen,20,Leonardo Vonic,20,Croatia,ST,400000.0
+Germany,3. Liga,Rot-Weiss Essen,9,Ron Berlinski,29,Germany,ST,200000.0
+Germany,3. Liga,Rot-Weiss Essen,29,Moussa Doumbouya,26,Guinea,ST,200000.0
+Germany,3. Liga,Preußen Münster,23,Malik Batmaz,24,Germany,ST,600000.0
+Germany,3. Liga,Preußen Münster,9,Joel Grodowski,26,Germany,ST,450000.0
+Germany,3. Liga,Preußen Münster,25,Gerrit Wegkamp,31,Germany,ST,200000.0
+Germany,3. Liga,Preußen Münster,28,Dominik Steczyk,24,Poland,ST,200000.0
+Germany,3. Liga,SpVgg Unterhaching,42,Gibson Nana Adu,16,Germany,ST,300000.0
+Germany,3. Liga,SpVgg Unterhaching,34,Patrick Hobsch,29,Germany,ST,250000.0
+Germany,3. Liga,SpVgg Unterhaching,11,Mathias Fetsch,35,Germany,ST,200000.0
+Germany,3. Liga,SpVgg Unterhaching,31,Florian Schmid,23,Germany,ST,75000.0
+Germany,3. Liga,SpVgg Unterhaching,33,Simon Dorfner,19,Germany,ST,25000.0
+Germany,3. Liga,SC Verl,7,Maximilian Wolfram,27,Germany,ST,250000.0
+Germany,3. Liga,SC Verl,13,Lars Lokotsch,27,Germany,ST,250000.0
+Germany,3. Liga,SC Verl,28,Yari Otto,24,Germany,ST,250000.0
+Germany,3. Liga,SC Verl,18,Hendrik Mittelstädt,24,Germany,ST,125000.0
+Germany,3. Liga,SSV Ulm 1846,24,Thomas Kastanaras,21,Germany,ST,500000.0
+Germany,3. Liga,SSV Ulm 1846,33,Felix Higl,27,Germany,ST,225000.0
+Germany,3. Liga,SSV Ulm 1846,9,Lucas Röser,30,Germany,ST,200000.0
+Germany,3. Liga,FC Erzgebirge Aue,15,Marcel Bär,31,Germany,ST,350000.0
+Germany,3. Liga,FC Erzgebirge Aue,30,Maximilian Thiel,31,Germany,ST,200000.0
+Germany,3. Liga,FC Erzgebirge Aue,17,Luc Elsner,20,Germany,ST,25000.0
+Germany,3. Liga,VfB Lübeck,16,Daouda Beleme,23,Burkina Faso,ST,225000.0
+Germany,3. Liga,VfB Lübeck,14,Cyrill Akono,24,Germany,ST,175000.0
+Germany,3. Liga,VfB Lübeck,39,Pascal Breier,32,Germany,ST,175000.0
+Germany,3. Liga,VfB Lübeck,29,Mats Facklam,27,Germany,ST,125000.0
+Germany,3. Liga,VfB Lübeck,9,Kimmo Hovi,29,Finland,ST,100000.0
+Germany,Regionalliga Nord,Hannover 96 II,8,Nick Stepantsev,21,Germany,ST,125000.0
+Germany,Regionalliga Nord,Hannover 96 II,19,Lennart Garlipp,20,Germany,ST,100000.0
+Germany,Regionalliga Nord,Hannover 96 II,29,Sean Busch,20,Germany,ST,100000.0
+Germany,Regionalliga Nord,Hannover 96 II,9,Theo Schröder,22,Germany,ST,25000.0
+Germany,Regionalliga Nord,Hamburger SV II,13,Tom Sanne,20,Germany,ST,250000.0
+Germany,Regionalliga Nord,Hamburger SV II,19,Omar Sillah,20,Germany,ST,75000.0
+Germany,Regionalliga Nord,Hamburger SV II,21,Ohene Köhl,20,Germany,ST,75000.0
+Germany,Regionalliga Nord,Hamburger SV II,9,Ware Pakia,22,Germany,ST,50000.0
+Germany,Regionalliga Nord,Holstein Kiel II,9,Etienne Sohn,20,Germany,ST,75000.0
+Germany,Regionalliga Nord,Holstein Kiel II,19,Laurynas Kulikas,30,Russia,ST,75000.0
+Germany,Regionalliga Nord,Holstein Kiel II,16,Oskar von Esebeck,20,Germany,ST,25000.0
+Germany,Regionalliga Nord,FC St. Pauli II,10,Julian Ulbricht,24,Germany,ST,150000.0
+Germany,Regionalliga Nord,FC St. Pauli II,11,Bennet Winter,19,Germany,ST,125000.0
+Germany,Regionalliga Nord,FC St. Pauli II,7,John Posselt,20,Germany,ST,75000.0
+Germany,Regionalliga Nord,VfB Oldenburg,24,Markus Ziereis,31,Germany,ST,125000.0
+Germany,Regionalliga Nord,VfB Oldenburg,9,Max Wegner,35,Germany,ST,75000.0
+Germany,Regionalliga Nord,VfB Oldenburg,19,Tom Gaida,19,Germany,ST,10000.0
+Germany,Regionalliga Nord,FC Teutonia 05 Ottensen,17,Ole Wohlers,23,Germany,ST,125000.0
+Germany,Regionalliga Nord,FC Teutonia 05 Ottensen,24,Affam Ifeadigo,27,Germany,ST,75000.0
+Germany,Regionalliga Nord,FC Teutonia 05 Ottensen,15,Serkan Dursun,23,Germany,ST,50000.0
+Germany,Regionalliga Nord,SV Meppen,10,Marek Janssen,27,Germany,ST,150000.0
+Germany,Regionalliga Nord,SV Meppen,11,Christopher Schepp,24,Germany,ST,150000.0
+Germany,Regionalliga Nord,SV Meppen,9,Lars Spit,25,Netherlands,ST,50000.0
+Germany,Regionalliga Nord,1.FC Phönix Lübeck,10,Haris Hyseni,31,Kosovo,ST,100000.0
+Germany,Regionalliga Nord,1.FC Phönix Lübeck,18,Leander Fritzsche,23,Germany,ST,75000.0
+Germany,Regionalliga Nord,1.FC Phönix Lübeck,22,Anton Ihde,20,Germany,ST,10000.0
+Germany,Regionalliga Nord,SC Weiche Flensburg 08,23,Felix Brügmann,31,Germany,ST,100000.0
+Germany,Regionalliga Nord,SC Weiche Flensburg 08,7,Mika Kieselbach,23,Germany,ST,25000.0
+Germany,Regionalliga Nord,SC Weiche Flensburg 08,32,John Dethlefs,21,Germany,ST,25000.0
+Germany,Regionalliga Nord,TSV Havelse,11,Yannik Jaeschke,30,Germany,ST,100000.0
+Germany,Regionalliga Nord,TSV Havelse,9,Luca Mittelstädt,24,Germany,ST,25000.0
+Germany,Regionalliga Nord,Eintracht Norderstedt,28,Noah Awuku,24,Germany,ST,75000.0
+Germany,Regionalliga Nord,Eintracht Norderstedt,14,Kevin Prinz von Anhalt,29,Germany,ST,50000.0
+Germany,Regionalliga Nord,Eintracht Norderstedt,19,Manuel Brendel,24,Germany,ST,25000.0
+Germany,Regionalliga Nord,SV Drochtersen/Assel,9,Moritz Göttel,31,Germany,ST,100000.0
+Germany,Regionalliga Nord,SV Drochtersen/Assel,20,Willi Reincke,20,Germany,ST,75000.0
+Germany,Regionalliga Nord,SV Drochtersen/Assel,14,Alexander Neumann,34,Germany,ST,50000.0
+Germany,Regionalliga Nord,SV Drochtersen/Assel,29,Felix Schmiederer,28,Germany,ST,25000.0
+Germany,Regionalliga Nord,SSV Jeddeloh II,28,Dennis Lerche,28,Germany,ST,75000.0
+Germany,Regionalliga Nord,SSV Jeddeloh II,9,Simon Brinkmann,23,Germany,ST,50000.0
+Germany,Regionalliga Nord,SSV Jeddeloh II,8,Mario Fredehorst,30,Germany,ST,25000.0
+Germany,Regionalliga Nord,SSV Jeddeloh II,13,Bowen Wang,20,China,ST,25000.0
+Germany,Regionalliga Nord,SSV Jeddeloh II,18,Julian Bennert,32,Germany,ST,25000.0
+Germany,Regionalliga Nord,Bremer SV,9,Herdi Bukusu,24,Germany,ST,75000.0
+Germany,Regionalliga Nord,Bremer SV,20,Ninte Nater,19,Guinea-Bissau,ST,25000.0
+Germany,Regionalliga Nord,Bremer SV,30,Nikky Goguadze,25,Netherlands,ST,25000.0
+Germany,Regionalliga Nord,Bremer SV,21,Jan Rabens,19,Germany,ST,10000.0
+Germany,Regionalliga Nord,Blau-Weiß Lohne,21,Thorsten Tönnies,33,Germany,ST,75000.0
+Germany,Regionalliga Nord,Blau-Weiß Lohne,29,Jannik Zahmel,21,Germany,ST,50000.0
+Germany,Regionalliga Nord,Blau-Weiß Lohne,7,Bennet van den Berg,24,Germany,ST,25000.0
+Germany,Regionalliga Nord,Eimsbütteler TV,18,Maurice Boakye,19,Germany,ST,50000.0
+Germany,Regionalliga Nord,Eimsbütteler TV,11,Dominik Akyol,24,Portugal,ST,25000.0
+Germany,Regionalliga Nord,Eimsbütteler TV,37,Nick Leptien,20,Germany,ST,10000.0
+Germany,Regionalliga Nord,FC Kilia Kiel,13,Christopher Kramer,34,Germany,ST,50000.0
+Germany,Regionalliga Nord,FC Kilia Kiel,11,Jan-Matti Seidel,23,Germany,ST,25000.0
+Germany,Regionalliga Nord,FC Kilia Kiel,26,Benjamin Petrick,29,Germany,ST,25000.0
+Germany,Regionalliga Nord,FC Kilia Kiel,30,Ben Opoku,20,Germany,ST,25000.0
+Germany,Regionalliga Nord,FC Kilia Kiel,9,Ben Luca Nohns,21,Germany,ST,10000.0
+Germany,Regionalliga Nord,FC Kilia Kiel,24,Marvin Müller,21,Germany,ST,10000.0
+Germany,Regionalliga Nord,SC Spelle-Venhaus,9,Tom Winnemöller,21,Germany,ST,10000.0
+Germany,Regionalliga Nord,SC Spelle-Venhaus,25,Jip Kemna,26,Netherlands,ST,10000.0
+Germany,Regionalliga Northeast,Hertha BSC II,39,Derry Scherhant,21,Germany,ST,800000.0
+Germany,Regionalliga Northeast,Hertha BSC II,11,Ruwen Werthmüller,23,Switzerland,ST,100000.0
+Germany,Regionalliga Northeast,FC Energie Cottbus,18,Cedric Euschen,26,Germany,ST,75000.0
+Germany,Regionalliga Northeast,FC Energie Cottbus,9,Tim Heike,24,Germany,ST,200000.0
+Germany,Regionalliga Northeast,FC Energie Cottbus,7,Timmy Thiele,32,Germany,ST,150000.0
+Germany,Regionalliga Northeast,Greifswalder FC,90,Soufian Benyamina,34,Germany,ST,175000.0
+Germany,Regionalliga Northeast,Greifswalder FC,10,Manassé Eshele,25,DR Congo,ST,125000.0
+Germany,Regionalliga Northeast,Greifswalder FC,23,Johannes Manske,24,Germany,ST,75000.0
+Germany,Regionalliga Northeast,Greifswalder FC,9,Jonas Marx,19,Germany,ST,25000.0
+Germany,Regionalliga Northeast,VSG Altglienicke,13,Marvin Pourié,33,Germany,ST,225000.0
+Germany,Regionalliga Northeast,VSG Altglienicke,9,Anthony Roczen,24,Germany,ST,75000.0
+Germany,Regionalliga Northeast,BFC Dynamo,21,Vasilios Dedidis,24,Greece,ST,100000.0
+Germany,Regionalliga Northeast,BFC Dynamo,9,Rufat Dadashov,32,Azerbaijan,ST,200000.0
+Germany,Regionalliga Northeast,BFC Dynamo,11,Louis Malina,21,Germany,ST,50000.0
+Germany,Regionalliga Northeast,BFC Dynamo,20,Erlind Zogjani,19,Germany,ST,50000.0
+Germany,Regionalliga Northeast,FC Carl Zeiss Jena,9,Cemal Sezer,28,Germany,ST,100000.0
+Germany,Regionalliga Northeast,FC Carl Zeiss Jena,23,Benjamin Zank,19,Germany,ST,75000.0
+Germany,Regionalliga Northeast,FC Carl Zeiss Jena,21,Max Grimm,20,Germany,ST,50000.0
+Germany,Regionalliga Northeast,FC Hansa Rostock II,16,Lukas Hinterseer,33,Austria,ST,250000.0
+Germany,Regionalliga Northeast,FC Hansa Rostock II,19,Luca Wollschläger,21,Germany,ST,125000.0
+Germany,Regionalliga Northeast,FC Hansa Rostock II,17,Tim Krohn,18,Germany,ST,100000.0
+Germany,Regionalliga Northeast,FC Hansa Rostock II,9,Randy Dei,20,Germany,ST,25000.0
+Germany,Regionalliga Northeast,FC Hansa Rostock II,7,Luca Barata,21,Portugal,ST,10000.0
+Germany,Regionalliga Northeast,Rot-Weiß Erfurt,28,Maxime Langner,19,Germany,ST,25000.0
+Germany,Regionalliga Northeast,Rot-Weiß Erfurt,9,Michael Seaton,27,Jamaica,ST,125000.0
+Germany,Regionalliga Northeast,Rot-Weiß Erfurt,11,Romario Hajrulla,25,Albania,ST,100000.0
+Germany,Regionalliga Northeast,1.FC Lokomotive Leipzig,13,Djamal Ziane,32,Germany,ST,100000.0
+Germany,Regionalliga Northeast,1.FC Lokomotive Leipzig,9,Will Siakam,28,Germany,ST,50000.0
+Germany,Regionalliga Northeast,FC Viktoria 1889 Berlin,10,Lucas Falcão,24,Brazil,ST,150000.0
+Germany,Regionalliga Northeast,FC Viktoria 1889 Berlin,25,Oleg Skakun,19,Ukraine,ST,50000.0
+Germany,Regionalliga Northeast,FC Viktoria 1889 Berlin,23,Nicolas Hebisch,34,Germany,ST,75000.0
+Germany,Regionalliga Northeast,SV Babelsberg 03,9,Julius Hoffmann,19,Germany,ST,100000.0
+Germany,Regionalliga Northeast,SV Babelsberg 03,11,Daniel Frahn,36,Germany,ST,75000.0
+Germany,Regionalliga Northeast,Chemnitzer FC,11,Dejan Bozic,31,Germany,ST,100000.0
+Germany,Regionalliga Northeast,Chemnitzer FC,14,Kingsley Alison Akindele,19,Germany,ST,25000.0
+Germany,Regionalliga Northeast,Chemnitzer FC,29,Davis Smith,26,United States,ST,25000.0
+Germany,Regionalliga Northeast,FSV Zwickau,33,Marc-Philipp Zimmermann,34,Germany,ST,100000.0
+Germany,Regionalliga Northeast,FSV Zwickau,28,Veron Dobruna,23,Kosovo,ST,75000.0
+Germany,Regionalliga Northeast,FSV Zwickau,5,Lucas Albert,24,Germany,ST,50000.0
+Germany,Regionalliga Northeast,FSV Zwickau,9,Lucas Will,24,Germany,ST,50000.0
+Germany,Regionalliga Northeast,FSV 63 Luckenwalde,11,Jorden Winter,20,Germany,ST,150000.0
+Germany,Regionalliga Northeast,FSV 63 Luckenwalde,29,Simon Gollnack,22,Germany,ST,100000.0
+Germany,Regionalliga Northeast,FSV 63 Luckenwalde,9,Till Plumpe,23,Germany,ST,50000.0
+Germany,Regionalliga Northeast,BSG Chemie Leipzig,20,Florian Kirstein,28,Germany,ST,50000.0
+Germany,Regionalliga Northeast,BSG Chemie Leipzig,37,Maximilian Jagatic,19,Germany,ST,10000.0
+Germany,Regionalliga Northeast,ZFC Meuselwitz,11,Arlind Shoshi,26,Kosovo,ST,50000.0
+Germany,Regionalliga Northeast,ZFC Meuselwitz,24,Michel Ulrich,24,Germany,ST,50000.0
+Germany,Regionalliga Northeast,Berliner AK 07,9,Jamal Rogero,20,Germany,ST,50000.0
+Germany,Regionalliga Northeast,Berliner AK 07,11,Felix Pilger,21,Germany,ST,50000.0
+Germany,Regionalliga Northeast,Berliner AK 07,14,Abu Bakarr Kargbo,31,Sierra Leone,ST,50000.0
+Germany,Regionalliga Northeast,FC Eilenburg,22,Benjamin Luis,24,Germany,ST,75000.0
+Germany,Regionalliga Northeast,FC Eilenburg,7,Christopher Bibaku,28,France,ST,50000.0
+Italy,Serie A,Inter Milan,10,Lautaro Martínez,26,Argentina,ST,110000000.0
+Italy,Serie A,Inter Milan,9,Marcus Thuram,26,France,ST,60000000.0
+Italy,Serie A,Inter Milan,8,Marko Arnautovic,34,Austria,ST,5000000.0
+Italy,Serie A,Inter Milan,70,Alexis Sánchez,35,Chile,ST,2500000.0
+Italy,Serie A,AC Milan,17,Noah Okafor,23,Switzerland,ST,20000000.0
+Italy,Serie A,AC Milan,15,Luka Jović,26,Serbia,ST,7000000.0
+Italy,Serie A,AC Milan,9,Olivier Giroud,37,France,ST,4000000.0
+Italy,Serie A,SSC Napoli,81,Giacomo Raspadori,24,Italy,ST,28000000.0
+Italy,Serie A,SSC Napoli,9,Victor Osimhen,25,Nigeria,ST,110000000.0
+Italy,Serie A,SSC Napoli,18,Giovanni Simeone,28,Argentina,ST,13000000.0
+Italy,Serie A,Juventus FC,15,Kenan Yıldız,18,Türkiye,ST,30000000.0
+Italy,Serie A,Juventus FC,9,Dušan Vlahović,24,Serbia,ST,65000000.0
+Italy,Serie A,Juventus FC,18,Moise Kean,24,Italy,ST,18000000.0
+Italy,Serie A,Juventus FC,14,Arkadiusz Milik,30,Poland,ST,7000000.0
+Italy,Serie A,Atalanta BC,11,Ademola Lookman,26,Nigeria,ST,30000000.0
+Italy,Serie A,Atalanta BC,90,Gianluca Scamacca,25,Italy,ST,25000000.0
+Italy,Serie A,Atalanta BC,10,El Bilal Touré,22,Mali,ST,20000000.0
+Italy,Serie A,AS Roma,21,Paulo Dybala,30,Argentina,ST,25000000.0
+Italy,Serie A,AS Roma,9,Tammy Abraham,26,England,ST,35000000.0
+Italy,Serie A,AS Roma,90,Romelu Lukaku,30,Belgium,ST,30000000.0
+Italy,Serie A,AS Roma,17,Sardar Azmoun,29,Iran,ST,10000000.0
+Italy,Serie A,Bologna FC 1909,9,Joshua Zirkzee,22,Netherlands,ST,40000000.0
+Italy,Serie A,Bologna FC 1909,18,Santiago Castro,19,Argentina,ST,12000000.0
+Italy,Serie A,ACF Fiorentina,9,Lucas Beltrán,23,Argentina,ST,16000000.0
+Italy,Serie A,ACF Fiorentina,18,M'Bala Nzola,27,Angola,ST,8000000.0
+Italy,Serie A,ACF Fiorentina,20,Andrea Belotti,30,Italy,ST,6000000.0
+Italy,Serie A,SS Lazio,19,Taty Castellanos,25,Argentina,ST,15000000.0
+Italy,Serie A,SS Lazio,17,Ciro Immobile,34,Italy,ST,7000000.0
+Italy,Serie A,Torino FC,9,Antonio Sanabria,28,Paraguay,ST,9500000.0
+Italy,Serie A,Torino FC,91,Duván Zapata,33,Colombia,ST,8000000.0
+Italy,Serie A,Torino FC,11,Pietro Pellegri,23,Italy,ST,3500000.0
+Italy,Serie A,Torino FC,21,David Okereke,26,Nigeria,ST,2700000.0
+Italy,Serie A,US Sassuolo,9,Andrea Pinamonti,24,Italy,ST,15000000.0
+Italy,Serie A,US Sassuolo,8,Samuele Mulattieri,23,Italy,ST,4500000.0
+Italy,Serie A,US Sassuolo,92,Grégoire Defrel,32,France,ST,1000000.0
+Italy,Serie A,Genoa CFC,11,Albert Gudmundsson,26,Iceland,ST,22000000.0
+Italy,Serie A,Genoa CFC,19,Mateo Retegui,24,Italy,ST,16000000.0
+Italy,Serie A,Genoa CFC,9,Vitinha,24,Portugal,ST,15000000.0
+Italy,Serie A,Genoa CFC,30,David Ankeye,21,Nigeria,ST,2000000.0
+Italy,Serie A,Genoa CFC,18,Caleb Ekuban,30,Ghana,ST,1000000.0
+Italy,Serie A,Udinese Calcio,17,Lorenzo Lucca,23,Italy,ST,8000000.0
+Italy,Serie A,Udinese Calcio,22,Brenner,24,Brazil,ST,8000000.0
+Italy,Serie A,Udinese Calcio,7,Isaac Success,28,Nigeria,ST,3500000.0
+Italy,Serie A,Udinese Calcio,9,Keinan Davis,26,England,ST,3000000.0
+Italy,Serie A,Udinese Calcio,10,Gerard Deulofeu,30,Spain,ST,2500000.0
+Italy,Serie A,AC Monza,10,Gianluca Caprari,30,Italy,ST,5000000.0
+Italy,Serie A,AC Monza,9,Lorenzo Colombo,22,Italy,ST,7000000.0
+Italy,Serie A,AC Monza,47,Dany Mota,25,Portugal,ST,5000000.0
+Italy,Serie A,AC Monza,11,Milan Djuric,33,Bosnia-Herzegovina,ST,1500000.0
+Italy,Serie A,Frosinone Calcio,70,Walid Cheddira,26,Morocco,ST,6000000.0
+Italy,Serie A,Frosinone Calcio,9,Kaio Jorge,22,Brazil,ST,4000000.0
+Italy,Serie A,Frosinone Calcio,11,Marvin Cuni,22,Albania,ST,1000000.0
+Italy,Serie A,US Lecce,9,Nikola Krstovic,24,Montenegro,ST,5000000.0
+Italy,Serie A,US Lecce,91,Roberto Piccoli,23,Italy,ST,3500000.0
+Italy,Serie A,US Lecce,45,Rareș Burnete,20,Romania,ST,700000.0
+Italy,Serie A,US Salernitana 1919,10,Boulaye Dia,27,Senegal,ST,13000000.0
+Italy,Serie A,US Salernitana 1919,14,Shon Weissman,28,Israel,ST,2000000.0
+Italy,Serie A,US Salernitana 1919,22,Chukwubuikem Ikwuemesi,22,Nigeria,ST,1800000.0
+Italy,Serie A,US Salernitana 1919,9,Simy,31,Nigeria,ST,600000.0
+Italy,Serie A,US Salernitana 1919,-,Mikael,24,Brazil,ST,500000.0
+Italy,Serie A,Cagliari Calcio,77,Zito Luvumbo,22,Angola,ST,6000000.0
+Italy,Serie A,Cagliari Calcio,32,Andrea Petagna,28,Italy,ST,5000000.0
+Italy,Serie A,Cagliari Calcio,61,Eldor Shomurodov,28,Uzbekistan,ST,5000000.0
+Italy,Serie A,Cagliari Calcio,9,Gianluca Lapadula,34,Peru,ST,2000000.0
+Italy,Serie A,Cagliari Calcio,30,Leonardo Pavoletti,35,Italy,ST,1000000.0
+Italy,Serie A,FC Empoli,10,M'Baye Niang,29,Senegal,ST,2700000.0
+Italy,Serie A,FC Empoli,7,Stiven Shpendi,20,Albania,ST,2000000.0
+Italy,Serie A,FC Empoli,17,Alberto Cerri,28,Italy,ST,1700000.0
+Italy,Serie A,FC Empoli,9,Francesco Caputo,36,Italy,ST,1300000.0
+Italy,Serie A,FC Empoli,23,Mattia Destro,33,Italy,ST,800000.0
+Italy,Serie A,Hellas Verona,11,Karol Świderski,27,Poland,ST,6000000.0
+Italy,Serie A,Hellas Verona,9,Thomas Henry,29,France,ST,3500000.0
+Italy,Serie A,Hellas Verona,99,Federico Bonazzoli,26,Italy,ST,3000000.0
+Italy,Serie A,Hellas Verona,13,Juan Manuel Cruz,24,Argentina,ST,450000.0
+Italy,Serie B,Parma Calcio 1913,13,Ange-Yoan Bonny,20,France,ST,6000000.0
+Italy,Serie B,Parma Calcio 1913,17,Antonio Colak,30,Croatia,ST,2900000.0
+Italy,Serie B,Parma Calcio 1913,9,Gabriel Charpentier,24,Congo,ST,1600000.0
+Italy,Serie B,UC Sampdoria,19,Agustín Álvarez,22,Uruguay,ST,7000000.0
+Italy,Serie B,UC Sampdoria,7,Sebastiano Esposito,21,Italy,ST,4400000.0
+Italy,Serie B,UC Sampdoria,9,Manuel De Luca,25,Italy,ST,1000000.0
+Italy,Serie B,Como 1907,10,Patrick Cutrone,26,Italy,ST,3000000.0
+Italy,Serie B,Como 1907,77,Jean-Pierre Nsame,30,Cameroon,ST,3000000.0
+Italy,Serie B,Como 1907,23,Nicholas Gioacchini,23,United States,ST,2500000.0
+Italy,Serie B,Como 1907,9,Alessandro Gabrielloni,29,Italy,ST,600000.0
+Italy,Serie B,Como 1907,99,Tommaso Fumagalli,24,Italy,ST,250000.0
+Italy,Serie B,Como 1907,17,Federico Chinetti,19,Italy,ST,50000.0
+Italy,Serie B,Palermo FC,9,Matteo Luigi Brunori,29,Italy,ST,4500000.0
+Italy,Serie B,Palermo FC,7,Leonardo Mancuso,31,Italy,ST,1300000.0
+Italy,Serie B,Palermo FC,27,Edoardo Soleri,26,Italy,ST,350000.0
+Italy,Serie B,US Cremonese,11,Felix Afena-Gyan,21,Ghana,ST,3500000.0
+Italy,Serie B,US Cremonese,90,Massimo Coda,35,Italy,ST,1300000.0
+Italy,Serie B,US Cremonese,74,Frank Tsadjout,24,Italy,ST,900000.0
+Italy,Serie B,US Cremonese,9,Daniel Ciofani,38,Italy,ST,200000.0
+Italy,Serie B,Spezia Calcio,9,Francesco Pio Esposito,18,Italy,ST,3000000.0
+Italy,Serie B,Spezia Calcio,24,Luca Moro,23,Italy,ST,2200000.0
+Italy,Serie B,Spezia Calcio,20,Giuseppe Di Serio,22,Italy,ST,1200000.0
+Italy,Serie B,Spezia Calcio,16,Diego Falcinelli,32,Italy,ST,700000.0
+Italy,Serie B,Venezia FC,20,Joel Pohjanpalo,29,Finland,ST,4500000.0
+Italy,Serie B,Venezia FC,9,Christian Gytkjaer,33,Denmark,ST,700000.0
+Italy,Serie B,Venezia FC,99,Marco Olivieri,24,Italy,ST,600000.0
+Italy,Serie B,Pisa Sporting Club,17,Jan Mlakar,25,Slovenia,ST,2700000.0
+Italy,Serie B,Pisa Sporting Club,32,Stefano Moreo,30,Italy,ST,1000000.0
+Italy,Serie B,Pisa Sporting Club,10,Ernesto Torregrossa,31,Venezuela,ST,800000.0
+Italy,Serie B,Pisa Sporting Club,9,Nicholas Bonfanti,22,Italy,ST,750000.0
+Italy,Serie B,Pisa Sporting Club,26,Gaetano Masucci,39,Italy,ST,100000.0
+Italy,Serie B,SSC Bari,9,Marco Nasti,20,Italy,ST,2000000.0
+Italy,Serie B,SSC Bari,47,George Pușcaș,28,Romania,ST,2000000.0
+Italy,Serie B,SSC Bari,18,Davide Diaw,32,Italy,ST,1200000.0
+Italy,Serie B,SSC Bari,20,Giuseppe Sibilli,27,Italy,ST,900000.0
+Italy,Serie B,SSC Bari,28,Hemsley Akpa-Chukwu,18,Belgium,ST,100000.0
+Italy,Serie B,Modena FC,17,Jacopo Manconi,29,Italy,ST,500000.0
+Italy,Serie B,Modena FC,9,Ettore Gliozzi,28,Italy,ST,1300000.0
+Italy,Serie B,Modena FC,32,Luca Strizzolo,31,Italy,ST,500000.0
+Italy,Serie B,Modena FC,90,Fabio Abiuso,21,Italy,ST,500000.0
+Italy,Serie B,Modena FC,73,Lorenzo Di Stefano,21,Italy,ST,350000.0
+Italy,Serie B,AC Reggiana 1919,28,Janis Antiste,21,France,ST,2000000.0
+Italy,Serie B,AC Reggiana 1919,11,Cedric Gondo,27,Cote d'Ivoire,ST,700000.0
+Italy,Serie B,AC Reggiana 1919,9,Luca Vido,27,Italy,ST,600000.0
+Italy,Serie B,AC Reggiana 1919,23,Stefano Pettinari,32,Italy,ST,300000.0
+Italy,Serie B,Cosenza Calcio,9,Gennaro Tutino,27,Italy,ST,2500000.0
+Italy,Serie B,Cosenza Calcio,10,Francesco Forte,30,Italy,ST,1100000.0
+Italy,Serie B,Cosenza Calcio,30,Simone Mazzocchi,25,Italy,ST,600000.0
+Italy,Serie B,Cosenza Calcio,19,Valerio Crespi,19,Italy,ST,150000.0
+Italy,Serie B,Cosenza Calcio,36,Jahce Novello,19,Australia,ST,50000.0
+Italy,Serie B,Brescia Calcio,29,Gennaro Borrelli,24,Italy,ST,1000000.0
+Italy,Serie B,Brescia Calcio,11,Gabriele Moncini,27,Italy,ST,900000.0
+Italy,Serie B,Brescia Calcio,9,Flavio Bianchi,24,Italy,ST,500000.0
+Italy,Serie B,Ternana Calcio,28,Filippo Distefano,20,Italy,ST,900000.0
+Italy,Serie B,Ternana Calcio,9,Antonio Raimondo,20,Italy,ST,4500000.0
+Italy,Serie B,Ternana Calcio,17,Andrea Favilli,26,Italy,ST,800000.0
+Italy,Serie B,Ternana Calcio,65,Federico Dionisi,36,Italy,ST,200000.0
+Italy,Serie B,Ternana Calcio,11,Jan Żuberek,20,Poland,ST,100000.0
+Italy,Serie B,US Catanzaro,28,Tommaso Biasci,29,Italy,ST,700000.0
+Italy,Serie B,US Catanzaro,70,Giuseppe Ambrosino,20,Italy,ST,2000000.0
+Italy,Serie B,US Catanzaro,9,Pietro Iemmello,32,Italy,ST,900000.0
+Italy,Serie B,US Catanzaro,99,Alfredo Donnarumma,33,Italy,ST,500000.0
+Italy,Serie B,Ascoli Calcio,99,Pablo Rodríguez,22,Spain,ST,1600000.0
+Italy,Serie B,Ascoli Calcio,90,Pedro Mendes,24,Portugal,ST,2000000.0
+Italy,Serie B,Ascoli Calcio,30,Ilija Nestorovski,34,North Macedonia,ST,350000.0
+Italy,Serie B,Ascoli Calcio,11,Jeremiah Streng,22,Finland,ST,200000.0
+Italy,Serie B,FC Südtirol,18,Matteo Rover,25,Italy,ST,1500000.0
+Italy,Serie B,FC Südtirol,90,Raphael Odogwu,33,Italy,ST,1000000.0
+Italy,Serie B,FC Südtirol,33,Silvio Merkaj,26,Albania,ST,600000.0
+Italy,Serie B,FC Südtirol,9,Emanuele Pecorino,22,Italy,ST,350000.0
+Italy,Serie B,FC Südtirol,23,Nicola Rauti,24,Italy,ST,200000.0
+Italy,Serie B,AS Cittadella,74,Ahmed Sanogo,19,Italy,ST,25000.0
+Italy,Serie B,AS Cittadella,92,Enrico Baldini,27,Italy,ST,750000.0
+Italy,Serie B,AS Cittadella,7,Luca Pandolfi,26,Italy,ST,550000.0
+Italy,Serie B,AS Cittadella,11,Filippo Pittarello,27,Italy,ST,450000.0
+Italy,Serie B,AS Cittadella,9,Andrea Magrassi,31,Italy,ST,350000.0
+Italy,Serie B,AS Cittadella,32,Tommy Maistrello,30,Italy,ST,300000.0
+Italy,Serie B,AS Cittadella,-,Armir Jakupi,19,Italy,ST,
+Italy,Serie B,Calcio Lecco 1912,99,Nicolò Buso,24,Italy,ST,500000.0
+Italy,Serie B,Calcio Lecco 1912,10,Eddie Salcedo,22,Italy,ST,1500000.0
+Italy,Serie B,Calcio Lecco 1912,90,Andrija Novakovich,27,United States,ST,500000.0
+Italy,Serie B,Calcio Lecco 1912,45,Roberto Inglese,32,Italy,ST,400000.0
+Italy,Serie B,Calcio Lecco 1912,81,Giacomo Beretta,32,Italy,ST,225000.0
+Italy,Serie B,Feralpisalò,99,Alessandro Pietrelli,21,Italy,ST,100000.0
+Italy,Serie B,Feralpisalò,91,Andrea La Mantia,32,Italy,ST,500000.0
+Italy,Serie B,Feralpisalò,9,Karlo Butic,25,Croatia,ST,300000.0
+Italy,Serie B,Feralpisalò,11,Edgaras Dubickas,25,Lithuania,ST,200000.0
+Italy,Serie B,Feralpisalò,25,Marco Sau,36,Italy,ST,100000.0
+Italy,Serie B,Atalanta U23,73,Tommaso De Nipoti,20,Italy,ST,200000.0
+Italy,Serie B,Atalanta U23,44,Alessandro Falleni,20,Italy,ST,50000.0
+Italy,Serie B,Atalanta U23,29,Siren Diao,19,Spain,ST,1500000.0
+Italy,Serie B,Atalanta U23,11,Moustapha Cissé,20,Guinea,ST,800000.0
+Italy,Serie B,Atalanta U23,90,Alessio Rosa,20,Italy,ST,50000.0
+Italy,Serie B,LR Vicenza,17,Marco Delle Monache,19,Italy,ST,1200000.0
+Italy,Serie B,LR Vicenza,99,Matteo Della Morte,24,Italy,ST,200000.0
+Italy,Serie B,LR Vicenza,9,Franco Ferrari,28,Italy,ST,600000.0
+Italy,Serie B,LR Vicenza,19,Jacopo Pellegrini,23,Italy,ST,300000.0
+Italy,Serie B,LR Vicenza,11,Alex Rolfini,27,Italy,ST,275000.0
+Italy,Serie C - Girone A,US Triestina,9,Daishawn Redan,23,Suriname,ST,1000000.0
+Italy,Serie C - Girone A,US Triestina,10,Facundo Lescano,27,Argentina,ST,600000.0
+Italy,Serie C - Girone A,US Triestina,99,Eetu Vertainen,24,Finland,ST,200000.0
+Italy,Serie C - Girone A,Calcio Padova,20,Mattia Bortolussi,27,Italy,ST,350000.0
+Italy,Serie C - Girone A,Calcio Padova,94,Luca Zamparo,29,Italy,ST,350000.0
+Italy,Serie C - Girone A,Calcio Padova,19,Simone Palombi,27,Italy,ST,250000.0
+Italy,Serie C - Girone A,Calcio Padova,90,Mattia Tordini,21,Italy,ST,150000.0
+Italy,Serie C - Girone A,Mantova 1911,14,Francesco Galuppini,30,Italy,ST,350000.0
+Italy,Serie C - Girone A,Mantova 1911,45,Gaetano Monachello,30,Italy,ST,175000.0
+Italy,Serie C - Girone A,Mantova 1911,9,Alessandro Debenedetti,20,Italy,ST,125000.0
+Italy,Serie C - Girone A,FC Pro Vercelli 1892,9,Alessio Nepi,24,Italy,ST,175000.0
+Italy,Serie C - Girone A,FC Pro Vercelli 1892,24,Raffaele Sibilio,18,Italy,ST,25000.0
+Italy,Serie C - Girone A,AC Trento,10,Cristian Pasquato,34,Italy,ST,150000.0
+Italy,Serie C - Girone A,AC Trento,21,Antonio Satriano,20,Italy,ST,300000.0
+Italy,Serie C - Girone A,AC Trento,9,Samuele Spalluto,23,Italy,ST,225000.0
+Italy,Serie C - Girone A,AC Trento,32,Luigi Caccavo,20,Italy,ST,100000.0
+Italy,Serie C - Girone A,AC Trento,90,Jonathan Italeng,22,Cameroon,ST,100000.0
+Italy,Serie C - Girone A,AC Trento,25,Leon Sipos,24,Croatia,ST,75000.0
+Italy,Serie C - Girone A,Novara FC,77,Árni Vilhjálmsson,29,Iceland,ST,350000.0
+Italy,Serie C - Girone A,Novara FC,13,Easton Ongaro,25,Canada,ST,250000.0
+Italy,Serie C - Girone A,Novara FC,9,Stefano Scappini,36,Italy,ST,175000.0
+Italy,Serie C - Girone A,Novara FC,11,Niccolò Corti,22,Italy,ST,50000.0
+Italy,Serie C - Girone A,AC Renate,18,Lorenzo Pinzauti,29,Italy,ST,250000.0
+Italy,Serie C - Girone A,AC Renate,95,Daniele Sorrentino,26,Italy,ST,225000.0
+Italy,Serie C - Girone A,AC Renate,89,Riccardo Bocalon,35,Italy,ST,150000.0
+Italy,Serie C - Girone A,AC Renate,45,Luca Paudice,22,Italy,ST,75000.0
+Italy,Serie C - Girone A,Arzignano Valchiampo,7,Youns El Hilali,20,Italy,ST,300000.0
+Italy,Serie C - Girone A,Arzignano Valchiampo,97,Giacomo Parigi,27,Italy,ST,250000.0
+Italy,Serie C - Girone A,Arzignano Valchiampo,28,Alessandro Faggioli,24,Italy,ST,200000.0
+Italy,Serie C - Girone A,Arzignano Valchiampo,9,Simone Menabò,26,Italy,ST,150000.0
+Italy,Serie C - Girone A,Arzignano Valchiampo,72,Andrea Mattioli,22,Italy,ST,50000.0
+Italy,Serie C - Girone A,Pro Sesto 1913,20,Francesco Barranca,25,Italy,ST,100000.0
+Italy,Serie C - Girone A,Pro Sesto 1913,80,Mattia Florio,20,Italy,ST,100000.0
+Italy,Serie C - Girone A,Pro Sesto 1913,11,Julian Kristoffersen,26,Norway,ST,100000.0
+Italy,Serie C - Girone A,Pro Sesto 1913,29,Eljon Toci,21,Albania,ST,100000.0
+Italy,Serie C - Girone A,Aurora Pro Patria,7,Leonardo Stanzani,24,Italy,ST,275000.0
+Italy,Serie C - Girone A,Aurora Pro Patria,11,Jonathan Pitou,19,France,ST,250000.0
+Italy,Serie C - Girone A,Aurora Pro Patria,30,Davide Castelli,24,Italy,ST,150000.0
+Italy,Serie C - Girone A,Aurora Pro Patria,9,Sean Parker,26,Italy,ST,100000.0
+Italy,Serie C - Girone A,Aurora Pro Patria,69,Dennis Curatolo,20,Italy,ST,100000.0
+Italy,Serie C - Girone A,UC AlbinoLeffe,11,Mohamed Alì Zoma,20,Cote d'Ivoire,ST,250000.0
+Italy,Serie C - Girone A,UC AlbinoLeffe,20,Carmelo Muzio,21,Italy,ST,75000.0
+Italy,Serie C - Girone A,UC AlbinoLeffe,60,Andrea Arrighini,33,Italy,ST,250000.0
+Italy,Serie C - Girone A,UC AlbinoLeffe,9,Cristian Carletti,27,Italy,ST,125000.0
+Italy,Serie C - Girone A,UC AlbinoLeffe,91,Salvatore Longo,23,Italy,ST,100000.0
+Italy,Serie C - Girone A,UC AlbinoLeffe,19,Mattia Angeloni,19,Italy,ST,25000.0
+Italy,Serie C - Girone A,UC AlbinoLeffe,90,Rrok Toma,20,Albania,ST,25000.0
+Italy,Serie C - Girone A,US Pergolettese 1932,9,Alessandro Piu,27,Italy,ST,100000.0
+Italy,Serie C - Girone A,US Pergolettese 1932,11,Bernat Guiu,23,Spain,ST,200000.0
+Italy,Serie C - Girone A,US Pergolettese 1932,91,Giuseppe De Luca,32,Italy,ST,200000.0
+Italy,Serie C - Girone A,US Pergolettese 1932,70,Federico Caia,20,Italy,ST,125000.0
+Italy,Serie C - Girone A,FC Lumezzane,9,Erik Gerbi,23,Italy,ST,275000.0
+Italy,Serie C - Girone A,FC Lumezzane,34,Kevin Cannavò,24,Italy,ST,200000.0
+Italy,Serie C - Girone A,FC Lumezzane,16,Andrey Galabinov,35,Bulgaria,ST,150000.0
+Italy,Serie C - Girone A,FC Lumezzane,14,Alberto Basso Ricci,19,Italy,ST,100000.0
+Italy,Serie C - Girone A,Virtusvecomp Verona,10,Domenico Danti,35,Italy,ST,200000.0
+Italy,Serie C - Girone A,Virtusvecomp Verona,97,Luca Ambrosi,19,Italy,ST,25000.0
+Italy,Serie C - Girone A,Virtusvecomp Verona,18,Damir Céter,26,Colombia,ST,250000.0
+Italy,Serie C - Girone A,Virtusvecomp Verona,17,Gianmarco Zigoni,32,Italy,ST,100000.0
+Italy,Serie C - Girone A,Virtusvecomp Verona,90,Alessio Menato,22,Italy,ST,100000.0
+Italy,Serie C - Girone A,US Alessandria Calcio 1912,7,Marwen Gazoul,19,Morocco,ST,75000.0
+Italy,Serie C - Girone A,US Alessandria Calcio 1912,9,Óscar Siafa,26,Equatorial Guinea,ST,150000.0
+Italy,Serie C - Girone A,US Alessandria Calcio 1912,29,Karolis Laukzemis,32,Lithuania,ST,150000.0
+Italy,Serie C - Girone A,US Alessandria Calcio 1912,79,Doudou Mangni,31,Italy,ST,150000.0
+Italy,Serie C - Girone A,US Alessandria Calcio 1912,99,Luigi Samele,22,Italy,ST,125000.0
+Italy,Serie C - Girone A,US Alessandria Calcio 1912,11,Gennaro Anatriello,20,Italy,ST,100000.0
+Italy,Serie C - Girone A,US Alessandria Calcio 1912,31,Tommaso Busatto,22,Italy,ST,50000.0
+Italy,Serie C - Girone A,FC Legnago Salus,9,Sebastiano Svidercoschi,24,Italy,ST,175000.0
+Italy,Serie C - Girone A,FC Legnago Salus,10,Daniele Rocco,34,Italy,ST,175000.0
+Italy,Serie C - Girone A,FC Legnago Salus,20,Elia Giani,23,Italy,ST,125000.0
+Italy,Serie C - Girone A,FC Legnago Salus,90,Jerry Mbakogu,31,Nigeria,ST,125000.0
+Italy,Serie C - Girone A,FC Legnago Salus,29,Nikola Buric,27,Croatia,ST,75000.0
+Italy,Serie C - Girone A,US Fiorenzuola 1922,11,Miloš Bočić,24,Serbia,ST,200000.0
+Italy,Serie C - Girone A,US Fiorenzuola 1922,9,Thomas Alberti,25,Italy,ST,150000.0
+Italy,Serie C - Girone A,US Fiorenzuola 1922,18,Fabio Ceravolo,37,Italy,ST,150000.0
+Italy,Serie C - Girone A,US Fiorenzuola 1922,20,Gabriel Popovic,20,Australia,ST,100000.0
+Italy,Serie C - Girone A,AS Giana Erminio,17,Maguette Fall,29,Senegal,ST,200000.0
+Italy,Serie C - Girone A,AS Giana Erminio,90,Francesco Verde,24,Italy,ST,175000.0
+Italy,Serie C - Girone A,AS Giana Erminio,10,Fabio Perna,37,Italy,ST,150000.0
+Italy,Serie C - Girone A,AS Giana Erminio,30,Matteo Barzotti,32,Italy,ST,150000.0
+Italy,Serie C - Girone A,AS Giana Erminio,97,Mbarick Fall,26,Senegal,ST,75000.0
+Italy,Serie C - Girone B,Juventus Next Gen,36,Lorenzo Anghelè,19,Italy,ST,300000.0
+Italy,Serie C - Girone B,Juventus Next Gen,23,Tommaso Mancini,19,Italy,ST,600000.0
+Italy,Serie C - Girone B,Juventus Next Gen,9,Leonardo Cerri,21,Italy,ST,500000.0
+Italy,Serie C - Girone B,Juventus Next Gen,50,Cosimo da Graça,21,Italy,ST,500000.0
+Italy,Serie C - Girone B,Juventus Next Gen,17,Simone Guerra,34,Italy,ST,300000.0
+Italy,Serie C - Girone B,Cesena FC,9,Cristian Shpendi,20,Albania,ST,2000000.0
+Italy,Serie C - Girone B,Cesena FC,18,Simone Corazza,33,Italy,ST,450000.0
+Italy,Serie C - Girone B,Cesena FC,11,Roberto Ogunseye,28,Italy,ST,300000.0
+Italy,Serie C - Girone B,SPAL,21,Massimo Zilli,21,Italy,ST,400000.0
+Italy,Serie C - Girone B,SPAL,7,Mirco Antenucci,39,Italy,ST,200000.0
+Italy,Serie C - Girone B,SPAL,11,Simone Rabbi,22,Italy,ST,200000.0
+Italy,Serie C - Girone B,SPAL,20,Dario Sits,20,Latvia,ST,200000.0
+Italy,Serie C - Girone B,SPAL,10,Tomi Petrovic,25,Croatia,ST,175000.0
+Italy,Serie C - Girone B,Delfino Pescara 1936,29,Luigi Cuppone,26,Italy,ST,400000.0
+Italy,Serie C - Girone B,Delfino Pescara 1936,9,Edoardo Vergani,23,Italy,ST,300000.0
+Italy,Serie C - Girone B,Delfino Pescara 1936,19,Luca Sasanelli,19,Italy,ST,50000.0
+Italy,Serie C - Girone B,AC Perugia Calcio,11,Alessandro Seghetti,20,Italy,ST,400000.0
+Italy,Serie C - Girone B,AC Perugia Calcio,10,Ryder Matos,31,Brazil,ST,250000.0
+Italy,Serie C - Girone B,AC Perugia Calcio,9,Federico Vázquez,31,Argentina,ST,300000.0
+Italy,Serie C - Girone B,AC Perugia Calcio,21,Nicolò Cudrig,21,Italy,ST,200000.0
+Italy,Serie C - Girone B,AC Perugia Calcio,45,Youssouph Cheikh Sylla,26,Senegal,ST,200000.0
+Italy,Serie C - Girone B,Carrarese Calcio 1908,10,Giuseppe Panico,26,Italy,ST,300000.0
+Italy,Serie C - Girone B,Carrarese Calcio 1908,24,Leonardo Morosini,28,Italy,ST,150000.0
+Italy,Serie C - Girone B,Carrarese Calcio 1908,28,Alessandro Capello,28,Italy,ST,500000.0
+Italy,Serie C - Girone B,Carrarese Calcio 1908,32,Mattia Finotto,31,Italy,ST,225000.0
+Italy,Serie C - Girone B,Carrarese Calcio 1908,99,Niccolò Giannetti,32,Italy,ST,75000.0
+Italy,Serie C - Girone B,Virtus Entella,92,Claudio Santini,32,Italy,ST,250000.0
+Italy,Serie C - Girone B,Virtus Entella,91,Daniele Montevago,21,Italy,ST,500000.0
+Italy,Serie C - Girone B,Virtus Entella,-,Matteo Casarotto,25,Italy,ST,175000.0
+Italy,Serie C - Girone B,Virtus Entella,11,Samuele Vianni,22,Italy,ST,50000.0
+Italy,Serie C - Girone B,SEF Torres 1903,10,Francesco Ruocco,23,Italy,ST,400000.0
+Italy,Serie C - Girone B,SEF Torres 1903,29,Mohamed Ayman Sanat,21,Italy,ST,50000.0
+Italy,Serie C - Girone B,SEF Torres 1903,20,Manuel Fischnaller,32,Italy,ST,300000.0
+Italy,Serie C - Girone B,SEF Torres 1903,9,Luigi Scotto,33,Italy,ST,200000.0
+Italy,Serie C - Girone B,SEF Torres 1903,11,Adama Diakite,30,Cote d'Ivoire,ST,200000.0
+Italy,Serie C - Girone B,Rimini FC,9,Claudio Morra,29,Italy,ST,400000.0
+Italy,Serie C - Girone B,Rimini FC,11,Iacopo Cernigoi,29,Italy,ST,150000.0
+Italy,Serie C - Girone B,Rimini FC,34,Leonardo Ubaldi,24,Italy,ST,100000.0
+Italy,Serie C - Girone B,AS Gubbio 1910,11,King Udoh,26,Italy,ST,200000.0
+Italy,Serie C - Girone B,AS Gubbio 1910,99,Gabriele Bernardotto,26,Italy,ST,150000.0
+Italy,Serie C - Girone B,AS Gubbio 1910,29,Alessandro Galeandro,24,Italy,ST,100000.0
+Italy,Serie C - Girone B,Lucchese 1905,11,Francesco Disanto,29,Italy,ST,300000.0
+Italy,Serie C - Girone B,Lucchese 1905,99,Simone Magnaghi,30,Italy,ST,200000.0
+Italy,Serie C - Girone B,Lucchese 1905,45,Philip Yeboah,21,Ghana,ST,150000.0
+Italy,Serie C - Girone B,US Ancona,28,Daniel Giampaolo,28,Italy,ST,100000.0
+Italy,Serie C - Girone B,US Ancona,9,Alberto Spagnoli,29,Italy,ST,400000.0
+Italy,Serie C - Girone B,US Ancona,90,Federico Moretti,29,Italy,ST,100000.0
+Italy,Serie C - Girone B,US Città di Pontedera,29,Andrea Salvadori,18,Italy,ST,25000.0
+Italy,Serie C - Girone B,US Città di Pontedera,99,Simone Ganz,30,Italy,ST,200000.0
+Italy,Serie C - Girone B,US Città di Pontedera,26,Gabriele Selleri,20,Italy,ST,75000.0
+Italy,Serie C - Girone B,SS Arezzo,28,Niccolò Gucci,33,Italy,ST,200000.0
+Italy,Serie C - Girone B,SS Arezzo,9,Joseph Ekuban,24,Ghana,ST,50000.0
+Italy,Serie C - Girone B,SS Arezzo,26,Juan Facundo Crisafi,19,Argentina,ST,25000.0
+Italy,Serie C - Girone B,SS Arezzo,29,Cristiano Sebastiani,24,Italy,ST,25000.0
+Italy,Serie C - Girone B,Pineto Calcio,11,Moussadja Njambè,25,Cameroon,ST,200000.0
+Italy,Serie C - Girone B,Pineto Calcio,9,Diego Gambale,25,Italy,ST,150000.0
+Italy,Serie C - Girone B,Pineto Calcio,29,Mohammed Amine Chakir,23,Italy,ST,150000.0
+Italy,Serie C - Girone B,Olbia Calcio 1905,10,Daniele Ragatzu,32,Italy,ST,400000.0
+Italy,Serie C - Girone B,Olbia Calcio 1905,18,Nicola Nanni,23,San Marino,ST,150000.0
+Italy,Serie C - Girone B,Olbia Calcio 1905,99,Andrea Bianchimano,27,Italy,ST,125000.0
+Italy,Serie C - Girone B,Olbia Calcio 1905,29,Massimiliano Gennari,20,Italy,ST,50000.0
+Italy,Serie C - Girone B,Olbia Calcio 1905,67,Thomas Scapin,21,Italy,ST,50000.0
+Italy,Serie C - Girone B,US Recanatese,30,Andrea Mazia,20,Italy,ST,75000.0
+Italy,Serie C - Girone B,US Recanatese,9,Federico Melchiorri,37,Italy,ST,300000.0
+Italy,Serie C - Girone B,US Recanatese,11,Mirco Lipari,21,Italy,ST,150000.0
+Italy,Serie C - Girone B,US Recanatese,21,Filippo Guidobaldi,19,Italy,ST,75000.0
+Italy,Serie C - Girone B,US Recanatese,74,Matteo Ahmetaj,21,Italy,ST,10000.0
+Italy,Serie C - Girone B,Vis Pesaro 1898,7,Manuel Pucciarelli,32,Italy,ST,150000.0
+Italy,Serie C - Girone B,Vis Pesaro 1898,9,Francesco Nicastro,32,Italy,ST,400000.0
+Italy,Serie C - Girone B,Vis Pesaro 1898,20,Óttar Magnús Karlsson,27,Iceland,ST,200000.0
+Italy,Serie C - Girone B,Vis Pesaro 1898,-,Davide Pio Stabile,19,Italy,ST,75000.0
+Italy,Serie C - Girone B,Vis Pesaro 1898,-,Babacar Diop,20,Senegal,ST,25000.0
+Italy,Serie C - Girone B,Vis Pesaro 1898,85,Simone Castigliani,20,Italy,ST,25000.0
+Italy,Serie C - Girone B,Vis Pesaro 1898,30,Juan Ignacio Molina,26,Argentina,ST,
+Italy,Serie C - Girone B,USD Sestri Levante 1919,7,Riccardo Forte,24,Italy,ST,200000.0
+Italy,Serie C - Girone B,USD Sestri Levante 1919,20,Daniel Fossati,20,Italy,ST,100000.0
+Italy,Serie C - Girone B,USD Sestri Levante 1919,9,Riccardo D'Antoni,21,Italy,ST,50000.0
+Italy,Serie C - Girone B,Fermana FC,10,Giuseppe Giovinco,33,Italy,ST,175000.0
+Italy,Serie C - Girone B,Fermana FC,9,Lorenzo Sorrentino,28,Italy,ST,125000.0
+Italy,Serie C - Girone B,Fermana FC,70,Mauro Semprini,26,Italy,ST,100000.0
+Italy,Serie C - Girone B,Fermana FC,11,Daniele Paponi,36,Italy,ST,50000.0
+Italy,Serie C - Girone B,Fermana FC,90,Elia Petrelli,22,Italy,ST,50000.0
+Italy,Serie C - Girone C,Benevento Calcio,27,Ernesto Starita,28,Italy,ST,350000.0
+Italy,Serie C - Girone C,Benevento Calcio,90,Eric Lanini,30,Italy,ST,400000.0
+Italy,Serie C - Girone C,Benevento Calcio,11,Alexis Ferrante,28,Italy,ST,225000.0
+Italy,Serie C - Girone C,Benevento Calcio,9,Alessandro Marotta,37,Italy,ST,175000.0
+Italy,Serie C - Girone C,Catania FC,10,Samuel Di Carmine,35,Italy,ST,300000.0
+Italy,Serie C - Girone C,Catania FC,9,Rocco Costantino,33,Italy,ST,275000.0
+Italy,Serie C - Girone C,Catania FC,90,Pietro Cianci,28,Italy,ST,275000.0
+Italy,Serie C - Girone C,Catania FC,15,Lorenzo Privitera,18,Italy,ST,10000.0
+Italy,Serie C - Girone C,FC Crotone,9,Guido Gomez,29,Italy,ST,325000.0
+Italy,Serie C - Girone C,FC Crotone,93,Marco Tumminello,25,Italy,ST,300000.0
+Italy,Serie C - Girone C,FC Crotone,10,Gianmario Comi,32,Italy,ST,250000.0
+Italy,Serie C - Girone C,US Avellino 1912,11,Lorenzo Sgarbi,23,Italy,ST,275000.0
+Italy,Serie C - Girone C,US Avellino 1912,7,Michele D'Ausilio,24,Italy,ST,200000.0
+Italy,Serie C - Girone C,US Avellino 1912,55,Enis Tozaj,19,Albania,ST,10000.0
+Italy,Serie C - Girone C,US Avellino 1912,35,Gabriele Gori,25,Italy,ST,550000.0
+Italy,Serie C - Girone C,US Avellino 1912,9,Cosimo Patierno,33,Italy,ST,275000.0
+Italy,Serie C - Girone C,US Avellino 1912,31,Michele Marconi,34,Italy,ST,225000.0
+Italy,Serie C - Girone C,Calcio Foggia 1920,37,Luca Gagliano,23,Italy,ST,200000.0
+Italy,Serie C - Girone C,Calcio Foggia 1920,9,Riccardo Tonin,23,Italy,ST,175000.0
+Italy,Serie C - Girone C,Calcio Foggia 1920,99,Emanuele Santaniello,34,Italy,ST,150000.0
+Italy,Serie C - Girone C,Calcio Foggia 1920,75,Alessandro Brancato,20,Italy,ST,10000.0
+Italy,Serie C - Girone C,Casertana FC,25,Leonardo Taurino,28,Italy,ST,75000.0
+Italy,Serie C - Girone C,Casertana FC,32,Adriano Montalto,36,Italy,ST,300000.0
+Italy,Serie C - Girone C,Casertana FC,31,Pietro Rovaglia,23,Italy,ST,100000.0
+Italy,Serie C - Girone C,Latina Calcio 1932,11,Giuseppe Fella,30,Italy,ST,250000.0
+Italy,Serie C - Girone C,Latina Calcio 1932,9,Ferdinando Mastroianni,32,Italy,ST,250000.0
+Italy,Serie C - Girone C,Latina Calcio 1932,29,Luca Fabrizi,25,Italy,ST,200000.0
+Italy,Serie C - Girone C,Latina Calcio 1932,16,Samuele Sorrentino,21,Italy,ST,100000.0
+Italy,Serie C - Girone C,Audace Cerignola,9,Giancarlo Malcore,30,Italy,ST,350000.0
+Italy,Serie C - Girone C,Audace Cerignola,17,Filippo D'Andrea,25,Italy,ST,275000.0
+Italy,Serie C - Girone C,Audace Cerignola,99,Dardan Vuthaj,28,Albania,ST,225000.0
+Italy,Serie C - Girone C,Audace Cerignola,-,Luigi Korra,18,Italy,ST,
+Italy,Serie C - Girone C,AZ Picerno,11,Emmanuele Esposito,33,Italy,ST,200000.0
+Italy,Serie C - Girone C,AZ Picerno,9,Jacopo Murano,34,Italy,ST,275000.0
+Italy,Serie C - Girone C,AZ Picerno,16,Andrea Santarcangelo,21,Italy,ST,150000.0
+Italy,Serie C - Girone C,AZ Picerno,19,Francesco Pio Petito,21,Italy,ST,100000.0
+Italy,Serie C - Girone C,AZ Picerno,89,Diego Albadoro,35,Italy,ST,50000.0
+Italy,Serie C - Girone C,SS Juve Stabia,11,Kevin Piscopo,26,Italy,ST,200000.0
+Italy,Serie C - Girone C,SS Juve Stabia,27,Leonardo Candellone,26,Italy,ST,350000.0
+Italy,Serie C - Girone C,SS Juve Stabia,9,Andrea Adorante,24,Italy,ST,175000.0
+Italy,Serie C - Girone C,Monterosi Tuscia FC,91,Michele Vano,32,Italy,ST,150000.0
+Italy,Serie C - Girone C,Monterosi Tuscia FC,9,Umberto Eusepi,35,Italy,ST,100000.0
+Italy,Serie C - Girone C,Monterosi Tuscia FC,11,Alessandro Rossi,27,Italy,ST,50000.0
+Italy,Serie C - Girone C,SS Monopoli 1966,23,Giuseppe Simone,20,Italy,ST,50000.0
+Italy,Serie C - Girone C,SS Monopoli 1966,9,Christian Tommasini,26,Italy,ST,200000.0
+Italy,Serie C - Girone C,SS Monopoli 1966,39,Francesco Grandolfo,31,Italy,ST,200000.0
+Italy,Serie C - Girone C,SS Monopoli 1966,7,Franco Sosa,28,Argentina,ST,100000.0
+Italy,Serie C - Girone C,SS Monopoli 1966,29,Alessandro Arioli,20,Italy,ST,100000.0
+Italy,Serie C - Girone C,SS Monopoli 1966,8,Andrea De Paoli,24,Italy,ST,75000.0
+Italy,Serie C - Girone C,SS Monopoli 1966,28,Marin Cubretovic,19,Croatia,ST,50000.0
+Italy,Serie C - Girone C,Taranto FC 1927,99,Michael Fabbro,27,Italy,ST,200000.0
+Italy,Serie C - Girone C,Taranto FC 1927,10,Simone Simeri,31,Italy,ST,150000.0
+Italy,Serie C - Girone C,Taranto FC 1927,90,Michael De Marchi,29,Italy,ST,125000.0
+Italy,Serie C - Girone C,SS Turris Calcio,19,Riccardo Maniero,36,Italy,ST,250000.0
+Italy,Serie C - Girone C,SS Turris Calcio,31,Sulayman Jallow,27,The Gambia,ST,125000.0
+Italy,Serie C - Girone C,SS Turris Calcio,-,Juan Martin Dalbón,22,Argentina,ST,
+Italy,Serie C - Girone C,Giugliano Calcio 1928,15,Vincenzo Perdonó,20,Italy,ST,
+Italy,Serie C - Girone C,Giugliano Calcio 1928,10,Francesco Salvemini,27,Italy,ST,175000.0
+Italy,Serie C - Girone C,Giugliano Calcio 1928,25,Carmine De Sena,32,Italy,ST,175000.0
+Italy,Serie C - Girone C,Giugliano Calcio 1928,9,Abou Diop,30,Senegal,ST,150000.0
+Italy,Serie C - Girone C,Giugliano Calcio 1928,32,Ibourahima Baldé,25,Spain,ST,100000.0
+Italy,Serie C - Girone C,Giugliano Calcio 1928,18,Massimo Grasso,19,Italy,ST,10000.0
+Italy,Serie C - Girone C,Potenza Calcio,9,Salvatore Caturano,33,Italy,ST,350000.0
+Italy,Serie C - Girone C,Potenza Calcio,90,Raúl Asencio,25,Spain,ST,250000.0
+Italy,Serie C - Girone C,Potenza Calcio,11,Mattia Rossetti,27,Italy,ST,100000.0
+Italy,Serie C - Girone C,Virtus Francavilla Calcio,9,Gabriele Artistico,21,Italy,ST,200000.0
+Italy,Serie C - Girone C,Virtus Francavilla Calcio,10,Alessandro Polidori,32,Italy,ST,175000.0
+Italy,Serie C - Girone C,Virtus Francavilla Calcio,18,Gianluca Contini,22,Italy,ST,150000.0
+Italy,Serie C - Girone C,Virtus Francavilla Calcio,25,Simone Serio,18,Italy,ST,10000.0
+Italy,Serie C - Girone C,Virtus Francavilla Calcio,29,Angelo Vapore,18,Italy,ST,10000.0
+Italy,Serie C - Girone C,Sorrento 1945,10,Riccardo Martignago,32,Italy,ST,100000.0
+Italy,Serie C - Girone C,Sorrento 1945,77,Ciro Capasso,21,Italy,ST,50000.0
+Italy,Serie C - Girone C,Sorrento 1945,91,Mario Ravasio,25,Italy,ST,150000.0
+Italy,Serie C - Girone C,Brindisi FC,29,Marcello Trotta,31,Italy,ST,300000.0
+Italy,Serie C - Girone C,Brindisi FC,9,Cristian Bunino,27,Italy,ST,175000.0
+Italy,Serie C - Girone C,Brindisi FC,44,Mattia Pagliuca,21,Italy,ST,100000.0
+Italy,Serie C - Girone C,Brindisi FC,19,Angelo Guida,21,Italy,ST,50000.0
+Italy,Serie C - Girone C,Brindisi FC,90,Lorenzo Grassi,19,Italy,ST,25000.0
+Italy,Serie C - Girone C,Brindisi FC,7,Daniele Vantaggiato,39,Italy,ST,10000.0
+Italy,Serie C - Girone C,ACR Messina,28,Vincenzo Plescia,26,Italy,ST,100000.0
+Italy,Serie C - Girone C,ACR Messina,9,Pierluca Luciani,22,Italy,ST,25000.0
+Spain,LaLiga1,Real Madrid,14,Joselu,34,Spain,ST,5000000.0
+Spain,LaLiga1,FC Barcelona,19,Vitor Roque,19,Brazil,ST,40000000.0
+Spain,LaLiga1,FC Barcelona,9,Robert Lewandowski,35,Poland,ST,15000000.0
+Spain,LaLiga1,FC Barcelona,38,Marc Guiu,18,Spain,ST,7500000.0
+Spain,LaLiga1,Real Sociedad,19,Umar Sadiq,27,Nigeria,ST,14000000.0
+Spain,LaLiga1,Real Sociedad,11,Sheraldo Becker,29,Suriname,ST,10000000.0
+Spain,LaLiga1,Real Sociedad,21,André Silva,28,Portugal,ST,7500000.0
+Spain,LaLiga1,Real Sociedad,9,Carlos Fernández,27,Spain,ST,3000000.0
+Spain,LaLiga1,Atlético de Madrid,7,Antoine Griezmann,33,France,ST,25000000.0
+Spain,LaLiga1,Atlético de Madrid,19,Álvaro Morata,31,Spain,ST,20000000.0
+Spain,LaLiga1,Atlético de Madrid,9,Memphis Depay,30,Netherlands,ST,12000000.0
+Spain,LaLiga1,Athletic Bilbao,12,Gorka Guruzeta,27,Spain,ST,15000000.0
+Spain,LaLiga1,Athletic Bilbao,20,Asier Villalibre,26,Spain,ST,2500000.0
+Spain,LaLiga1,Athletic Bilbao,22,Raúl García,37,Spain,ST,2000000.0
+Spain,LaLiga1,Girona FC,9,Artem Dovbyk,26,Ukraine,ST,30000000.0
+Spain,LaLiga1,Girona FC,7,Cristhian Stuani,37,Uruguay,ST,2000000.0
+Spain,LaLiga1,Valencia CF,9,Hugo Duro,24,Spain,ST,16000000.0
+Spain,LaLiga1,Valencia CF,17,Roman Yaremchuk,28,Ukraine,ST,4000000.0
+Spain,LaLiga1,Valencia CF,22,Alberto Marí,22,Spain,ST,800000.0
+Spain,LaLiga1,Villarreal CF,11,Alexander Sørloth,28,Norway,ST,15000000.0
+Spain,LaLiga1,Villarreal CF,7,Gerard Moreno,32,Spain,ST,14000000.0
+Spain,LaLiga1,Villarreal CF,15,José Luis Morales,36,Spain,ST,2000000.0
+Spain,LaLiga1,Villarreal CF,30,Jorge Pascual,21,Spain,ST,1000000.0
+Spain,LaLiga1,Sevilla FC,15,Youssef En-Nesyri,26,Morocco,ST,18000000.0
+Spain,LaLiga1,Sevilla FC,20,Isaac Romero,23,Spain,ST,15000000.0
+Spain,LaLiga1,Sevilla FC,10,Alejo Véliz,20,Argentina,ST,11000000.0
+Spain,LaLiga1,Sevilla FC,9,Rafa Mir,26,Spain,ST,3500000.0
+Spain,LaLiga1,Sevilla FC,12,Mariano Díaz,30,Dominican Republic,ST,2000000.0
+Spain,LaLiga1,Real Betis Balompié,12,Willian José,32,Brazil,ST,6000000.0
+Spain,LaLiga1,Real Betis Balompié,9,Chimy Ávila,30,Argentina,ST,3500000.0
+Spain,LaLiga1,Real Betis Balompié,11,Cédric Bakambu,33,DR Congo,ST,2800000.0
+Spain,LaLiga1,Celta de Vigo,18,Jørgen Strand Larsen,24,Norway,ST,20000000.0
+Spain,LaLiga1,Celta de Vigo,12,Anastasios Douvikas,24,Greece,ST,6000000.0
+Spain,LaLiga1,Celta de Vigo,10,Iago Aspas,36,Spain,ST,3000000.0
+Spain,LaLiga1,CA Osasuna,17,Ante Budimir,32,Croatia,ST,5000000.0
+Spain,LaLiga1,CA Osasuna,23,Raúl García,23,Spain,ST,3000000.0
+Spain,LaLiga1,Deportivo Alavés,32,Samu Omorodion,19,Spain,ST,40000000.0
+Spain,LaLiga1,Deportivo Alavés,20,Giuliano Simeone,21,Argentina,ST,1500000.0
+Spain,LaLiga1,Deportivo Alavés,15,Kike García,34,Spain,ST,1200000.0
+Spain,LaLiga1,UD Las Palmas,16,Sory Kaba,28,Guinea,ST,1800000.0
+Spain,LaLiga1,UD Las Palmas,9,Sandro Ramírez,28,Spain,ST,1500000.0
+Spain,LaLiga1,UD Las Palmas,19,Marc Cardona,28,Spain,ST,1400000.0
+Spain,LaLiga1,UD Las Palmas,7,Cristian Herrera,33,Spain,ST,400000.0
+Spain,LaLiga1,Getafe CF,19,Borja Mayoral,27,Spain,ST,15000000.0
+Spain,LaLiga1,Getafe CF,14,Juanmi Latasa,23,Spain,ST,3000000.0
+Spain,LaLiga1,Getafe CF,7,Jaime Mata,35,Spain,ST,1000000.0
+Spain,LaLiga1,Granada CF,8,Matías Arezo,21,Uruguay,ST,7500000.0
+Spain,LaLiga1,Granada CF,7,Lucas Boyé,28,Argentina,ST,7000000.0
+Spain,LaLiga1,RCD Mallorca,7,Vedat Muriqi,29,Kosovo,ST,15000000.0
+Spain,LaLiga1,RCD Mallorca,17,Cyle Larin,29,Canada,ST,5000000.0
+Spain,LaLiga1,RCD Mallorca,9,Abdón Prats,31,Spain,ST,2000000.0
+Spain,LaLiga1,UD Almería,9,Luis Suárez,26,Colombia,ST,5000000.0
+Spain,LaLiga1,UD Almería,23,Ibrahima Koné,24,Mali,ST,2500000.0
+Spain,LaLiga1,UD Almería,12,Léo Baptistão,31,Brazil,ST,1600000.0
+Spain,LaLiga1,UD Almería,15,Choco Lozano,30,Honduras,ST,1200000.0
+Spain,LaLiga1,UD Almería,29,Marko Milovanovic,20,Serbia,ST,1000000.0
+Spain,LaLiga1,Rayo Vallecano,22,Raúl de Tomás,29,Spain,ST,3000000.0
+Spain,LaLiga1,Rayo Vallecano,34,Sergio Camello,23,Spain,ST,3000000.0
+Spain,LaLiga1,Rayo Vallecano,9,Radamel Falcao,38,Colombia,ST,900000.0
+Spain,LaLiga1,Cádiz CF,16,Chris Ramos,27,Spain,ST,4000000.0
+Spain,LaLiga1,Cádiz CF,25,Maxi Gómez,27,Uruguay,ST,2500000.0
+Spain,LaLiga1,Cádiz CF,7,Rubén Sobrino,31,Spain,ST,1500000.0
+Spain,LaLiga1,Cádiz CF,21,Roger Martí,33,Spain,ST,1500000.0
+Spain,LaLiga1,Cádiz CF,19,Sergi Guardiola,32,Spain,ST,900000.0
+Spain,LaLiga2,RCD Espanyol Barcelona,22,Martin Braithwaite,32,Denmark,ST,3500000.0
+Spain,LaLiga2,RCD Espanyol Barcelona,9,Keita Baldé,29,Senegal,ST,1500000.0
+Spain,LaLiga2,RCD Espanyol Barcelona,34,Omar Sadik,20,Morocco,ST,200000.0
+Spain,LaLiga2,RCD Espanyol Barcelona,39,Gastón Valles,22,Uruguay,ST,200000.0
+Spain,LaLiga2,Real Valladolid CF,9,Marcos André,27,Brazil,ST,2000000.0
+Spain,LaLiga2,Real Valladolid CF,7,Mamadou Sylla,30,Senegal,ST,1500000.0
+Spain,LaLiga2,Real Valladolid CF,21,Álvaro Negredo,38,Spain,ST,500000.0
+Spain,LaLiga2,Real Valladolid CF,35,Iván Cédric,22,Cameroon,ST,400000.0
+Spain,LaLiga2,Real Valladolid CF,38,Israel Salazar,20,Spain,ST,200000.0
+Spain,LaLiga2,Real Zaragoza,19,Manu Vallejo,27,Spain,ST,1800000.0
+Spain,LaLiga2,Real Zaragoza,9,Iván Azón,21,Spain,ST,3000000.0
+Spain,LaLiga2,Real Zaragoza,12,Sinan Bakış,29,Türkiye,ST,1600000.0
+Spain,LaLiga2,Real Zaragoza,23,Sergi Enrich,34,Spain,ST,400000.0
+Spain,LaLiga2,Elche CF,18,Borja Garcés,24,Spain,ST,2000000.0
+Spain,LaLiga2,Elche CF,19,Mourad El Ghezouani,25,Morocco,ST,800000.0
+Spain,LaLiga2,Elche CF,10,Manu Nieto,26,Spain,ST,500000.0
+Spain,LaLiga2,Real Oviedo,9,Borja Bastón,31,Spain,ST,3000000.0
+Spain,LaLiga2,Real Oviedo,14,Alemão,26,Brazil,ST,1500000.0
+Spain,LaLiga2,Real Oviedo,19,Álex Millán,24,Spain,ST,800000.0
+Spain,LaLiga2,Real Oviedo,20,Masca,23,Portugal,ST,600000.0
+Spain,LaLiga2,Sporting Gijón,20,Mario González,28,Spain,ST,2500000.0
+Spain,LaLiga2,Sporting Gijón,23,Uros Djurdjevic,30,Montenegro,ST,1800000.0
+Spain,LaLiga2,Sporting Gijón,11,Víctor Campuzano,26,Spain,ST,1000000.0
+Spain,LaLiga2,Sporting Gijón,31,Esteban Lozano,21,Mexico,ST,100000.0
+Spain,LaLiga2,SD Eibar,18,Jon Bautista,28,Spain,ST,1400000.0
+Spain,LaLiga2,SD Eibar,11,Sergio León,35,Spain,ST,1000000.0
+Spain,LaLiga2,SD Eibar,7,Quique González,33,Spain,ST,600000.0
+Spain,LaLiga2,SD Eibar,9,Yacine Qasmi,33,Morocco,ST,500000.0
+Spain,LaLiga2,Levante UD,22,Mohamed Bouldini,28,Morocco,ST,2500000.0
+Spain,LaLiga2,Levante UD,9,Dani Gómez,25,Spain,ST,1200000.0
+Spain,LaLiga2,Levante UD,12,Fabrício,23,Brazil,ST,800000.0
+Spain,LaLiga2,Levante UD,18,Iván Romero,23,Spain,ST,800000.0
+Spain,LaLiga2,CD Leganés,9,Miguel de la Fuente,24,Spain,ST,2400000.0
+Spain,LaLiga2,CD Leganés,19,Diego García,23,Spain,ST,1500000.0
+Spain,LaLiga2,Racing Santander,17,Peque Fernández,21,Spain,ST,2500000.0
+Spain,LaLiga2,Racing Santander,14,Ekain Zenitagoia,29,Spain,ST,500000.0
+Spain,LaLiga2,Racing Santander,9,Juan Carlos Arana,24,Spain,ST,1200000.0
+Spain,LaLiga2,Racing Santander,11,Andrés Martín,24,Spain,ST,1000000.0
+Spain,LaLiga2,Racing Santander,12,Roko Baturina,23,Croatia,ST,700000.0
+Spain,LaLiga2,Villarreal CF B,9,Álex Forés,23,Spain,ST,1500000.0
+Spain,LaLiga2,Villarreal CF B,11,Jorge Pascual,21,Spain,ST,1000000.0
+Spain,LaLiga2,Villarreal CF B,24,Andrés Ferrari,21,Uruguay,ST,1000000.0
+Spain,LaLiga2,Albacete Balompié,16,Dani Escriche,26,Spain,ST,1200000.0
+Spain,LaLiga2,Albacete Balompié,9,Higinio Marín,30,Spain,ST,1000000.0
+Spain,LaLiga2,Albacete Balompié,21,Alberto Quiles,28,Spain,ST,900000.0
+Spain,LaLiga2,Albacete Balompié,14,Pedro Benito,24,Spain,ST,300000.0
+Spain,LaLiga2,FC Andorra,9,Jon Karrikaburu,21,Spain,ST,2500000.0
+Spain,LaLiga2,FC Andorra,7,Julen Lobete,23,Spain,ST,1500000.0
+Spain,LaLiga2,FC Andorra,19,Aurélien Scheidler,25,France,ST,1000000.0
+Spain,LaLiga2,FC Andorra,24,Pablo Moreno,21,Spain,ST,600000.0
+Spain,LaLiga2,Burgos CF,9,Fer Niño,23,Spain,ST,2000000.0
+Spain,LaLiga2,Burgos CF,19,Edu Espiau,29,Spain,ST,600000.0
+Spain,LaLiga2,CD Tenerife,9,Ángel Rodríguez,36,Spain,ST,500000.0
+Spain,LaLiga2,CD Tenerife,18,Enric Gallego,37,Spain,ST,500000.0
+Spain,LaLiga2,SD Huesca,24,Samuel Obeng,26,Ghana,ST,1000000.0
+Spain,LaLiga2,SD Huesca,16,Jovanny Bolívar,22,Venezuela,ST,300000.0
+Spain,LaLiga2,SD Huesca,18,Rafa Tresaco,23,Spain,ST,100000.0
+Spain,LaLiga2,CD Mirandés,9,Carlos Martín,21,Spain,ST,3000000.0
+Spain,LaLiga2,CD Mirandés,18,Javier Martón,24,Spain,ST,500000.0
+Spain,LaLiga2,CD Mirandés,23,Antonino La Gumina,28,Italy,ST,500000.0
+Spain,LaLiga2,CD Mirandés,29,Lautaro de León,23,Uruguay,ST,300000.0
+Spain,LaLiga2,Racing Ferrol,19,Sabin Merino,32,Spain,ST,500000.0
+Spain,LaLiga2,Racing Ferrol,20,Álvaro Giménez,32,Spain,ST,500000.0
+Spain,LaLiga2,Racing Ferrol,9,Manu Justo,28,Spain,ST,400000.0
+Spain,LaLiga2,CD Eldense,9,Mario Soberón,26,Spain,ST,800000.0
+Spain,LaLiga2,CD Eldense,7,Florin Andone,31,Romania,ST,700000.0
+Spain,LaLiga2,CD Eldense,11,Juanto Ortuño,32,Spain,ST,400000.0
+Spain,LaLiga2,FC Cartagena,12,Juanjo Narváez,29,Colombia,ST,700000.0
+Spain,LaLiga2,FC Cartagena,9,Alfredo Ortuño,33,Spain,ST,600000.0
+Spain,LaLiga2,FC Cartagena,10,Darío Poveda,27,Spain,ST,500000.0
+Spain,LaLiga2,FC Cartagena,35,Iván Ayllón,22,Spain,ST,400000.0
+Spain,LaLiga2,AD Alcorcón,33,Marciano Sanca,20,Guinea-Bissau,ST,1000000.0
+Spain,LaLiga2,AD Alcorcón,11,Dyego Sousa,34,Portugal,ST,600000.0
+Spain,LaLiga2,AD Alcorcón,9,Christian Borrego,27,Spain,ST,500000.0
+Spain,LaLiga2,AD Alcorcón,21,Koldo Obieta,30,Spain,ST,200000.0
+Spain,LaLiga2,SD Amorebieta,19,Jürgen Locadia,30,Curacao,ST,1200000.0
+Spain,LaLiga2,SD Amorebieta,9,Eneko Jauregi,27,Spain,ST,500000.0
+Spain,LaLiga2,SD Amorebieta,23,Iker Unzueta,25,Spain,ST,300000.0
+Spain,Primera Federación - Grupo I,FC Barcelona Atlètic,29,Marc Guiu,18,Spain,ST,7500000.0
+Spain,Primera Federación - Grupo I,FC Barcelona Atlètic,19,Pau Víctor,22,Spain,ST,800000.0
+Spain,Primera Federación - Grupo I,FC Barcelona Atlètic,9,Diego Percan,22,Spain,ST,300000.0
+Spain,Primera Federación - Grupo I,Real Sociedad B,10,Mikel Goti,21,Spain,ST,200000.0
+Spain,Primera Federación - Grupo I,Real Sociedad B,9,Bryan Fiabema,21,Norway,ST,300000.0
+Spain,Primera Federación - Grupo I,Real Sociedad B,19,Ekain Azkune,23,Spain,ST,200000.0
+Spain,Primera Federación - Grupo I,Real Sociedad B,12,Andoni Arzak,21,Spain,ST,50000.0
+Spain,Primera Federación - Grupo I,Real Sociedad B,28,Ekain Orobengoa,19,Spain,ST,50000.0
+Spain,Primera Federación - Grupo I,Deportivo de La Coruña,7,Lucas Pérez,35,Spain,ST,800000.0
+Spain,Primera Federación - Grupo I,Deportivo de La Coruña,9,Iván Barbero,25,Spain,ST,400000.0
+Spain,Primera Federación - Grupo I,Deportivo de La Coruña,12,Raúl Alcaina,23,Spain,ST,200000.0
+Spain,Primera Federación - Grupo I,Deportivo de La Coruña,29,Martín Ochoa,19,Spain,ST,200000.0
+Spain,Primera Federación - Grupo I,SD Ponferradina,9,Borja Valle,31,Spain,ST,500000.0
+Spain,Primera Federación - Grupo I,SD Ponferradina,5,Samuele Longo,32,Italy,ST,300000.0
+Spain,Primera Federación - Grupo I,SD Ponferradina,10,Yuri,41,Brazil,ST,100000.0
+Spain,Primera Federación - Grupo I,CD Lugo,7,Willy Ledesma,35,Spain,ST,300000.0
+Spain,Primera Federación - Grupo I,CD Lugo,11,Antoñín,24,Spain,ST,500000.0
+Spain,Primera Federación - Grupo I,CD Lugo,19,Adrián Fuentes,27,Spain,ST,200000.0
+Spain,Primera Federación - Grupo I,CD Lugo,23,Leandro Antonetti,21,Puerto Rico,ST,100000.0
+Spain,Primera Federación - Grupo I,RC Celta Fortuna,9,Pablo Durán,22,Spain,ST,300000.0
+Spain,Primera Federación - Grupo I,RC Celta Fortuna,16,Dani González,22,Spain,ST,250000.0
+Spain,Primera Federación - Grupo I,RC Celta Fortuna,19,Manu Garrido,23,Spain,ST,200000.0
+Spain,Primera Federación - Grupo I,RC Celta Fortuna,25,Lucas Antañón,20,Spain,ST,50000.0
+Spain,Primera Federación - Grupo I,Real Unión Club,7,Antón Escobar,25,Spain,ST,300000.0
+Spain,Primera Federación - Grupo I,Real Unión Club,12,Peru Ruiz,22,Spain,ST,200000.0
+Spain,Primera Federación - Grupo I,Real Unión Club,9,Asier Benito,29,Spain,ST,150000.0
+Spain,Primera Federación - Grupo I,Cultural Leonesa,9,Guillermo Fernández,30,Spain,ST,300000.0
+Spain,Primera Federación - Grupo I,Cultural Leonesa,19,Dorian Hanza,22,Equatorial Guinea,ST,250000.0
+Spain,Primera Federación - Grupo I,Cultural Leonesa,21,Rodrigo Escudero,30,Spain,ST,250000.0
+Spain,Primera Federación - Grupo I,Gimnàstic de Tarragona,9,Gorka Santamaría,28,Spain,ST,200000.0
+Spain,Primera Federación - Grupo I,Gimnàstic de Tarragona,29,Alan Godoy,20,Spain,ST,200000.0
+Spain,Primera Federación - Grupo I,CA Osasuna Promesas,9,Jorge Aguirre,24,Spain,ST,400000.0
+Spain,Primera Federación - Grupo I,CA Osasuna Promesas,19,Max Svensson,22,Spain,ST,400000.0
+Spain,Primera Federación - Grupo I,CA Osasuna Promesas,7,Rubén Azcona,23,Spain,ST,50000.0
+Spain,Primera Federación - Grupo I,CA Osasuna Promesas,30,Dani Sancho,22,Spain,ST,50000.0
+Spain,Primera Federación - Grupo I,CE Sabadell FC,14,Marcos Baselga,25,Spain,ST,250000.0
+Spain,Primera Federación - Grupo I,CE Sabadell FC,9,Manel Martínez,32,Spain,ST,200000.0
+Spain,Primera Federación - Grupo I,CE Sabadell FC,17,Vladyslav Kopotun,23,Ukraine,ST,100000.0
+Spain,Primera Federación - Grupo I,CF Fuenlabrada,9,Diego Gómez,24,Spain,ST,200000.0
+Spain,Primera Federación - Grupo I,CF Fuenlabrada,20,Sergio Benito,25,Spain,ST,200000.0
+Spain,Primera Federación - Grupo I,CF Fuenlabrada,19,Ilies Faure,22,France,ST,100000.0
+Spain,Primera Federación - Grupo I,CF Rayo Majadahonda,7,Rubén Enri,26,Spain,ST,250000.0
+Spain,Primera Federación - Grupo I,CF Rayo Majadahonda,11,Jeisson Martínez,29,Peru,ST,150000.0
+Spain,Primera Federación - Grupo I,CF Rayo Majadahonda,9,José Luis Cortés,22,Spain,ST,100000.0
+Spain,Primera Federación - Grupo I,Sestao River,17,Kaxe,30,Spain,ST,150000.0
+Spain,Primera Federación - Grupo I,Sestao River,18,Dopi,29,Spain,ST,150000.0
+Spain,Primera Federación - Grupo I,Sestao River,20,Ibai Sanz,20,Spain,ST,100000.0
+Spain,Primera Federación - Grupo I,Unionistas CF,11,Álvaro Gómez,26,Spain,ST,200000.0
+Spain,Primera Federación - Grupo I,Unionistas CF,7,Mario Losada,26,Spain,ST,250000.0
+Spain,Primera Federación - Grupo I,Unionistas CF,9,Slavy,21,Bulgaria,ST,250000.0
+Spain,Primera Federación - Grupo I,Unionistas CF,19,Jon Etxaniz,33,Spain,ST,150000.0
+Spain,Primera Federación - Grupo I,CD Arenteiro,9,Manin Gonzaga,24,Spain,ST,200000.0
+Spain,Primera Federación - Grupo I,CD Arenteiro,7,Christian Santos,36,Venezuela,ST,150000.0
+Spain,Primera Federación - Grupo I,CD Arenteiro,19,Iván Ramos,22,Spain,ST,150000.0
+Spain,Primera Federación - Grupo I,CD Teruel,18,Toni Gabarre,33,Spain,ST,200000.0
+Spain,Primera Federación - Grupo I,CD Teruel,19,Daniel Villanueva,26,Spain,ST,200000.0
+Spain,Primera Federación - Grupo I,CD Teruel,9,Guillem Naranjo,23,Spain,ST,150000.0
+Spain,Primera Federación - Grupo I,UE Cornellà,10,Clau Mendes,23,Guinea-Bissau,ST,300000.0
+Spain,Primera Federación - Grupo I,UE Cornellà,23,Marc Tenas,22,Spain,ST,250000.0
+Spain,Primera Federación - Grupo I,SD Tarazona,9,Christian Dieste,28,Spain,ST,150000.0
+Spain,Primera Federación - Grupo I,SD Tarazona,11,David Cubillas,33,Spain,ST,100000.0
+Spain,Primera Federación - Grupo I,SD Tarazona,12,Kader Drissa Ballo,22,Cote d'Ivoire,ST,50000.0
+Spain,Primera Federación - Grupo I,SD Logroñés,17,Jordi Escobar,22,Spain,ST,200000.0
+Spain,Primera Federación - Grupo I,SD Logroñés,-,Rubio,28,Spain,ST,150000.0
+Spain,Primera Federación - Grupo I,SD Logroñés,11,Marc Andre Schmerböck,30,Austria,ST,150000.0
+Spain,Primera Federación - Grupo I,SD Logroñés,9,Fabián Luzzi,19,Spain,ST,100000.0
+Spain,Primera Federación - Grupo I,SD Logroñés,27,Álex Jaraiz,21,Spain,ST,50000.0
+Spain,Primera Federación - Grupo II,Real Madrid Castilla,9,Álvaro Rodríguez,19,Uruguay,ST,3500000.0
+Spain,Primera Federación - Grupo II,Real Madrid Castilla,7,Noel López,21,Spain,ST,300000.0
+Spain,Primera Federación - Grupo II,Málaga CF,19,Roberto Fernández,21,Spain,ST,600000.0
+Spain,Primera Federación - Grupo II,Málaga CF,17,Dioni,34,Spain,ST,500000.0
+Spain,Primera Federación - Grupo II,UD Ibiza,9,Nikolay Obolskiy,27,Russia,ST,500000.0
+Spain,Primera Federación - Grupo II,UD Ibiza,18,Cedric Omoigui,29,Nigeria,ST,400000.0
+Spain,Primera Federación - Grupo II,UD Ibiza,20,Roberto Arroyo,20,Spain,ST,300000.0
+Spain,Primera Federación - Grupo II,CD Castellón,9,Jesús de Miguel,27,Spain,ST,500000.0
+Spain,Primera Federación - Grupo II,CD Castellón,6,Lars Veldwijk,32,South Africa,ST,400000.0
+Spain,Primera Federación - Grupo II,Córdoba CF,7,Kike Márquez,34,Spain,ST,350000.0
+Spain,Primera Federación - Grupo II,Córdoba CF,11,Álvaro Leiva,19,Spain,ST,200000.0
+Spain,Primera Federación - Grupo II,Córdoba CF,20,Antonio Casas,24,Spain,ST,500000.0
+Spain,Primera Federación - Grupo II,Córdoba CF,19,Alberto Toril,26,Spain,ST,200000.0
+Spain,Primera Federación - Grupo II,Atlético de Madrid B,7,Diego Bri,21,Spain,ST,300000.0
+Spain,Primera Federación - Grupo II,Atlético de Madrid B,17,Adrián Niño,19,Spain,ST,300000.0
+Spain,Primera Federación - Grupo II,Atlético de Madrid B,21,Abde Raihani,20,Morocco,ST,300000.0
+Spain,Primera Federación - Grupo II,Atlético de Madrid B,9,Nabil Touaizi,23,Morocco,ST,200000.0
+Spain,Primera Federación - Grupo II,AD Ceuta FC,9,Rodri Ríos,33,Spain,ST,400000.0
+Spain,Primera Federación - Grupo II,AD Ceuta FC,19,Dani Romera,28,Spain,ST,300000.0
+Spain,Primera Federación - Grupo II,AD Ceuta FC,11,Pablo García,25,Spain,ST,250000.0
+Spain,Primera Federación - Grupo II,AD Ceuta FC,18,Sofiane El Ftouhi,23,France,ST,100000.0
+Spain,Primera Federación - Grupo II,Real Murcia CF,11,José Ángel Carrillo,30,Spain,ST,400000.0
+Spain,Primera Federación - Grupo II,Real Murcia CF,9,Amin Bouzaig,26,Morocco,ST,250000.0
+Spain,Primera Federación - Grupo II,Real Murcia CF,25,Álex Rubio,21,Spain,ST,100000.0
+Spain,Primera Federación - Grupo II,CD Atlético Baleares,7,Nuha Marong,30,The Gambia,ST,150000.0
+Spain,Primera Federación - Grupo II,CD Atlético Baleares,16,David Rodríguez,38,Spain,ST,150000.0
+Spain,Primera Federación - Grupo II,CD Atlético Baleares,29,Juan Piera,19,Spain,ST,50000.0
+Spain,Primera Federación - Grupo II,CF Intercity,8,Emilio Nsue,34,Equatorial Guinea,ST,250000.0
+Spain,Primera Federación - Grupo II,CF Intercity,17,Simón Moreno,26,Spain,ST,200000.0
+Spain,Primera Federación - Grupo II,Algeciras CF,21,Stefan Milosevic,27,Montenegro,ST,250000.0
+Spain,Primera Federación - Grupo II,Algeciras CF,9,Javi Cueto,23,Spain,ST,200000.0
+Spain,Primera Federación - Grupo II,Recreativo Huelva,9,Miguelete,22,Spain,ST,200000.0
+Spain,Primera Federación - Grupo II,Recreativo Huelva,11,Caye Quintana,30,Spain,ST,200000.0
+Spain,Primera Federación - Grupo II,Recreativo Huelva,16,Pablo Caballero,37,Argentina,ST,50000.0
+Spain,Primera Federación - Grupo II,San Fernando CD,11,Dani Aquino,33,Spain,ST,250000.0
+Spain,Primera Federación - Grupo II,San Fernando CD,9,Marcelo dos Santos,26,Brazil,ST,150000.0
+Spain,Primera Federación - Grupo II,UD Melilla,15,Beka Kavtaradze,24,Georgia,ST,300000.0
+Spain,Primera Federación - Grupo II,UD Melilla,20,Dani García,25,Spain,ST,300000.0
+Spain,Primera Federación - Grupo II,UD Melilla,9,José Enrique,28,Spain,ST,200000.0
+Spain,Primera Federación - Grupo II,UD Melilla,23,Mamor Niang,22,Senegal,ST,150000.0
+Spain,Primera Federación - Grupo II,Atlético Sanluqueño,10,Alex Escardó,25,Spain,ST,200000.0
+Spain,Primera Federación - Grupo II,Atlético Sanluqueño,19,Francisco Mwepu,24,Zambia,ST,300000.0
+Spain,Primera Federación - Grupo II,Atlético Sanluqueño,7,Nacho Ramón,25,Spain,ST,150000.0
+Spain,Primera Federación - Grupo II,Atlético Sanluqueño,9,Airam Cabrera,36,Spain,ST,100000.0
+Spain,Primera Federación - Grupo II,Atlético Sanluqueño,11,Diego Talaverón,22,Spain,ST,100000.0
+Spain,Primera Federación - Grupo II,CD Alcoyano,9,Mikel Pradera,28,Spain,ST,250000.0
+Spain,Primera Federación - Grupo II,CD Alcoyano,10,Agüero,28,Spain,ST,200000.0
+Spain,Primera Federación - Grupo II,CD Alcoyano,12,Dani Selma,23,Spain,ST,150000.0
+Spain,Primera Federación - Grupo II,Mérida AD,17,Álvaro Juan,24,Spain,ST,150000.0
+Spain,Primera Federación - Grupo II,Mérida AD,9,Chuma,27,Spain,ST,200000.0
+Spain,Primera Federación - Grupo II,Mérida AD,11,Mohamed Mizzian,24,Morocco,ST,150000.0
+Spain,Primera Federación - Grupo II,Mérida AD,18,Jorge Padilla,22,Spain,ST,150000.0
+Spain,Primera Federación - Grupo II,Mérida AD,20,Iñaki Elejalde,25,Spain,ST,150000.0
+Spain,Primera Federación - Grupo II,Mérida AD,27,Pepe Sáinz,22,Spain,ST,
+Spain,Primera Federación - Grupo II,Recreativo Granada,12,Serigne Faye,20,Senegal,ST,250000.0
+Spain,Primera Federación - Grupo II,Recreativo Granada,16,Adam Griger,20,Slovakia,ST,200000.0
+Spain,Primera Federación - Grupo II,Recreativo Granada,14,Pablo Sáenz,22,Spain,ST,100000.0
+Spain,Primera Federación - Grupo II,Recreativo Granada,26,Paco Cantal,21,Spain,ST,50000.0
+Spain,Primera Federación - Grupo II,Recreativo Granada,36,Eghosa Bello,20,Nigeria,ST,50000.0
+Spain,Primera Federación - Grupo II,Linares Deportivo,7,Hugo Díaz,36,Spain,ST,200000.0
+Spain,Primera Federación - Grupo II,Linares Deportivo,9,Álvaro Vázquez,32,Spain,ST,150000.0
+Spain,Primera Federación - Grupo II,Linares Deportivo,14,Samuel Corral,32,Spain,ST,150000.0
+Spain,Primera Federación - Grupo II,Linares Deportivo,29,Zaki,21,Spain,ST,50000.0
+Spain,Segunda Federación - Grupo I,Zamora CF,7,Dani Hernández,31,Spain,ST,100000.0
+Spain,Segunda Federación - Grupo I,Zamora CF,4,Alejandro Cañizo,24,Spain,ST,150000.0
+Spain,Segunda Federación - Grupo I,Zamora CF,9,Pito Camacho,34,Spain,ST,150000.0
+Spain,Segunda Federación - Grupo I,Zamora CF,18,Sergi Baldrich,20,Spain,ST,100000.0
+Spain,Segunda Federación - Grupo I,Real Valladolid Promesas,9,Iván Cédric,22,Cameroon,ST,400000.0
+Spain,Segunda Federación - Grupo I,Real Valladolid Promesas,7,Israel Salazar,20,Spain,ST,200000.0
+Spain,Segunda Federación - Grupo I,Real Valladolid Promesas,17,Dani Fernández,22,Spain,ST,200000.0
+Spain,Segunda Federación - Grupo I,Real Valladolid Promesas,29,Adrián Arnu,17,Spain,ST,200000.0
+Spain,Segunda Federación - Grupo I,Real Valladolid Promesas,19,Yago Paredes,19,Spain,ST,100000.0
+Spain,Segunda Federación - Grupo I,Pontevedra CF,21,Carlos López,28,Spain,ST,250000.0
+Spain,Segunda Federación - Grupo I,Pontevedra CF,9,Rufo Sánchez,37,Spain,ST,100000.0
+Spain,Segunda Federación - Grupo I,SD Compostela,9,Manu Barreiro,37,Spain,ST,100000.0
+Spain,Segunda Federación - Grupo I,SD Compostela,12,David Grande,33,Spain,ST,100000.0
+Spain,Segunda Federación - Grupo I,SD Compostela,18,Hugo Matos,20,Spain,ST,25000.0
+Spain,Segunda Federación - Grupo I,Gimnástica de Torrelavega,17,Javi Delgado,28,Spain,ST,200000.0
+Spain,Segunda Federación - Grupo I,Gimnástica de Torrelavega,9,Carlos Tobar,30,Spain,ST,100000.0
+Spain,Segunda Federación - Grupo I,Rayo Cantabria,19,Álvaro Santamaría,22,Spain,ST,200000.0
+Spain,Segunda Federación - Grupo I,Rayo Cantabria,9,Jorge Delgado,21,Spain,ST,150000.0
+Spain,Segunda Federación - Grupo I,Real Avilés Industrial,18,Claudio Medina,30,Spain,ST,200000.0
+Spain,Segunda Federación - Grupo I,Real Avilés Industrial,19,Natalio,39,Spain,ST,100000.0
+Spain,Segunda Federación - Grupo I,Real Oviedo Vetusta,10,Santi Miguélez,22,Spain,ST,200000.0
+Spain,Segunda Federación - Grupo I,Real Oviedo Vetusta,9,Enol Rodríguez,22,Spain,ST,150000.0
+Spain,Segunda Federación - Grupo I,Real Oviedo Vetusta,19,Xabier Sola,21,Spain,ST,100000.0
+Spain,Segunda Federación - Grupo I,Ourense CF,9,Gonzalo Di Renzo,28,Argentina,ST,100000.0
+Spain,Segunda Federación - Grupo I,Ourense CF,19,Gabri Palmás,25,Spain,ST,50000.0
+Spain,Segunda Federación - Grupo I,Ourense CF,16,Diego Rodríguez,20,Spain,ST,25000.0
+Spain,Segunda Federación - Grupo I,CD Guijuelo,21,Alberto Bernardo,25,Spain,ST,100000.0
+Spain,Segunda Federación - Grupo I,CD Guijuelo,19,Francisco Panadero,26,Spain,ST,150000.0
+Spain,Segunda Federación - Grupo I,CD Guijuelo,9,Juan Antonio Sánchez,33,Spain,ST,100000.0
+Spain,Segunda Federación - Grupo I,RC Deportivo Fabril,9,Martín Ochoa,19,Spain,ST,200000.0
+Spain,Segunda Federación - Grupo I,RC Deportivo Fabril,23,Kevin Sánchez,19,Spain,ST,200000.0
+Spain,Segunda Federación - Grupo I,RC Deportivo Fabril,20,Jorge Martínez,25,Spain,ST,150000.0
+Spain,Segunda Federación - Grupo I,RC Deportivo Fabril,22,Mati Castillo,22,Spain,ST,150000.0
+Spain,Segunda Federación - Grupo I,Marino Luanco,7,Diego Díaz,25,Spain,ST,50000.0
+Spain,Segunda Federación - Grupo I,Marino Luanco,9,Sergio Mendigutxia,30,Spain,ST,200000.0
+Spain,Segunda Federación - Grupo I,Marino Luanco,18,Abraham Nobrega,20,Spain,ST,50000.0
+Spain,Segunda Federación - Grupo I,Marino Luanco,8,Dani Sandoval,24,Spain,ST,25000.0
+Spain,Segunda Federación - Grupo I,Marino Luanco,23,Hugo Salinas,19,Spain,ST,25000.0
+Spain,Segunda Federación - Grupo I,Coruxo FC,9,Davo,23,Spain,ST,150000.0
+Spain,Segunda Federación - Grupo I,Coruxo FC,21,Erik Bugarín,20,Spain,ST,25000.0
+Spain,Segunda Federación - Grupo I,UP Langreo,18,Nané García,28,Spain,ST,150000.0
+Spain,Segunda Federación - Grupo I,UP Langreo,17,Steven Prieto,26,Spain,ST,50000.0
+Spain,Segunda Federación - Grupo I,UP Langreo,24,Pablo Ares,20,Spain,ST,25000.0
+Spain,Segunda Federación - Grupo I,Arandina CF,14,Adrián Pérez,28,Spain,ST,100000.0
+Spain,Segunda Federación - Grupo I,Arandina CF,9,Alfredo Sualdea,25,Spain,ST,200000.0
+Spain,Segunda Federación - Grupo I,Arandina CF,21,Gonzalo Serrano,21,Spain,ST,100000.0
+Spain,Segunda Federación - Grupo I,Racing Villalbés,12,Ibrahima Dieng,26,Senegal,ST,100000.0
+Spain,Segunda Federación - Grupo I,Racing Villalbés,9,Izan Fernández,20,Spain,ST,25000.0
+Spain,Segunda Federación - Grupo I,CD Covadonga,9,Ariel Herrero,24,Spain,ST,150000.0
+Spain,Segunda Federación - Grupo I,CD Covadonga,11,Samu Pérez,22,Spain,ST,100000.0
+Spain,Segunda Federación - Grupo I,CD Covadonga,15,Adrián Turmo,23,Spain,ST,50000.0
+Spain,Segunda Federación - Grupo I,CD Cayón,20,Dani Salas,24,Spain,ST,100000.0
+Spain,Segunda Federación - Grupo I,CD Cayón,9,Pedro Méndez,19,Spain,ST,25000.0

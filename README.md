@@ -1,12 +1,12 @@
 # ⚽ second_project (팀 프로젝트)
 
-![image](OOF_배경화면.jpg)
+![image](.etc/OOF_Cover.jpg)
 
 ## OOF(Oracle of Football) 플랫폼 구축 프로젝트
 
 ### 📅 제작 기간
 - 2024년 4월 18일 ~ 4월 25일
-- 팀 프로젝트
+- 팀 사이드 프로젝트
 - 7명
 
 ### 🎯 기획 목표
@@ -90,7 +90,7 @@
 2. **AI 모델링(4) 에서 승부 예측을 하는데 예측값이 너무 '승' 쪽으로 편향되어있는 현상 발생**
     <details>
       <summary>편향된 승부 예측</summary>
-      <img src="실제값,예측값.jpg" alt="승부예측">
+      <img src=".etc/실제값,예측값.jpg" alt="승부예측">
     </details>
    <br>
     
@@ -98,12 +98,12 @@
      
        <details>
            <summary>골고루 퍼진 승부 예측</summary>
-           <img src="실제값,예측값1.jpg" alt="승부예측">
+           <img src=".etc/실제값,예측값1.jpg" alt="승부예측">
        </details>
     
 ## 🚀 중점 사항
-- WBS 상시 확인: 과업별 진도 파악을 통한 기한 내 프로젝트 완성에 주력 [WBS](WBS%20및%20수행일지.xlsx)
-- 코드 컨벤션 기반 코딩 주력: 생산성 향상 및 코드 인계간 빠른 의사결정으로 과업 진행 [코드컨벤션](데이터분석_코드컨벤션_0.1.pptx.pptx의%20사본)
+- WBS 상시 확인: 과업별 진도 파악을 통한 기한 내 프로젝트 완성에 주력 [WBS](https://docs.google.com/spreadsheets/d/1aZ0PKQ-WqCba2cDA4PHFgUip99K_hazG/edit?usp=drive_link&ouid=109557878554180109960&rtpof=true&sd=true)
+- 코드 컨벤션 기반 코딩 주력: 생산성 향상 및 코드 인계간 빠른 의사결정으로 과업 진행 [코드컨벤션](https://drive.google.com/file/d/1J0f89huNJX8qhHh2VusNs3GMNb2LMXWH/view?usp=drive_link)
 - 데이터 EDA 및 리뷰 강조
 - 기능별 구현을 위한 다양한 함수(머신러닝, 딥러닝 내장 함수) 적용 및 리뷰, 선정
 - 주 사용자, 즉 고객 입장에서의 서비스/기능 정의 및 구현에 주력
@@ -116,8 +116,8 @@
 - 승부예측 모델에 대한 산포가 좀 더 골고루 퍼져 있는 모델 개발 필요
 
 ## 📂 산출물 
-- 🎬 시연영상: [시연영상 링크](2차%20프로젝트(동영상).mp4)
-- 📄 팀 포트폴리오: [팀 포트폴리오](OOF_Final_PJT.pdf)
+- 🎬 시연영상: [시연영상 링크](https://drive.google.com/file/d/1IRQQIIBR5HGicPtS-K48FtYNmLUjszFJ/view?usp=drive_link)
+- 📄 팀 포트폴리오: [팀 포트폴리오](https://drive.google.com/file/d/1GFKEBY7bqfkwbLAU1WF-mf9w-JVZ7qGV/view?usp=drive_link)
 - 🌐 스트림릿: [스트림릿 링크](https://sayoof-adios.streamlit.app/)
 
 ---
